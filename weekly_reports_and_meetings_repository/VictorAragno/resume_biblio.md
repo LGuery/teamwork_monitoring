@@ -27,15 +27,17 @@ Choix ideologiques et pratiques sur la conception:
 - Choix des variables explicatives 
 
 - Choix de la stratification spatiale: quadrillage de carre de 1°, 5°. 
+- Choix de la stratification spatiale: quadrillage de carre de 1d, 5d. 
 Laurec (1977) la relation entre CPUE et abondance peut etre altere par une repartition non aleatoire des thons dans la surface marine.
 
 - Choix de la stratification spatio-temporelle
 
 Un choix arbitraire retenu neanmoins comme acceptable est une duree de 3j pour un carre de 1° (Fonteneau, 1986, 1991, Foucher, 1994, Ravier et al., 2000)
+Un choix arbitraire retenu neanmoins comme acceptable est une duree de 3j pour un carre de 1d (Fonteneau, 1986, 1991, Foucher, 1994, Ravier et al., 2000)
 
 ###Annee 2005 et forte concentration. Fonteneau (2008)
 
-Une forte concentration de thons a ete repertorie en 2005 dans l'ocean atlantique. Cette concentration se situe dans une zone d'environ 3500miles² soit un carre de 6°(45;50)°E, (3;8)°S, . Nous avons capture dans cette zone 22 000tones de YFT en 12 jours. Soit 6.5% de la mortalite totale par peche pour l'annee. 
+Une forte concentration de thons a ete repertorie en 2005 dans l'ocean atlantique. Cette concentration se situe dans une zone d'environ 3500miles carre soit un carre de 6d (45;50)d E, (3;8)d S, . Nous avons capture dans cette zone 22 000tones de YFT en 12 jours. Soit 6.5% de la mortalite totale par peche pour l'annee. 
 CPUE cette annee: 65t/j
 prise moyenne par calee positive: 85t
 
@@ -45,16 +47,16 @@ Resume suppose : forte concentration phytoplancton -> forte biomasse de proie ->
 
 ###etude des concentrations Mohamed Toihir (2009)
 
-Augmentation du nombre de "concentration" (capture > 500t pour une trihade 3j-1°) autour de 2004 
+Augmentation du nombre de "concentration" (capture > 500t pour une trihade 3j-1d) autour de 2004 
 La zone de forte peche de 2005 est une zone ou generalement sont observes de fortes concentrations de YFT. 
 Disparite saisonniere: sur 126 concentrations bancs libres, 54 ont eu lieu pendant le 1er trimestre (periode de reproduction des YFT), 29 pendant le 2eme trimestre, 17 pour le 3eme trimestre et 26 au cours du 4eme trimestre.
-"Pour la concentration n° 103 d'albacore (Figure 16a) les prises et l'effort evoluent de façon croissante au cours de l'exploitation jusqu'a epuisement de la ressource" La concentration n°103 fait reference a celle evoque par fonteneau mais sur une zone plus large.
+"Pour la concentration num 103 d'albacore (Figure 16a) les prises et l'effort evoluent de facon croissante au cours de l'exploitation jusqu'a epuisement de la ressource" La concentration num 103 fait reference a celle evoque par fonteneau mais sur une zone plus large.
 
 ####Temperature de surface
 
 (Marche pour le southern bluefin tuna) la capturabilite de cette espece augmente avec l'arrivee d'eau froide provenant du sud de l'ocean indien. Hsueh Jung LU (2008)
 
-Variation des temperatures de surface pour les annees 1993-2004 a la Reunion: correlation negative entre CPUE et la temperature de surface (SST) François Conand (2007)
+Variation des temperatures de surface pour les annees 1993-2004 a la Reunion: correlation negative entre CPUE et la temperature de surface (SST) Francois Conand (2007)
 
 ###Reduction de la biomasse apres grosses captures
 
@@ -68,5 +70,8 @@ modele d'estimation a trois composantes
 
 ###VAST vecteur auto-regressif spatio temporelle - delta GLMM. vignette VAST
 
-inclut une clustering affin de reduire le nombre de cellule geographique (2000 -> 400)
-modele a trois composantes: taux de rencontre et ratio prise positive
+Vast est un package servant entre autre a calculer des indices d'abondance. Il utilise pour se faire un modele a deux composantes. Une composance modelisant la probabilite de rencontre l'autre le taux de capture. Les modeles utilises sont de type GLM avec selection de modele basic type AIC ou crossvalidation. Ces modeles peuvent inclure des variation spatio et/ou-spatio temporelle. [James T.Thorson 2019](https://reader.elsevier.com/reader/sd/pii/S0165783618302820?token=76FFF5B826DDE56886047417091B0B2EF75184B35D3169E863CA15DB9CF018F70338FCDB6BCD7918128D0F6A8979B7BC)
+
+A detailler.
+
+Pour des raisons de calculabilit�, ils utilisent pr�alablement une clusterisation des aires g�ographiques par k-means. Assumant l'hypothese que chaque aire suit la meme loi que le "centre" le plus proche. 
