@@ -26,6 +26,24 @@ Quel est le rendu final attendu (rédaction d'un rapport, article) ?
 
 ### Victor
 
+  Lors du calcul de la CPUE, une augmentation suspecte est apparue dans certaines
+zones de l'ocean indien lors des annees entre 2003 et 2005. Ce travail consiste donc a
+approfondir l'etude de la CPUE dans cette periode avec l'hypothese que cette
+augmentation ne soit pas ou pas totalement en partie due a une augmentation de
+l'abondance.
+
+Le premier element de reponse sera l'evolution de la densite des tailles de thon sur
+cette periode et dans ces zones. Une augmentation significative de la moyenne des
+tailles de thon captures dans ces zones pourrait pourrait confirmer l'evolution de
+l'abondance. Cependant cette hausse de la CPUE est multi-factorielle, certaines
+questions seront a approfondir :
+
+- Cette augmentation de la CPUE est elle correlee a une augmentation de la
+concentration d'autres organismes / especes ?
+
+- Est-il possible que ces zones a forte CPUE soit des niches jusque-la ignorees par les
+pecheurs ?
+
 ### Ilan
 
 
