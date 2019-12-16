@@ -26,13 +26,11 @@ Choix ideologiques et pratiques sur la conception:
 
 - Choix des variables explicatives 
 
-- Choix de la stratification spatiale: quadrillage de carre de 1°, 5°. 
 - Choix de la stratification spatiale: quadrillage de carre de 1d, 5d. 
 Laurec (1977) la relation entre CPUE et abondance peut etre altere par une repartition non aleatoire des thons dans la surface marine.
 
 - Choix de la stratification spatio-temporelle
 
-Un choix arbitraire retenu neanmoins comme acceptable est une duree de 3j pour un carre de 1° (Fonteneau, 1986, 1991, Foucher, 1994, Ravier et al., 2000)
 Un choix arbitraire retenu neanmoins comme acceptable est une duree de 3j pour un carre de 1d (Fonteneau, 1986, 1991, Foucher, 1994, Ravier et al., 2000)
 
 ###Annee 2005 et forte concentration. Fonteneau (2008)
@@ -74,4 +72,4 @@ Vast est un package servant entre autre a calculer des indices d'abondance. Il u
 
 A detailler.
 
-Pour des raisons de calculabilit�, ils utilisent pr�alablement une clusterisation des aires g�ographiques par k-means. Assumant l'hypothese que chaque aire suit la meme loi que le "centre" le plus proche. 
+Pour des raisons de calculabilite, ils utilisent prealablement une clusterisation des aires geographiques par k-means. Assumant l'hypothese que chaque aire suit la meme loi que le "centre" le plus proche. 
