@@ -10,7 +10,7 @@
 
 #### Agenda  
 
-* Presentation of the supervision team: Daniel, Lorelei and Matthieu  
+* Presentation of the supervision team: Daniel, Lorelei and Matthieu  :busts_in_silhouette: : 
 
 
 * Presenting the PhD project:
@@ -27,16 +27,38 @@
   :three:Assess the temporal and spatial evolution of ZFH, the connectivity between them and find if these zones are relevant for bycatch species as sharks  :shark:  
   
   :four: Use the knowledge acquired on ZFH to evalutate the moratorias and propose new type of moratorium based on adapted spatio-temporal strata  
+  ry for 
+  + Partipation to ICCAT  :earth_africa: & IOTC  :earth_asia: :  
   
-  + 
-  
+ :arrow_right:16-23 July 2020: Dakar Symposium of AOTTP + Data preparatory  
  
-  
-* 
-
-  
-  
-  
+ :arrow_right: ~October 2020: Maldivies IOTC  
  
-
+ :arrow_right: 2021: Working group "Ecosystems" ICCAT + Sharks  
+ 
+ 
+ * Implications of each supervisor :eyes: :  
+ 
+ Everybody in copy of all emails, we'll see after  
+ 
+ * Organization of meetings/reports :calendar: :
+ 
+ :arrow_right: Weekly report each week on the [github](https://github.com/LGuery/teamwork_monitoring/tree/master/weekly_reports_and_meetings_repository/IlanPerez)  
+ 
+ :arrow_right: 1 skype/month with Matthieu for briefing/avancement....  
+ 
+ 
+  :arrow_right: Mini-commity each :three: months with a presentation of preliminary results :chart_with_upwards_trend:  
   
+  :arrow_right: GDR Ecostat Grants to move to La Rochelle  
+   
+   
+   * Communication & collaboration platforms :left_right_arrow: :  
+   
+   :arrow_right: GitHub will be used to monitor: :one: weekly the issues and solutions (see above), :two: the current work/scripts etc under .rmd format in the repository [tuna_dream_team](https://github.com/polarbear-tataki/tuna_dream_team) .  
+   
+   :arrow_right: [Slack](https://app.slack.com/client/TRQNP7NNQ/CRQNP8HC4) will be used to interact on diffrent subjects, in a clearer way than long strings of emails. We can follow what happens on the GitHub repository directly in the chanel discussion.  
+   
+   
+   # LET'S GOOOOOOOOOOOOO!
+   
