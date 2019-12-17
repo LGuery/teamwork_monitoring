@@ -10,10 +10,10 @@
 
 #### Agenda  
 
-*Presentation of the supervision team: Daniel, Lorelei and Matthieu  
+* Presentation of the supervision team: Daniel, Lorelei and Matthieu  
 
 
-*Presenting the PhD project:
+* Presenting the PhD project:
   +Objectives of the project:  
   :arrow_right: 3 big questions around the tropical tuna fisheries under FADs: :one: effects of FADs on high seas populations, communities & ecosystems, :two: efficiency of moratorias in Atlantic ocean and :three: we don't know what Fisheries Functionnal Zones (FFZ or ZFH) are for yellowfin (YFT), skipjack (SKPJ) and Big Eye (BET) tunas.  
   
