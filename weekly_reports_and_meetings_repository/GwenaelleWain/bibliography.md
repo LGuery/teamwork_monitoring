@@ -92,6 +92,17 @@ Comparaison entre les points de peche issus des logbook et les trajets des batea
 Pour les logbook : l'effort est calcule dans chaque rectangle ICES comme le nombre de jour en mer. Si un bateau passe sur pluisieurs rectangle on repartit le nombre de jours en mer entre les rectangles. [@Natale2015]    
 Les deux approchs donnent un distribution spatiale de l'effort similaire [@Natale2015]    
 
+Utilisation des logbooks pour recenser les activités de pêche [@Torres-Irineo2014]  
+Comparaison entre pêche sur banc libre et pêche sur FAD [@Torres-Irineo2014]  
+Essaye de comprendre comment les améliorations sur les bateaux influencent les prises [@Torres-Irineo2014]  
+L'effort de pêche est le nombre de jours où pêche sur FAD / nombre de jours en mer [@Torres-Irineo2014]  
+Les données nécessaires pour une bonne estimation des prises sur FAD [@Torres-Irineo2014] : 
+
+* le nombre de FAD déployées par bateau  
+* le temps de déploiement par FAD
+* la distance entre les FAD
+* la méthode de détection des FAD  
+
 
 <span style="color:#fb4141">L'effort de peche peut se calculer via le temps de recherche.  
 Mais pour les DCP, le choix des zones n'est pas lie au hasard.  
@@ -195,6 +206,8 @@ Snouck-Hurgronje, Julia E., David M. Kaplan, Emmanuel Chassot, Alexandra Maufroy
 Soto, M, P PallarÃ©s, A Delgado De Molina, and D Gaertner. 2008. â€œStandardized Cpue for Juvenile Yellowfin, Skipjack and Bigeye Tuna From the European Purse Seine Fleet in the Atlantic Ocean From 1991 To 2006.â€ SCRS Sci. Pap. ICCAT 116 (644): 1044â€“53.
 
 Tolentino-Zondervan, Frazen, Paul Berentsen, Simon R. Bush, and Alfons Oude Lansink. 2018. â€œFAD vs. free school: Effort allocation by Marine Stewardship Council compliant Filipino tuna purse seiners in the PNA.â€ Marine Policy 90 (December 2017). Elsevier Ltd: 137â€“45. doi:10.1016/j.marpol.2017.12.025.
+
+Torres-Irineo, Edgar, Daniel Gaertner, Emmanuel Chassot, and Michel Dreyfus-León. 2014. "Changes in fishing power and fishing strategies driven by new technologies: The case of tropical tuna purse seiners in the eastern Atlantic Ocean." Fisheries Research 155. Elsevier B.V.: 10-19. doi:10.1016/j.fishres.2014.02.017.  
 
 Xu, Haikun, Cleridy E. Lennert-Cody, Mark N. Maunder, and Carolina V. Minte-Vera. 2019. â€œSpatiotemporal dynamics of the dolphin-associated purse-seine fishery for yellowfin tuna (Thunnus albacares) in the eastern Pacific Ocean.â€ Fisheries Research 213 (January): 121â€“31. doi:10.1016/j.fishres.2019.01.013.
 
