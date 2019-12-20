@@ -36,6 +36,13 @@ Comparaison des CPUE non standardisées entre les deux jeux de données
 Pour l'instant pas d'information sur les prises dans le jeu de données.  
 
 ### Victor
+#### A faire
+
+Etudes en faisant varier les variables temporelles et geographiques:
+
+- Concentration des captures
+- Frequence des tailles
+- Proportion BO/BL
 
 
 ### Ilan
