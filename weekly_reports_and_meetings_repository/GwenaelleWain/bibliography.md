@@ -92,6 +92,17 @@ Comparaison entre les points de peche issus des logbook et les trajets des batea
 Pour les logbook : l'effort est calcule dans chaque rectangle ICES comme le nombre de jour en mer. Si un bateau passe sur pluisieurs rectangle on repartit le nombre de jours en mer entre les rectangles. [@Natale2015]    
 Les deux approchs donnent un distribution spatiale de l'effort similaire [@Natale2015]    
 
+Utilisation des logbooks pour recenser les activités de pêche [@Torres-Irineo2014]  
+Comparaison entre pêche sur banc libre et pêche sur FAD [@Torres-Irineo2014]  
+Essaye de comprendre comment les améliorations sur les bateaux influencent les prises [@Torres-Irineo2014]  
+L'effort de pêche est le nombre de jours où pêche sur FAD / nombre de jours en mer [@Torres-Irineo2014]  
+Les données nécessaires pour une bonne estimation des prises sur FAD [@Torres-Irineo2014] : 
+
+* le nombre de FAD déployées par bateau  
+* le temps de déploiement par FAD
+* la distance entre les FAD
+* la méthode de détection des FAD  
+
 
 <span style="color:#fb4141">L'effort de peche peut se calculer via le temps de recherche.  
 Mais pour les DCP, le choix des zones n'est pas lie au hasard.  
@@ -150,3 +161,81 @@ Moins d'import et plus d'export  [@Sharp2011]
 Diminue les temps de recherche  [@Sharp2011]  
 
 ## References  
+
+Amandè, Monin Justin, Javier Ariz, Emmanuel Chassot, Alicia Delgado De Molina, Daniel Gaertner, Hilario Murua, Renaud Pianet, Jon Ruiz, and Pierre Chavance. 2010. "Bycatch of the European purse seine tuna fishery in the Atlantic Ocean for the 2003-2007 period." Aquatic Living Resources 23 (4): 353-62. doi:10.1051/alr/2011003.
+
+
+Bard, François Xavier, Claire Chabanet, and Nathalie Caouder. 1991. "Croissance du thon albacore (Thunnus Albacares) en océan Atlantique estimée par marquages." papers3://publication/uuid/50CB3523-DACC-48DC-91FE-B04F0F193C11.
+
+
+Chassot, Emmanuel, L. Dubroca, A. Delgado de Molina, C. Assan, M. Soto, Laurent Floch, and Alain Fonteneau. 2012. "Decomposing purse seine CPUEs to estimate an abundance index for yellowfin free-swimming schools in the Indian Ocean during 1981-2011," 25 p. multigr. http://www.documentation.ird.fr/hor/fdi:010057904.
+
+
+Escalle, Lauriane, Daniel Gaertner, Pierre Chavance, Alicia Delgado De Molina, Javier Ariz, and Bastien Mrigot. 2017. "Forecasted consequences of simulated FAD moratoria in the Atlantic and Indian Oceans on catches and bycatches." ICES Journal of Marine Science 74 (3): 780-92. doi:10.1093/icesjms/fsw187.
+
+
+Fonteneau, A, D Gaertner, and V Nordström. 1999. "An overview of problems in the CPUE-abundance relationship for the tropical purse seine fisheries" 49 (3): 9-39.
+
+
+Fonteneau, Alain, Emmanuel Chassot, and Nathalie Bodin. 2013. "Global spatio-temporal patterns in tropical tuna purse seine fisheries on drifting fish aggregating devices (DFADs): Taking a historical perspective to inform current challenges." Aquatic Living Resources 26 (1): 37-48. doi:10.1051/alr/2013046.
+
+
+Gaertner, D, J Ariz, N Bez, S Clermidy, G Moreno, H Murua, and M Soto. 2015. "Catch, Effort, and Ecosystem impacts of FAD-fishing (CECOFAD)." Col. Vol. Sci. Pap. ICCAT 71 (1).
+
+
+Goodyear, C Phillip, David Die, David W Kerstetter, Donald B Olson, and Eric Prince. 2003. "Habitat Standardization of Cpue Indices : Research Needs." Iccat 55 (2): 613-23.
+
+
+Guéry, Loreleï, David M. Kaplan, Camille Deslias, Francis Marsac, Francisco Abascal, Pedro Pascual, and Gaert. 2019. "Accounting for Fishing Days Without Set , Fishing Concentration and Piracy in the Cpue Standardisation of Yellowfin Tuna in Free Schools for the Eu Purse Seine Fleet Operating in Th ... Accounting for Fishing Days Without Set , Fishing Concentration and P," no. October.
+
+
+Hallier, Jean Pierre, and Daniel Gaertner. 2008. "Drifting fish aggregation devices could act as an ecological trap for tropical tuna species." Marine Ecology Progress Series 353: 255-64. doi:10.3354/meps07180.
+
+
+Hinton, Michael G, and Mark N. Maunder. 2003. "Methods for standardizing CPUE and how to select among them," no. July.
+
+
+Itano, David G. 2005. "An examination of vessel , gear and operational details useful for fishery-specific effort standardization , including FAD-related gear and fishing strategies," 1-9.
+
+
+Langley, Adam. 2004. "SA - 5 A standardised analysis of skipjack tuna CPUE from the WCPO drifting FAD fishery within skipjack assessment area 6 ( MFCL 6 )." 6 (July).
+
+
+Lopez, Jon, Gala Moreno, Igor Sancristobal, and Jefferson Murua. 2014. "Evolution and current state of the technology of echo-sounder buoys used by Spanish tropical tuna purse seiners in the Atlantic, Indian and Pacific Oceans." Fisheries Research 155. Elsevier B.V.: 127-37. doi:10.1016/j.fishres.2014.02.033.
+
+
+Marsac, F., A. Fonteneau, and F. Ménard. 2000. "Drifting FADs used in tuna fisheries: an ecological trap?" Proceedings of the 1st Symposium on Tuna Fisheries and FADs, Martinique, October 1999, no. JANUARY: 537-52.
+
+
+Maunder, Mark N., and André E. Punt. 2004. "Standardizing catch and effort data: A review of recent approaches." Fisheries Research 70 (2-3 SPEC. ISS.): 141-59. doi:10.1016/j.fishres.2004.08.002.
+
+
+Maunder, Mark N., John R. Sibert, Alain Fonteneau, John Hampton, Pierre Kleiber, and Shelton J. Harley. 2006. "Interpreting catch per unit effort data to assess the status of individual stocks and communities." ICES Journal of Marine Science 63 (8): 1373-85. doi:10.1016/j.icesjms.2006.05.008.
+
+
+Natale, Fabrizio, Maurizio Gibin, Alfredo Alessandini, Michele Vespe, and Anton Paulrud. 2015. "Mapping fishing effort through AIS data."
+
+
+Rodriguez-Marin, E, H Arrizabalaga, M Ortiz, C Rodriguez-Cabello, G Moreno, and L.T Kell. 2003. "Standardization of bluefin tuna, Thunnus Thynnus, catch per unit effort in the baitboat fishery of the Bay of Biscay (Eastern Atlantic)." ICES Journal of Marine Science. doi:10.1016/S1054.
+
+
+Sharp, Michael. 2011. "The Benefits of Fish Aggregating Devices in the Pacific." SPC Fisheries Newsletter 135 (August): 28-36.
+
+
+Snouck-Hurgronje, Julia E., David M. Kaplan, Emmanuel Chassot, Alexandra Maufroy, and Daniel Gaertner. 2017. "Fishing on floating objects (FOBs): How French tropical tuna purse seiners split fishing effort between GPS-monitored and unmonitored FOBs."
+
+
+Soto, M, P Pallarés, A Delgado De Molina, and D Gaertner. 2008. "Standardized Cpue for Juvenile Yellowfin, Skipjack and Bigeye Tuna From the European Purse Seine Fleet in the Atlantic Ocean From 1991 To 2006." SCRS Sci. Pap. ICCAT 116 (644): 1044-53.
+
+
+Tolentino-Zondervan, Frazen, Paul Berentsen, Simon R. Bush, and Alfons Oude Lansink. 2018. "FAD vs. free school: Effort allocation by Marine Stewardship Council compliant Filipino tuna purse seiners in the PNA." Marine Policy 90 (December 2017). Elsevier Ltd: 137-45. doi:10.1016/j.marpol.2017.12.025.
+
+
+Torres-Irineo, Edgar, Daniel Gaertner, Emmanuel Chassot, and Michel Dreyfus-León. 2014. "Changes in fishing power and fishing strategies driven by new technologies: The case of tropical tuna purse seiners in the eastern Atlantic Ocean." Fisheries Research 155. Elsevier B.V.: 10-19. doi:10.1016/j.fishres.2014.02.017.
+
+
+Xu, Haikun, Cleridy E. Lennert-Cody, Mark N. Maunder, and Carolina V. Minte-Vera. 2019. "Spatiotemporal dynamics of the dolphin-associated purse-seine fishery for yellowfin tuna (Thunnus albacares) in the eastern Pacific Ocean." Fisheries Research 213 (January): 121-31. doi:10.1016/j.fishres.2019.01.013.
+
+
+Zhou, Shijie, Robert A Campbell, and Simon D Hoyle. 2019. "Catch per unit effort standardization using spatio-temporal models for Australia's Eastern Tuna and Billfish Fishery." ICES Journal of Marine Science 76: 1489-1504. doi:10.1093/icesjms/fsz034.
+
