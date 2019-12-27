@@ -53,7 +53,7 @@
 
 #### What did you achieve?
 
-* liaison slack github
+* Liaison slack_github
 * Ebauche des analyses :
 - Concentration des captures (mensuel,trimestriel) par zones 1 ou/et 5 degre
 - Etude temporelle des frequences de tailles
