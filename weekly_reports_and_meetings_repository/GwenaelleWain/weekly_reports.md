@@ -33,7 +33,7 @@
 * Work on data.
 * Start a report on Markdown (Intro)
 
-#### Where do you need help from Daniel, Loreleï or others?
+#### Where do you need help from Daniel, LoreleÃ¯ or others?
 
 * IDK
 
@@ -50,14 +50,14 @@
 
 #### Who helped you this week?
 
-* Daniel et Loreleï pour la mise en route des analyses
-* Philippe m'a présenté le jeu de données observateurs
+* Daniel et LoreleÃ¯ pour la mise en route des analyses
+* Philippe m'a prÃ©sentÃ© le jeu de donnÃ©es observateurs
 
 #### What did you achieve?
 
-* Réinstaller PostGre SQL
-* Création d'un projet RMarkdown pour faire les analyses du jeu de données.
-* Séparation du jeu de données en deux. 
+* RÃ©installer PostGre SQL.
+* CrÃ©ation d'un projet RMarkdown pour faire les analyses du jeu de donnÃ©es.
+* SÃ©paration du jeu de donnÃ©es en deux. 
 
 #### What did you struggle with?
 
@@ -65,9 +65,9 @@
 
 #### What would you like to work on next week?
 
-* Continuer les analyses exploratives du jeu de données
+* Continuer les analyses exploratives du jeu de donnÃ©es
 
-#### Where do you need help from Daniel, Loreleï or others?
+#### Where do you need help from Daniel, LoreleÃ¯ or others?
 
 * 
 
