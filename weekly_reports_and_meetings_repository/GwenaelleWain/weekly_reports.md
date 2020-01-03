@@ -3,6 +3,7 @@
 ### IE IRD - CPUE dFADs
 * [20 December 2019](#date-20th-december-2019)
 * [27 December 2019](#date-27th-december-2019)
+* [3 January 2020](#date-3rd-january-2020)
 
 -------------------------------------------------------------------
 ### Date: 20th December 2019
@@ -75,6 +76,38 @@
 
 * 
 
+### Date: 3rd January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* Ajout des differents jeux de donnees sur PostGre SQL
+* Creation de jointures entre ces jeux de donnees
+* J'ai commence les analyses exploratoires sur les jeux de donnees
+
+#### What did you struggle with?
+
+* PostGre SQL : impossible d'ouvrir les schemas crees precedement. J'ai ete oblige de rentrer a nouveau l'integralite des jeu de donnees. Probleme resolu.
+
+#### What would you like to work on next week?
+
+* Continuer les analyses du jeu de donnees
+
+#### Where do you need help from Daniel, Loreleï or others?
+
+* 
+
+#### Any other topics
+
+* 
 
 
 -------------------------------------------------------------------
