@@ -3,6 +3,7 @@
 ### IE IRD Golden years
 * [20 December 2019](#date-20th-december-2019)
 * [27 December 2019](#date-27th-december-2019)
+* [3 January 2020](#date-3rd-january-2020)
 
 -------------------------------------------------------------------
 ### Date: 20th December 2019
@@ -10,7 +11,7 @@
 
 #### Who did you help this week?
 
-* Gwenaelle, Alex (petit tho, à revoir)
+* Gwenaelle, Alex (petit tho, ? revoir)
 
 #### Who helped you this week?
 
@@ -18,10 +19,10 @@
 
 #### What did you achieve?
 
-* Création et compréhension des repertoire Github
+* Cr?ation et compr?hension des repertoire Github
 * Une partie de la biblio
-* Visite médical et social 
-* Premiere approche géographique des donnees
+* Visite m?dical et social 
+* Premiere approche g?ographique des donnees
 
 #### What did you struggle with?
 
@@ -39,6 +40,8 @@
 #### Any other topics
 
 * 
+
+
 
 ### Date: 27th December 2019
 
@@ -76,4 +79,39 @@
 * 
 
 
+
+### Date: 3rd January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* AperÃ§u des disparites ou non des captures par trimestre mois sur quadrillage de 1 et 5 degre  
+
+#### What did you struggle with?
+
+* Choix de tonnage minimum pour resteindre l'analyse des zones Ã  de grandes captures
+
+#### What would you like to work on next week?
+
+* Finir petit rapport sur les concentrtions
+* Reprendre les analyses sur les histogrammes de poids 
+
+#### Where do you need help from Daniel, LoreleÃ¯ or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+
 -------------------------------------------------------------------
+
