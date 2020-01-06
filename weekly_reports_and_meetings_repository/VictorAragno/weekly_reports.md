@@ -104,7 +104,7 @@
 #### What did you struggle with?
 
 * Choix de tonnage minimum pour resteindre l'analyse des zones à de grandes captures
- * LG: tu nous fais un petit topo?
+  * LG: tu nous fais un petit topo?
 
 #### What would you like to work on next week?
 
