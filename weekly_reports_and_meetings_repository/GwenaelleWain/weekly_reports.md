@@ -24,10 +24,12 @@
 * I read the CESAB formation.
 * More bibliography.
 
+  * LG: Super!
 
 #### What did you struggle with?
 
 * Downland MikTex or others and save my rmarkdown file in pdf.
+  * LG: Problème résolu?
 
 #### What would you like to work on next week?
 
@@ -53,12 +55,15 @@
 
 * Daniel et Loreleï pour la mise en route des analyses
 * Philippe m'a présenté le jeu de données observateurs
+  * LG: Parfait! N'hésite pas à prendre des notes pour la mémoire pour plus tard :blush:
 
 #### What did you achieve?
 
 * Réinstaller PostGre SQL.
 * Création d'un projet RMarkdown pour faire les analyses du jeu de données.
 * Séparation du jeu de données en deux. 
+
+  * LG : Impéccable, pas de souci particulier (choix de traitement de données par exemple)?
 
 #### What did you struggle with?
 
@@ -86,12 +91,15 @@
 #### Who helped you this week?
 
 * Personne
+  * LG: :disappointed: #vacancesscolairescouloirsvides?
 
 #### What did you achieve?
 
 * Ajout des differents jeux de donnees sur PostGre SQL
 * Creation de jointures entre ces jeux de donnees
 * J'ai commence les analyses exploratoires sur les jeux de donnees
+
+  * LG: Bravo! :clap: N'oublie pas de garder une trace de tes requêtes et autres... 
 
 #### What did you struggle with?
 
