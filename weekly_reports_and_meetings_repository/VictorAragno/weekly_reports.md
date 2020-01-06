@@ -12,18 +12,22 @@
 #### Who did you help this week?
 
 * Gwenaelle, Alex (petit tho, ? revoir)
+  * LG: Est-ce que tu peux détailler pour chaque personne l'objet et le temps que ça t'a demandé peut-être, ou toute autre info que tu penseras utile? :smirk:
 
 #### Who helped you this week?
 
 * Gwenaelle, Mathieu, Antoine, Lorelei
+  * LG: :laughing: idem
 
 #### What did you achieve?
 
-* Cr?ation et compr?hension des repertoire Github
+* Création et compréhension des repertoire Github
 * Une partie de la biblio
-* Visite m?dical et social 
-* Premiere approche g?ographique des donnees
+* Visite médicale et sociale
+* Premiere approche géographique des donnees
 
+  * LG: :clap: :clap: N'hésite pas à nous montrer tes trouvailles!
+  
 #### What did you struggle with?
 
 * liaison slack-github
@@ -49,6 +53,7 @@
 #### Who did you help this week?
 
 * Personne
+  * LG: :disappointed: #vacancesscolairescouloirsvides?
 
 #### Who helped you this week?
 
@@ -86,6 +91,7 @@
 #### Who did you help this week?
 
 * Personne
+  * LG: :disappointed: #vacancesscolairescouloirsvides?
 
 #### Who helped you this week?
 
