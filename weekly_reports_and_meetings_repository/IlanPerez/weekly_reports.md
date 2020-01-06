@@ -18,6 +18,7 @@
 #### Who helped you this week?
 
 * Lorelei, Lisa Ailloud
+ * LG: Peux-tu donenr un peu plus de détails sur l'objet, le temps que cela a pu prendre, ou toutes autres infos que tu jugeras utiles?
 
 #### What did you achieve?
 
