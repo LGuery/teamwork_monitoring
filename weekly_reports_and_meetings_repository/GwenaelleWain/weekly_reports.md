@@ -64,6 +64,7 @@
 * Séparation du jeu de données en deux. 
 
   * LG : Impéccable, pas de souci particulier (choix de traitement de données par exemple)?
+  * GW : J'ai quelques questions comme convenu hier, j'organise une pr�sentation pour en discuter
 
 #### What did you struggle with?
 
@@ -92,6 +93,7 @@
 
 * Personne
   * LG: :disappointed: #vacancesscolairescouloirsvides?
+  * GW : Exactement !! 
 
 #### What did you achieve?
 
