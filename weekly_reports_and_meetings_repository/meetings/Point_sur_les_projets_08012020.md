@@ -36,5 +36,9 @@ Comparaison des CPUE non standardisées entre les deux jeux de données
 * Les prises sont elles différentes ? 
 
 ### Victor
-
+A faire:
+- Faire les analyses de concentrations avec les donnees Espagnol
+- Separer pas type de banc les analyses des concentrations.
+- Agrandir et rendre plus comprégensible les graphiques.
+- Examiner les frequences des tailles de poids dans les zones de fortes concentration pour trouver ou ne pas trouver une cohorte.
 -------------------------------------------------------------------
