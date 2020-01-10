@@ -144,14 +144,69 @@
 #### What did you struggle with?
 
 J'ai utilisé les données logbook pour lesquelles j'avais un identifiant de bouée soit 45205 lignes. Après le join et suppression des doublons, j'ai toujours 45205 lignes. J'ai vérifié à la main plus de 30 lignes pour regarder l'accès à l'info et il ne semble pas y avoir d'erreur.
-Pour autant j'obtiens les résutats suivants :   
-|                           |2013|2014|2015|2016|2017|2018|2019|  
-|:-------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|  
-|Nbe de calés accès info = t|886 |3733|4817|6527|7326|6014|230 |  
-|Nbe de calés accès info = f|583 |1340|2020|2241|2310|3221|3956|  
-|Nbe de calés accès total   |1469|5073|6837|8726|9636|9235|4186|  
-|Nbe de calés t/f           |1,52|2,79|2,38|2,91|3,17|1,87|0,06|  
-|% de calés accès info = t  |60,3|73,6|70,5|74,4|76,1|65,1|5,49|  
+Pour autant j'obtiens les résutats suivants : 
+<table>
+	    <tr>
+	        <th scope="col"> </th>
+	        <th scope="col">2013</th>
+         <th scope="col">2014</th>
+         <th scope="col">2015</th>
+	        <th scope="col">2016</th>
+	        <th scope="col">2017</th>
+	        <th scope="col">2018</th>
+	        <th scope="col">2019</th>
+	    </tr>
+	    <tr>
+	        <td>Nombre de calés accès info = t</td>
+	        <td>886</td>
+	        <td>3733</td>
+	        <td>4817</td>
+	        <td>6527</td>
+	        <td>7326</td>
+	        <td>6014</td>
+	        <td>230</td>
+	    </tr>
+	    <tr>
+	        <td>Nombre de calés accès info = f</td>
+	        <td>583</td>
+         <td>1340</td>
+         <td>2020</td>
+         <td>2241</td>
+         <td>2310</td>
+         <td>3221</td>
+         <td>3956</td>
+	    </tr>
+ <tr>
+	        <td>Nombre de calés total</td>
+	        <td>1469</td>
+         <td>5073</td>
+         <td>6837</td>
+         <td>8726</td>
+         <td>9636</td>
+         <td>9235</td>
+         <td>4186</td>
+  </tr>
+  <tr>
+	        <td>Nombre de calés t/f</td>
+	        <td>1,52</td>
+         <td>2,79</td>
+         <td>2,38</td>
+         <td>2,91</td>
+         <td>3,17</td>
+         <td>1,87</td>
+         <td>0,06</td>
+  </tr>
+ <tr>
+	        <td>Pourcentage de calés accès info = t</td>
+	        <td>60,3</td>
+         <td>73,6</td>
+         <td>70,5</td>
+         <td>74,4</td>
+         <td>76,1</td>
+         <td>65,1</td>
+         <td>5,49</td>
+  </tr>
+	</table>
 
 #### What would you like to work on next week?
 
