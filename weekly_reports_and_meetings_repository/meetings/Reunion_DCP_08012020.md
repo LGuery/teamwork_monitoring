@@ -6,9 +6,9 @@
 
 
 -------------------------------------------------------------------
-### Gwenaelle
-#### ICCAT 
-##### Résumé de la commission qui a eu lieu à Palma au mois de Nomvembre.  
+## Gwenaelle
+### ICCAT 
+#### Résumé de la commission qui a eu lieu à Palma au mois de Nomvembre.  
 
 Au départ de la commission, 3 propositions avaient été faites par :
 
@@ -16,7 +16,7 @@ Au départ de la commission, 3 propositions avaient été faites par :
 * Pays latino_américain (pas de baisse des quotas ni des DCP)
 * Afrique du Sud (très orienté conservation)  
 
-##### Quotas
+#### Quotas
 
 Très grosse surexploitation pour le patudo.
 
@@ -32,7 +32,7 @@ Baisse de 10 % des prises pour les pays pêchant entre 1000 et 3500 t.
 
 Les pays pêchant moins de 1000 t par an sont invités à ne pas augmenter leurs prises.
 
-##### DCP
+#### DCP
 Dans les objectifs de gestion des DCP un point apparaît sur l'impact potentiel sur les écosystèmes.
 
 Avant : moratoire de 2 mois sur une zone de l'océan pour la pêche sous DCP.   
@@ -43,7 +43,7 @@ Interdit de déployer des DCP dans les 15 jours précédents le moratoire.
 
 Modification des définitions qui ne sont pas très claires.Difficile pour une nomenclature universelle.
 
-##### Supply vessels
+#### Supply vessels
 
 Il avait été décidé de prendre en compte les bateaux appuis dans le calcul de l'effort de pêche.
 
@@ -51,8 +51,8 @@ Finalement disparition de cette partie entre l'avant dernière version et la dern
 
 Il faudrait des informations plus précises sur ce sujet.
 
-#### CTOI
-##### 22ème session du comité scientifique au Pakistan en Décembre
+### CTOI
+#### 22ème session du comité scientifique au Pakistan en Décembre
 
 Pour rappel il y  a 3 niveaux : 
 
@@ -78,7 +78,7 @@ Au 1er Janvier :
 
 Nouvelle résolution : tous les pays seront soumis aux quotas de pêche
 
-##### Thons tropicaux 
+#### Thons tropicaux 
 
 Le plus gros pêcheur est l'Espagne puis les Maldives.
 
@@ -89,7 +89,7 @@ Extension vers le nord vers la mer d'Arabie.
 
 Les 3 espèces de thons sont liées il faudrait donc des mesures de gestion plurispécifique.
 
-###### Albacore
+##### Albacore
 En 2019 : 423 800 t (sous déclaré)
 
 Essentiellement pêchés sous DCP, très peu de freeschool.
@@ -100,20 +100,20 @@ La pêche est 10% au dessus du MSY. Evaluation incertaine.
 
 En 2019, pêche diminuée de 15% mais les pays non soumis aux quotas ont augmenté leur pêche --> gain de 0%
 
-###### Patudo 
+##### Patudo 
 En 2019 : 93 515 t
 
 Les prises sous DCP sont dominantes (essentiellement des juvéniles).  
 Dans le orange mais beaucoup d'incertitude sur les données.
 
-###### Listao
+##### Listao
 En 2019 : 607 701 t.
 
 Supérieur au quota fixé (30%)  
 Pas d'évaluation.
 
-#### ORGP - Bycatch
-##### Résumé de la réunion à Porto en Décembre
+### ORGP - Bycatch
+#### Résumé de la réunion à Porto en Décembre
 
 En résumé :
 
@@ -130,6 +130,29 @@ En résumé :
 
 Chaque ORGPt est libre de mettre en place ou non ces recommandations.
 
-### Victor
+## Victor
+### ICCAT
+Pas de consensu en 2018 imperatif d'en trouver un en 2019.
 
-### Ilan
+#### Etat des peches et quotat
+Stock de BET dans un etat critique MAIS pays sud-americains bloquent les possibles restrictions.
+
+Consensus sur:
+- Instauration d'un quotat pour les pays en voie de developpement economique (non soumis aux quotats precedement) (ex: -10pourcent de la moyenne des dernieres annees de pêche pour les pays Affricains)
+- Interdiction de peche sous DCP dans tout l'ocean pendant deux mois en 2020 et 3 mois en 2021.
+- Diminution de nombre de DCP par navire (350 en 2020 et 300 en 2021 contre 500 en 2019).
+
+Mauvais cote:
+- Ils toujours activer et desactiver les balises des DCP a distance.
+- Manque d'observateur sur les palangriers -> plus de rejet en mer 
+- Caneur Guyneen servent de baliseurs
+
+### CTOI
+Nous président de la commission, un Japonais.
+Augmentation de 30% des captures de SKJ en partie due au quotat YFT.
+Etat des stock mauvais pour les 3thons majeurs.
+Les pays en voie de dev augmentent leurs peches. 
+
+Idee pour reduire capture -> reduction des flottes
+
+## Ilan
