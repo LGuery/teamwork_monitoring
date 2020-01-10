@@ -119,6 +119,38 @@
 
 * 
 
+### Date: 10rd January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+
+#### Who helped you this week?
+
+* Les differentes reunions 
+
+#### What did you achieve?
+
+* Poursuite du travail sur les concentrations de capture et les possible cohorte d'evolution de taille
+
+#### What did you struggle with?
+
+* Agencement des parties et resultats a montrer
+
+#### What would you like to work on next week?
+
+* refaire des petits rapports 
+* Coupler les analyses sur les histogrammes de poids aux zones de fortes concentrations
+
+#### Where do you need help from Daniel, Loreleï or others?
+
+* 
+
+#### Any other topics
+
+* 
 
 -------------------------------------------------------------------
 
