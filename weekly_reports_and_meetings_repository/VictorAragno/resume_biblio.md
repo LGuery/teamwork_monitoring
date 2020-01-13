@@ -35,7 +35,7 @@ Un choix arbitraire retenu neanmoins comme acceptable est une duree de 3j pour u
 
 ### Annee 2005 et forte concentration. Fonteneau (2008)
 
-Une forte concentration de thons a ete repertorie en 2005 dans l'ocean atlantique. Cette concentration se situe dans une zone d'environ 3500miles carre soit un carre de 6d (45;50)d E, (3;8)d S, . Nous avons capture dans cette zone 22 000tones de YFT en 12 jours. Soit 6.5% de la mortalite totale par peche pour l'annee. 
+Une forte concentration de thons a ete repertorie en 2005 dans l'ocean atlantique. Cette concentration se situe dans une zone d'environ 3500miles carre soit un carre de 6d (45;50)d E, (3;8)d S. Nous avons capture dans cette zone 22 000tones de YFT en 12 jours (donnees francaise et espagnoles tout type de banc). Soit 6.5% de la mortalite totale par peche pour l'annee. 
 CPUE cette annee: 65t/j
 prise moyenne par calee positive: 85t
 
