@@ -1,10 +1,11 @@
 # Weekly Reports
 
 ### IE IRD Golden years
-* [20 December 2019](#date-20th-december-2019)
-* [27 December 2019](#date-27th-december-2019)
+* [17 January 2020](#date-17th-january-2020)
+* [10 January 2020](#date-10th-january-2020)
 * [3 January 2020](#date-3rd-january-2020)
-
+* [27 December 2019](#date-27th-december-2019)
+* [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
 ### Date: 20th December 2019
 
@@ -152,5 +153,38 @@
 
 * 
 
+### Date: 17rd January 2020
+
+
+#### Who did you help this week?
+
+* Amael, aide pour trouver un modele stat permettant de repondre a ses questions. 10min
+* Jenesaisplussonnom, aide pour comprehension glmm. 10min
+
+#### Who helped you this week?
+
+* Gwenaelle 
+
+#### What did you achieve?
+
+* jonction des echantillons aux activites mono-calais
+* reprise de l'etude des concentrations. (avec idee de comparer les proportions de BL/BO, le poid moyen des calees, par zones/intervalles de temps)
+* analyse de cohorte sur differentes zones (en proportion par taille et non plus en nombre par taille)
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+* Poursuivre idee concentration en nombre d'activite
+
+#### Where do you need help from Daniel, Loreleï or others?
+
+* 
+
+#### Any other topics
+
+* 
 -------------------------------------------------------------------
 
