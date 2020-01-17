@@ -5,6 +5,7 @@
 * [27 December 2019](#date-27th-december-2019)
 * [3 January 2020](#date-3rd-january-2020)
 * [10 January 2020](#date-10th-january-2020)
+* [17 January 2020](#date-17th-january-2020)
 
 
 -------------------------------------------------------------------
@@ -211,6 +212,41 @@ Pour autant j'obtiens les résutats suivants :
 #### What would you like to work on next week?
 
 * Récupérer les données de logbook contenant les informations sur les prises. Reprendre les analyses en utilisant ces données.
+
+#### Where do you need help from Daniel, LoreleÃ¯ or others?
+
+* 
+
+### Date: 17th January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* David : explication des analyses sur l'appartenance des bouées  
+
+#### What did you achieve?
+
+* A partir des données logbook de Laurent :
+  * Séparation du jeu de données 
+  * Analyse des différents types d'actions
+  * Analyse des calés
+* A partir des données t3 de David :
+  * Analyse graphique des calés (par années, par trimestres)
+* Bibliographie
+* Ecriture de quelques idées pour une intro
+
+#### What did you struggle with?
+
+*
+
+#### What would you like to work on next week?
+
+* Lancer les analyses sur les données de captures sur les données t3
+* Commencer à travailler sur les scripts de standardisation des CPUEs
 
 #### Where do you need help from Daniel, LoreleÃ¯ or others?
 
