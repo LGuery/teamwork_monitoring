@@ -4,8 +4,80 @@
 
 * [20 December 2019](#date-20th-december-2019)
 
-* [12 December 2019](#date-12th-december-2019)
+* [12 December 2019](#date-12th-december-2019)  
 
+* [10 January 2020](#date-10th-january-2020)  
+
+* [17 January 2020](#date-17th-january-2020)  
+
+-------------------------------------------------------------------  
+### Date: 17th January 2020
+
+
+#### Who did you help this week?
+
+* Amael for ftp url fil downloading script
+
+#### Who helped you this week?
+
+* NA
+
+#### What did you achieve?
+
+* Restart meeting with Daniel and Lorelei  
+
+* Knitt the .md doc of Gipsy's script annotation.
+
+* Computing relative risk in function of time at lib
+
+#### What did you struggle with?
+
+* Find where come from the differene between what i get in the script nd what is presented in Gipsy's paper
+
+#### What would you like to work on next week?
+
+* Median distance in function of time at lib
+
+#### Where do you need help from Daniel or others?
+
+* NA
+
+#### Any other topics
+
+* TAM TAM and PhD students meetings took 2 days this week.
+
+
+-------------------------------------------------------------------  
+### Date: 10th January 2020
+
+
+#### Who did you help this week?
+
+* NA
+
+#### Who helped you this week?
+
+* NA
+
+#### What did you achieve?
+
+* Finished Gipsy's script annotation, releving errors 
+
+#### What did you struggle with?
+
+* With the script from Gipsy, long and not really well documented
+
+#### What would you like to work on next week?
+
+* Begin my own analyses on AOTTP data => Relative risk and time sensibility
+
+#### Where do you need help from Daniel or others?
+
+* NA
+
+#### Any other topics
+
+* 
 
 -------------------------------------------------------------------  
 ### Date: 20th December 2019
