@@ -120,7 +120,7 @@
 
 * 
 
-### Date: 10rd January 2020
+### Date: 10th January 2020
 
 
 #### Who did you help this week?
@@ -153,7 +153,7 @@
 
 * 
 
-### Date: 17rd January 2020
+### Date: 17th January 2020
 
 
 #### Who did you help this week?
