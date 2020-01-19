@@ -24,7 +24,7 @@
     
  * Afterwards  
    + Define a threshold distance/time traveled  
-  + Use it to determine a consitent buffer
+   + Use it to determine a consitent buffer
 
 
 
