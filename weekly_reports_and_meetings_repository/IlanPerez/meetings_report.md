@@ -17,13 +17,14 @@
   
   
 * Objectives for the following analysis:  
-+ Compute Relative Risk in relation of time at liberty  
-+ COmpute relative Risk in relation of distance traveled  
-+ Comute RR for elder moratorium zone and period  
-  
+  + Compute Relative Risk in relation of time at liberty  
+  + COmpute relative Risk in relation of distance traveled  
+  + Comute RR for elder moratorium zone and period  
+   
+    
  * Afterwards  
- + Define a threshold distance/time traveled  
- + Use it to determine a consitent buffer
+   + Define a threshold distance/time traveled  
+  + Use it to determine a consitent buffer
 
 
 
