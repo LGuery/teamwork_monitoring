@@ -15,16 +15,32 @@
 
 #### Results presented and issues/questions :question:  
 
-* Presentation exploration about Relative Risk computation, in relation to time at liberty
-  + 
+* Presentation exploration about Relative Risk computation, in relation to time at liberty (period January-February) for juveniles YFT 
+  + Can't explain the drop in RR between 0 and 10 days
   
   
 * Distance = f(time at liberty)
-   
+  + No particular pattern  
+  
+  
+#### What to explore next  
     
- * Afterwards  
-   + Define a threshold distance/time traveled  
-   + Use it to determine a consitent buffer
+ * RR  
+   + Extend the time at liberty after 60 days  
+   + Find a way to check RR in relation to distance traveled 
+   
+ * Descriptive statistics:  
+    + barplot distance traveled by tunas
+    + barplot of velocity
+    + compute maximal traveled distance with the maximum speed found in litterature:
+    (Optimum = 25 km/h in Tuna: Physiology, Ecology and Evolution (2OO1),
+    Max = 72 km/h in FAO from Magnuson (1978))  
+    
+  *
+   
+  * Map6 :
+  + What is this square at env. 9°N, -16°E ?  
+  + Zoom on moratorium area to see what happens in Ivory cost
 
 
 
