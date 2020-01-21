@@ -2,8 +2,30 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
+* [19 January 2020 - Previous exploration](#date-19th-january-2020)  
+* [13 January 2020 - Gipsy's script](#date-12th-january-2020)  
 * [13 January 2020 - Gipsy's script](#date-12th-january-2020)  
 * [12 December 2019 - Kick-off!](#date-12th-december-2019)  :airplane: :rocket:
+
+
+-------------------------------------------------------------------
+
+### Date: 19th January 2020 First exploration of AOTTP data 
+
+
+#### Results presented and issues/questions :question:  
+
+* Presentation exploration about Relative Risk computation, in relation to time at liberty
+  + 
+  
+  
+* Distance = f(time at liberty)
+   
+    
+ * Afterwards  
+   + Define a threshold distance/time traveled  
+   + Use it to determine a consitent buffer
+
 
 
 -------------------------------------------------------------------
