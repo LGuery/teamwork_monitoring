@@ -36,11 +36,10 @@
     (Optimum = 25 km/h in Tuna: Physiology, Ecology and Evolution (2OO1),
     Max = 72 km/h in FAO from Magnuson (1978))  
     
-  *
    
   * Map6 :
-  + What is this square at env. 9°N, -16°E ?  
-  + Zoom on moratorium area to see what happens in Ivory cost
+    + What is this square at env. 9°N, -16°E ?  
+    + Zoom on moratorium area to see what happens in Ivory cost
 
 
 
