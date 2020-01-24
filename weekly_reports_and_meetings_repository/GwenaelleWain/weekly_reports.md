@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [24 January 2020](#date-24th-january-2020)
 * [17 January 2020](#date-17th-january-2020)
 * [10 January 2020](#date-10th-january-2020)
 * [3 January 2020](#date-3rd-january-2020)
@@ -8,6 +9,80 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 24th January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Victor : prise de decision pour les donnees à expliquer (ratio, log(ratio), difference) pour les glm. 
+
+#### What did you achieve?
+
+* Refaire tourner les scripts avec les nouvelles donnees t3
+* Ajout de la partie sur les calees nulles (en fonction des annnes, de t/f)
+* Modification des graphes :
+  * Retrait des calees nulles et de 2018
+  * Regrouper t et f sur le meme graphe
+  * Ajouter les ecarts types sur les graphes de moyenne
+* Faire les memes graphes avec la mediane
+* GLM : 
+  * Ratio t/f --> facteur descriptifs mois, trimestre et annees
+  * Difference t-f --> facteurs descriptifs mois, trimestre et annees
+* Cartographies:
+  * Cartographie t VS f
+  * Cartographie en fonction des trimestres
+  * Creation d'une grille de 1° * 1°
+  * Calcul des données de capture dans les cellules
+
+#### What did you struggle with?
+
+*
+
+#### What would you like to work on next week?
+
+* Analyser l'effet spatial sur les donnees de capture
+* COmparer les captures entre les donnees echosondeur et non echosondeur
+* Lire la biblio envoyee par Daniel
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting 
+
+Les analyses deja faites sont correctes. Il faut continuer d'utiliser les donnees fournies par David.
+
+Pour limiter les biais dans les analyses : 
+
+* Ragarder la fraction de calees nulles pour t et f
+* Retirer les calees nulles 
+* Retirer l'annee 2018
+
+Pour avoir de meilleures estimations :
+
+* Refaire les analyses en prenant la mediane
+* Ajouter les ecarts types sur les graphes
+
+Pour ameliorer la lecture des graphes : 
+
+* Regrouper t et f sur le meme graphe
+* Faire les graphes des ratios
+
+Test statistiques : 
+
+* Faire les tests statistiques en prenant le ratio t/f
+* Faire une glm avec : annees, trimestres et zones geographiques en variables explicatives. Prendre l'annee en numerique et pas en facteur. cela permettrait de regarder s'il y a une evolution brutale ou si l'evolution se fait au cours des annees. Si l'evolution esr brutale et en 2012 : apparition des echosondeur. En revanche si l'evoltuion est progressive : meilleure utilisation des bouees d'annee en annee.
+
+Regarder l'evolution spatiale de l'annee et/ ou du trimestre. Utiliser le packahe raster pour cela. 
+
 ## Date: 17th January 2020
 
 
