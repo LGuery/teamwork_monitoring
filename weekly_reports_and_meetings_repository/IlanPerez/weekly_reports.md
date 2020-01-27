@@ -2,13 +2,59 @@
 
 ### Thèse IRD  
 
+* [24 January 2020](#date-24th-january-2020)  
+
+* [17 January 2020](#date-17th-january-2020)  
+
+* [10 January 2020](#date-10th-january-2020)  
+
 * [20 December 2019](#date-20th-december-2019)
 
 * [12 December 2019](#date-12th-december-2019)  
 
-* [10 January 2020](#date-10th-january-2020)  
 
-* [17 January 2020](#date-17th-january-2020)  
+-------------------------------------------------------------------  
+### Date: 24th January 2020
+
+
+#### Who did you help this week?
+
+* I helped Amael for tidyverse functions to enahnce his cript (gather/spread, pipes...)
+
+#### Who helped you this week?
+
+* NA  
+
+#### What did you achieve?
+
+* RR in function of time at lib over 60 days  => there's an inversion of RR after 60 days
+
+* RR in function of distance traveled => strange pattern  
+
+* Stat descriptive
+    + barplot distance traveled by tunas
+    + barplot of velocity
+    + compute maximal traveled distance with the maximum speed found in litterature:
+
+
+#### What did you struggle with?
+
+* RAS Except script writing 
+
+#### What would you like to work on next week?
+
+* RR with other zones and periods
+* Find another metric to assess the effectivness of moratorium (Ask David)
+* Find buffer distance
+
+#### Where do you need help from Daniel or others?
+
+* NA
+
+#### Any other topics 
+
+*
+
 
 -------------------------------------------------------------------  
 ### Date: 17th January 2020
