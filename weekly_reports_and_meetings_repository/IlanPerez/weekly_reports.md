@@ -51,9 +51,18 @@
 
 * NA
 
+#### Where do you need help from Daniel or others?
+
+
+* 
+
+#### Decisions made during meetings
+
+* 
+
 #### Any other topics 
 
-*
+*  
 
 
 -------------------------------------------------------------------  
