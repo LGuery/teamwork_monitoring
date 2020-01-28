@@ -2,9 +2,9 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
-* [20 January 2020 - Previous exploration](#date-20th-january-2020)    
-* [13 January 2020 - Gipsy's script](#date-13th-january-2020)  
-* [12 December 2019 - Kick-off!](#date-12th-december-2019)  :airplane: :rocket:
+* [20 January 2020](#date-20th-january-2020) Previous exploration    
+* [13 January 2020](#date-13th-january-2020) Gipsy's script
+* [12 December 2019](#date-12th-december-2019)  :airplane: :rocket: Kick-off!
 
 
 -------------------------------------------------------------------
