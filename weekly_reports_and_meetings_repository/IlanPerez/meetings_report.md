@@ -2,15 +2,14 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
-* [19 January 2020 - Previous exploration](#date-19th-january-2020)  
-* [13 January 2020 - Gipsy's script](#date-12th-january-2020)  
-* [13 January 2020 - Gipsy's script](#date-12th-january-2020)  
+* [20 January 2020 - Previous exploration](#date-20th-january-2020)    
+* [13 January 2020 - Gipsy's script](#date-13th-january-2020)  
 * [12 December 2019 - Kick-off!](#date-12th-december-2019)  :airplane: :rocket:
 
 
 -------------------------------------------------------------------
 
-### Date: 19th January 2020 First exploration of AOTTP data 
+### Date: 20th January 2020 First exploration of AOTTP data 
 
 
 #### Results presented and issues/questions :question:  
@@ -40,6 +39,7 @@
   * Map6 :
     + What is this square at env. 9°N, -16°E ?  
     + Zoom on moratorium area to see what happens in Ivory cost
+    + Count of CMR data
 
 
 
