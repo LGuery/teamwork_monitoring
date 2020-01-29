@@ -2,6 +2,8 @@
 
 ### Thèse IRD  
 
+* [31 January 2020](#date-31th-january-2020)  
+
 * [24 January 2020](#date-24th-january-2020)  
 
 * [17 January 2020](#date-17th-january-2020)  
@@ -11,6 +13,47 @@
 * [20 December 2019](#date-20th-december-2019)
 
 * [12 December 2019](#date-12th-december-2019)  
+
+
+-------------------------------------------------------------------  
+
+### Date: 31th January 2020
+
+
+#### Who did you help this week?
+
+* NA
+
+#### Who helped you this week?
+
+* David Kaplan: Long Discussions about Relative Risk. Maybe should we look to RR with exclusion of tuna tagged and/or recaptured in east Atlantic. Look to RR by zone of tagging
+
+#### What did you achieve?
+
+
+
+
+#### What did you struggle with?
+
+
+
+#### What would you like to work on next week?
+
+
+#### Where do you need help from Daniel or others?
+
+
+
+#### Where do you need help from Daniel or others?
+
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
 
 
 -------------------------------------------------------------------  
@@ -66,6 +109,7 @@
 
 
 -------------------------------------------------------------------  
+
 ### Date: 17th January 2020
 
 
