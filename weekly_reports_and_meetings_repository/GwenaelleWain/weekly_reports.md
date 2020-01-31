@@ -10,7 +10,7 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
-## Date: 24th January 2020
+## Date: 31st January 2020
 
 
 #### Who did you help this week?
@@ -88,7 +88,7 @@
 
 #### Who helped you this week?
 
-* Victor : prise de decision pour les donnees � expliquer (ratio, log(ratio), difference) pour les glm. 
+* Victor : prise de decision pour les donnees à expliquer (ratio, log(ratio), difference) pour les glm. 
 
 #### What did you achieve?
 
@@ -105,8 +105,8 @@
 * Cartographies:
   * Cartographie t VS f
   * Cartographie en fonction des trimestres
-  * Creation d'une grille de 1� * 1�
-  * Calcul des donn�es de capture dans les cellules
+  * Creation d'une grille de 1° * 1°
+  * Calcul des données de capture dans les cellules
 
 #### What did you struggle with?
 
@@ -162,18 +162,18 @@ Regarder l'evolution spatiale de l'annee et/ ou du trimestre. Utiliser le packah
 
 #### Who helped you this week?
 
-* David : explication des analyses sur l'appartenance des bouées  
+* David : explication des analyses sur l'appartenance des bouÃ©es  
 
 #### What did you achieve?
 
-* A partir des données logbook de Laurent :
-  * Séparation du jeu de données 
-  * Analyse des différents types d'actions
-  * Analyse des calés
-* A partir des données t3 de David :
-  * Analyse graphique des calés (par années, par trimestres)
+* A partir des donnÃ©es logbook de Laurent :
+  * SÃ©paration du jeu de donnÃ©es 
+  * Analyse des diffÃ©rents types d'actions
+  * Analyse des calÃ©s
+* A partir des donnÃ©es t3 de David :
+  * Analyse graphique des calÃ©s (par annÃ©es, par trimestres)
 * Bibliographie
-* Ecriture de quelques idées pour une intro
+* Ecriture de quelques idÃ©es pour une intro
 
 #### What did you struggle with?
 
@@ -181,10 +181,10 @@ Regarder l'evolution spatiale de l'annee et/ ou du trimestre. Utiliser le packah
 
 #### What would you like to work on next week?
 
-* Lancer les analyses sur les données de captures sur les données t3
-* Commencer à travailler sur les scripts de standardisation des CPUEs
+* Lancer les analyses sur les donnÃ©es de captures sur les donnÃ©es t3
+* Commencer Ã  travailler sur les scripts de standardisation des CPUEs
 
-#### Where do you need help from Daniel, LoreleÃ¯ or others?
+#### Where do you need help from Daniel, LoreleÃƒÂ¯ or others?
 
 * 
 
@@ -201,21 +201,21 @@ Regarder l'evolution spatiale de l'annee et/ ou du trimestre. Utiliser le packah
 
 #### Who helped you this week?
 
-* Loreleï, Daniel et David lors de la présentation des premiers résultats afin de partir sur de nouvelles analyses 
+* LoreleÃ¯, Daniel et David lors de la prÃ©sentation des premiers rÃ©sultats afin de partir sur de nouvelles analyses 
 
 #### What did you achieve?
 
-* J'ai préparé une rapide présentation des premiers résultats.  
+* J'ai prÃ©parÃ© une rapide prÃ©sentation des premiers rÃ©sultats.  
 * Ajout des scripts et query dans mon repository
 * Lecture de la biblio sur le package sf
-* Création d'une première carte avec ce package
-* Présentation des premiers résultats (refaire les analyses avec les données de logbook)
-* J'ai repris les join afin de vérifier qu'il n'y avait pas d'erreur
+* CrÃ©ation d'une premiÃ¨re carte avec ce package
+* PrÃ©sentation des premiers rÃ©sultats (refaire les analyses avec les donnÃ©es de logbook)
+* J'ai repris les join afin de vÃ©rifier qu'il n'y avait pas d'erreur
 
 #### What did you struggle with?
 
-J'ai utilisé les données logbook pour lesquelles j'avais un identifiant de bouée soit 45205 lignes. Après le join et suppression des doublons, j'ai toujours 45205 lignes. J'ai vérifié à la main plus de 30 lignes pour regarder l'accès à l'info et il ne semble pas y avoir d'erreur.
-Pour autant j'obtiens les résutats suivants : 
+J'ai utilisÃ© les donnÃ©es logbook pour lesquelles j'avais un identifiant de bouÃ©e soit 45205 lignes. AprÃ¨s le join et suppression des doublons, j'ai toujours 45205 lignes. J'ai vÃ©rifiÃ© Ã  la main plus de 30 lignes pour regarder l'accÃ¨s Ã  l'info et il ne semble pas y avoir d'erreur.
+Pour autant j'obtiens les rÃ©sutats suivants : 
 <table>
 	    <tr>
 	        <th scope="col"> </th>
@@ -228,7 +228,7 @@ Pour autant j'obtiens les résutats suivants :
 	        <th scope="col">2019</th>
 	    </tr>
 	    <tr>
-	        <td>Nombre de calés accès info = t</td>
+	        <td>Nombre de calÃ©s accÃ¨s info = t</td>
 	        <td>886</td>
 	        <td>3733</td>
 	        <td>4817</td>
@@ -238,7 +238,7 @@ Pour autant j'obtiens les résutats suivants :
 	        <td>230</td>
 	    </tr>
 	    <tr>
-	        <td>Nombre de calés accès info = f</td>
+	        <td>Nombre de calÃ©s accÃ¨s info = f</td>
 	        <td>583</td>
          <td>1340</td>
          <td>2020</td>
@@ -248,7 +248,7 @@ Pour autant j'obtiens les résutats suivants :
          <td>3956</td>
 	    </tr>
  <tr>
-	        <td>Nombre de calés total</td>
+	        <td>Nombre de calÃ©s total</td>
 	        <td>1469</td>
          <td>5073</td>
          <td>6837</td>
@@ -258,7 +258,7 @@ Pour autant j'obtiens les résutats suivants :
          <td>4186</td>
   </tr>
   <tr>
-	        <td>Nombre de calés t/f</td>
+	        <td>Nombre de calÃ©s t/f</td>
 	        <td>1,52</td>
          <td>2,79</td>
          <td>2,38</td>
@@ -268,7 +268,7 @@ Pour autant j'obtiens les résutats suivants :
          <td>0,06</td>
   </tr>
  <tr>
-	        <td>Pourcentage de calés accès info = t</td>
+	        <td>Pourcentage de calÃ©s accÃ¨s info = t</td>
 	        <td>60,3</td>
          <td>73,6</td>
          <td>70,5</td>
@@ -281,9 +281,9 @@ Pour autant j'obtiens les résutats suivants :
 
 #### What would you like to work on next week?
 
-* Récupérer les données de logbook contenant les informations sur les prises. Reprendre les analyses en utilisant ces données.
+* RÃ©cupÃ©rer les donnÃ©es de logbook contenant les informations sur les prises. Reprendre les analyses en utilisant ces donnÃ©es.
 
-#### Where do you need help from Daniel, LoreleÃ¯ or others?
+#### Where do you need help from Daniel, LoreleÃƒÂ¯ or others?
 
 * 
 
@@ -306,7 +306,7 @@ Pour autant j'obtiens les résutats suivants :
 * Creation de jointures entre ces jeux de donnees
 * J'ai commence les analyses exploratoires sur les jeux de donnees
 
-  * LG: Bravo! :clap: N'oublie pas de garder une trace de tes requÃªtes et autres... 
+  * LG: Bravo! :clap: N'oublie pas de garder une trace de tes requÃƒÂªtes et autres... 
 
 #### What did you struggle with?
 
@@ -316,7 +316,7 @@ Pour autant j'obtiens les résutats suivants :
 
 * Continuer les analyses du jeu de donnees
 
-#### Where do you need help from Daniel, LoreleÃ¯ or others?
+#### Where do you need help from Daniel, LoreleÃƒÂ¯ or others?
 
 * 
 
@@ -333,18 +333,18 @@ Pour autant j'obtiens les résutats suivants :
 
 #### Who helped you this week?
 
-* Daniel et LoreleÃ¯ pour la mise en route des analyses
-* Philippe m'a prÃ©sentÃ© le jeu de donnÃ©es observateurs
-  * LG: Parfait! N'hÃ©site pas Ã  prendre des notes pour la mÃ©moire pour plus tard :blush:
+* Daniel et LoreleÃƒÂ¯ pour la mise en route des analyses
+* Philippe m'a prÃƒÂ©sentÃƒÂ© le jeu de donnÃƒÂ©es observateurs
+  * LG: Parfait! N'hÃƒÂ©site pas ÃƒÂ  prendre des notes pour la mÃƒÂ©moire pour plus tard :blush:
 
 #### What did you achieve?
 
-* RÃ©installer PostGre SQL.
-* CrÃ©ation d'un projet RMarkdown pour faire les analyses du jeu de donnÃ©es.
-* SÃ©paration du jeu de donnÃ©es en deux. 
+* RÃƒÂ©installer PostGre SQL.
+* CrÃƒÂ©ation d'un projet RMarkdown pour faire les analyses du jeu de donnÃƒÂ©es.
+* SÃƒÂ©paration du jeu de donnÃƒÂ©es en deux. 
 
-  * LG : ImpÃ©ccable, pas de souci particulier (choix de traitement de donnÃ©es par exemple)?
-  * GW : J'ai quelques questions comme convenu hier, j'organise une présentation pour en discuter
+  * LG : ImpÃƒÂ©ccable, pas de souci particulier (choix de traitement de donnÃƒÂ©es par exemple)?
+  * GW : J'ai quelques questions comme convenu hier, j'organise une prÃ©sentation pour en discuter
 
 #### What did you struggle with?
 
@@ -352,9 +352,9 @@ Pour autant j'obtiens les résutats suivants :
 
 #### What would you like to work on next week?
 
-* Continuer les analyses exploratives du jeu de donnÃ©es
+* Continuer les analyses exploratives du jeu de donnÃƒÂ©es
 
-#### Where do you need help from Daniel, LoreleÃ¯ or others?
+#### Where do you need help from Daniel, LoreleÃƒÂ¯ or others?
 
 * 
 
@@ -385,14 +385,14 @@ Pour autant j'obtiens les résutats suivants :
 #### What did you struggle with?
 
 * Downland MikTex or others and save my rmarkdown file in pdf.
-  * LG: ProblÃ¨me rÃ©solu?
+  * LG: ProblÃƒÂ¨me rÃƒÂ©solu?
 
 #### What would you like to work on next week?
 
 * Work on data.
 * Start a report on Markdown (Intro)
 
-#### Where do you need help from Daniel, LoreleÃ¯ or others?
+#### Where do you need help from Daniel, LoreleÃƒÂ¯ or others?
 
 * IDK
 
