@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [31 January 2020](#date-31st-january-2020)
 * [24 January 2020](#date-24th-january-2020)
 * [17 January 2020](#date-17th-january-2020)
 * [10 January 2020](#date-10th-january-2020)
@@ -9,6 +10,75 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 24th January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+
+#### What did you achieve?
+
+* GLM avec numero de cellule de la grille 
+* Premiere analyses des echosondeurs :
+  * Evolution du nombre par an
+  * Cartographie des annees avec assez de donnees (2011-2012)
+  * GLM sur toutes les annees
+  * GLM sur 2011-2012
+* Bibliographie
+* Ecriture d'un debut d'introduction (mis en ligne sur Github)
+* GLM sur les ratios t/f en groupant les donnees par quinzaine
+
+#### What did you struggle with?
+
+*
+
+#### What would you like to work on next week?
+
+* Reprendre la partie sur les calees nulles
+* Faire les graphique par trimestre 
+* Faire une carte avec le nombre de calees par cellules 
+* Voir les GLM et l'AIC
+* Voir les GAM 
+* Bibliographie 
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting 
+
+* Pour les calees nulles : 
+  * Ramener les calees nulles sur le nombre de calees total
+* Pour voir s'il y a une saisonnalite dans les captures : 
+  * Faire un graphique (t et f sur le meme graphique) avec les prise en fonction des trimestres pour chaque annee
+* Pour les GLM : 
+  * Ne mettre que le trimestre ou le mois. 
+  * Regarder le type de distribution et pourquoi l'AIC ne fonctionne pas.
+* Pour les graphique avec la grille : 
+  * Faire une carte avec le nombre de calees par cellules
+  * Reprendre la carte avec les captures medianes car les valeurs semblent tres importantes
+* Faire des GAM de ce type :
+  * S(own_fad * year) + S(year * trimestre) + S(long * lat)
+  * Avec annee et trimestre en categoriels
+  * Cela permet d'eliminer les variations spatio-temporelle et d'evaluer l'effet de balise et echosondeur
+* Pour les analyses a venir, separer le jeu de donnees en 3 parties :
+  * Peche sur une balise qui lui apprtient pas
+  * Peche sur une balise qui lui appartient avec echosondeur
+  * Peche sur une balise qui lui appartient sans echosondeur
+* Pour les ratios :
+  * Faire un ratio par cellule de 5*5 (cwp) par mois (evite les NA)
+  * Faire un GLM avec annee, trimestre et cwp (factor)
+* Envoyer par email un resume des resultats trouves jusqu'a maintenant 
+
+
 ## Date: 24th January 2020
 
 
