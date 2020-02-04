@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [31th January 2020](#date-31th-january-2020)
 * [24 January 2020](#date-24th-january-2020)
 * [17 January 2020](#date-17th-january-2020)
 * [10 January 2020](#date-10th-january-2020)
@@ -8,6 +9,42 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 31th January 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* 
+
+#### What did you achieve?
+
+* Moyenne coullisante, pressence de plusieurs "pic"
+* Pas de d'indice supplementaire pour l'ENSO de plus que le DIO
+* La difference a la moyenne pour les cohortes
+
+
+#### What did you struggle with?
+
+*
+
+#### What would you like to work on next week?
+
+* Donnes Hoyle pour la peche palangriere
+* Faire un petit rapport avec les infos precedentes
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+
 ## Date: 24th January 2020
 
 

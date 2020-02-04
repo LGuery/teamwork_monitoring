@@ -50,7 +50,7 @@ La zone de forte peche de 2005 est une zone ou generalement sont observes de for
 Disparite saisonniere: sur 126 concentrations bancs libres, 54 ont eu lieu pendant le 1er trimestre (periode de reproduction des YFT), 29 pendant le 2eme trimestre, 17 pour le 3eme trimestre et 26 au cours du 4eme trimestre.
 "Pour la concentration num 103 d'albacore (Figure 16a) les prises et l'effort evoluent de facon croissante au cours de l'exploitation jusqu'a epuisement de la ressource" La concentration num 103 fait reference a celle evoque par fonteneau mais sur une zone plus large.
 
-#### Temperature de surface
+### Temperature de surface
 
 (Marche pour le southern bluefin tuna) la capturabilite de cette espece augmente avec l'arrivee d'eau froide provenant du sud de l'ocean indien. Hsueh Jung LU (2008)
 
@@ -59,6 +59,11 @@ Variation des temperatures de surface pour les annees 1993-2004 a la Reunion: co
 ### Reduction de la biomasse apres grosses captures
 
 Baisse fortement significative de la CPUE et des prises en 2006-07 dans l'ouest de l'ocean indien. Marsac, IOTC (2008)
+
+### Episode Natosquilla
+
+Entre 2000-2005 des stromatopod (N. investigatoris) sont present par millions d'individus à la surface et sur les plages couvrant une surface allant des Seychelles au cotes africaines jusqu'au nord du canal du Mozambique. Romanov (2015)
+
 
 ## Modeles
 
