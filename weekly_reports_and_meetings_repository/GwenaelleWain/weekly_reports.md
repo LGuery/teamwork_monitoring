@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [7 February 2020](#date-7th-february-2020)
 * [31 January 2020](#date-31st-january-2020)
 * [24 January 2020](#date-24th-january-2020)
 * [17 January 2020](#date-17th-january-2020)
@@ -10,6 +11,74 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 7th February 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Victor : comprehension de la fonction qui permet de tranformer les cwp55 en coordonnees.
+
+#### What did you achieve?
+
+* Reprise des graphiques et analyses (WM du 30/01)
+  
+  * Ramener les calees nulles / calees totales
+  * Faire un graphique par annee avec les captures par trimestres
+  * Faire une carte avec le nombre de calees par cellules
+  * Refaire les cartes en prenant les cwp55 comme cellules
+  * Faire un glm sur le ratio t/f par cellules par mois
+  * Reprendre la partie sur les echosondeurs en divisant le jeu de donnees en 3
+* Ecriture et envoie d'un pdf resume des premiers resultats 
+* Bibliographie
+* Realisation des modele GAM
+
+#### What did you struggle with?
+
+* Prise en compte des facteurs dans les modeles GAM 
+  * Probleme resolu 
+
+#### What would you like to work on next week?
+
+* Changer les couleurs et les legendes des plots
+* Reprendre les cartes de valeurs medianes par cellules de 5°
+* Refaire les modèles GAM
+* Refaire les plots des modeles glm
+* Biblio pour regarder la difference entre ggeffect et ggemeans
+* Ecrire une trame de papier
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting 
+
+* Pour les analyses GLM : 
+  * Il sera necessaire de justifier pourquoi utiliser un modele GAMMA plutot qu'un modele quasi-poisson
+  * Verifier comment ggeffect prend en compte les valeur. Regarder si ggemeans n'est pas mieux
+  * Faire en sorte que les plots sortent un à un et les analyser 
+* Pour les modele GAM :
+  * Mettre l'annee en continu avec un smooth
+  * Mettre les numero des bateaux en aleatoire (car on ne s'interesse par à leur effet et donnera plus de poids aux autres facteurs)
+  * Faire un modele en ajoutant les cwp55 et regarder s'il y  a un difference compare au long*lat
+  * Faire les plots des modeles GAM
+* Commencer a ecrire une trame pour le papier
+* Commentaires de Daniel : 
+  * Reprendre les gapphiques en retirant les couleurs et en modifiant les legendes :
+    * TRUE = OWN
+    * T+E = OWN-ECHOSOUNDER
+    * FALSE = FOREIGN
+  * Reprendre les captures medianes par cellules en zoomant sur la zone
+  * Analyse GLM avec GAMMA et ratio 
+    * Possible car les ratios ne peuvent pas etre negatifs
+    
 ## Date: 31st January 2020
 
 
