@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [7th February 2020](#date-7th-february-2020)
 * [31th January 2020](#date-31th-january-2020)
 * [24 January 2020](#date-24th-january-2020)
 * [17 January 2020](#date-17th-january-2020)
@@ -9,6 +10,40 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 7th February 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Gwenaelle (cartes), Francis (donnees)
+
+#### What did you achieve?
+
+* Observations peche palangriere
+* Rapport et retouches post reunion
+
+
+#### What did you struggle with?
+
+*
+
+#### What would you like to work on next week?
+
+* Travailler sur les donnees biologiques transmise par Francis
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+
 ## Date: 31th January 2020
 
 
