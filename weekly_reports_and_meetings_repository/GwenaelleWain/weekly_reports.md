@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [14 February 2020](#date-14th-february-2020)
 * [7 February 2020](#date-7th-february-2020)
 * [31 January 2020](#date-31st-january-2020)
 * [24 January 2020](#date-24th-january-2020)
@@ -11,6 +12,57 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 14th February 2020
+
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* Modifier l'esthétique des graphiques (gris, nom de légende ...)
+* Regarder la différence entre les captures sur bouées étrangères et sur bouées propres sans échosondeurs (Résultats différents selon le test)
+* Faire un glm sur le ratio en groupant les FOREIGN et OWN
+* Refaire les modèles GAM
+* Faire les analyses :
+  * En groupant FOREIGN et OWN
+  * Sans grouper FOREIGN et OWN
+* Bibliographie + écriture (mis sur github)
+* Justification de l'utilisation du modèle GAMMA 
+
+#### What did you struggle with?
+
+ 
+
+#### What would you like to work on next week?
+
+* Continuer d'écrire la trame du document
+* Bibliographie
+* VOir les modèles GAM en modifiant les bateaux et l'effort
+* Faire des recherches sur l'utilisation des plot(glm) avec une loi gamma 
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting 
+
+* GLM : 
+  * Regarder si on peut analyser les résidus avec une loi GAMMA 
+* GAM :
+  * Voir la prise en compte des bateaux, les mettre en effet aléatoire ne fonctionne pas car il n'y a pas de hiérarchisation dans les numéros de bateaux
+  * Regarder le fichier turbobat pour avoir plus d'infos sur les bateaux
+  * Faire apparaître le nombre de calées sous les graphes pour avoir une idées de l'effort
+  
 ## Date: 7th February 2020
 
 
