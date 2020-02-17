@@ -2,6 +2,8 @@
 
 ### Thèse IRD  
 
+* [14 February 2020](#date-14th-february-2020)  
+
 * [31 January 2020](#date-31th-january-2020)  
 
 * [24 January 2020](#date-24th-january-2020)  
@@ -16,7 +18,41 @@
 
 
 -------------------------------------------------------------------  
+### Date: 14th February 2020
 
+
+#### Who did you help this week?
+
+* Antoine and Yoluene for maping on R
+
+#### Who helped you this week?
+
+
+#### What did you achieve?
+
+* Seamounts mapping, some bibliography
+
+
+#### What did you struggle with?
+
+
+
+#### What would you like to work on next week?
+
+* Abstract for AOTTP meeting in Dakar, test metrics from McGarvey (2004)
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+
+-------------------------------------------------------------------  
 ### Date: 31th January 2020
 
 
