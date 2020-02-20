@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [20 February 2020](#date-20th-february-2020)
 * [14 February 2020](#date-14th-february-2020)
 * [7 February 2020](#date-7th-february-2020)
 * [31 January 2020](#date-31st-january-2020)
@@ -12,6 +13,44 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 20th February 2020
+
+#### Who did you help this week?
+
+* Personne
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* Bibliographie
+* Refaire les GAM en mettant le numéro de bateau comme facteur 
+* Choix du meilleur modèle GAM 
+* Ecriture de la trame de l'article
+
+#### What did you struggle with?
+
+ * L'analyse des plots GLM : peut-on les analyser de manière robuste sachant que l'on utilise un inverse gamma ? 
+
+#### What would you like to work on next week?
+
+* Continuer d'écrire la trame du document
+* Bibliographie
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* Prise de décision : 
+  * Pour les trimestres : on reste sur les trimestre actuels (DJF-MAM-JJA-SON) ou on repasse sur les trimestres réels (JFM-AMJ-JAS-OND) ? 
+  * Pour les captures totales : actuellement, on fait la somme des captures de toutes les espèces mais ne faut il pas regarder que les sommes des captures des 3 espèces principales de thons ? 
+
+#### Any other topics
+
+* Je serais absente ce Vendredi 21 Février
+
+#### Weekly meeting 
+
 ## Date: 14th February 2020
 
 
