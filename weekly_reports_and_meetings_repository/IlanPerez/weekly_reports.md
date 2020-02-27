@@ -2,6 +2,10 @@
 
 ### Thèse IRD  
 
+* [28 February 2020](#date-28th-february-2020)  
+
+* [21 February 2020](#date-21th-february-2020)  
+
 * [14 February 2020](#date-14th-february-2020)  
 
 * [31 January 2020](#date-31th-january-2020)  
@@ -15,6 +19,78 @@
 * [20 December 2019](#date-20th-december-2019)
 
 * [12 December 2019](#date-12th-december-2019)  
+
+
+-------------------------------------------------------------------  
+### Date: 28th February 2020
+
+
+#### Who did you help this week?
+
+* 
+
+#### Who helped you this week?
+
+
+#### What did you achieve?
+
+* Seamounts mapping, buffering and data filtering
+
+
+#### What did you struggle with?
+
+
+* Database from Fonteneau doesn't match with his figures
+
+
+#### What would you like to work on next week?
+
+* 
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+
+-------------------------------------------------------------------  
+### Date: 21th February 2020
+
+
+#### Who did you help this week?
+
+* 
+
+#### Who helped you this week?
+
+
+#### What did you achieve?
+
+* AOTTP DAKAR Abstract
+
+
+#### What did you struggle with?
+
+
+* Database for seamounts
+
+
+#### What would you like to work on next week?
+
+* 
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
 
 
 -------------------------------------------------------------------  
