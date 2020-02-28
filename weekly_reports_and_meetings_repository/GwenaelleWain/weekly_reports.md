@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [28 February 2020](#date-28th-february-2020)
 * [20 February 2020](#date-20th-february-2020)
 * [14 February 2020](#date-14th-february-2020)
 * [7 February 2020](#date-7th-february-2020)
@@ -13,6 +14,75 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 28th February 2020
+
+#### Who did you help this week?
+
+* Personne 
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* Modifier les analyses :
+
+  * Périodes basées sur les moussons 
+  * Capture totale ne prenant en compte que les 3 espèces de thons
+* Mettre les noms des colonnes et des légendes en anglais
+* Regarder les résultat en ne prenant en compte que les années 2011 à 2014
+* Bibliographie
+* Ecriture : rédaction plus détaillée de la partie matériel et méthode
+
+#### What did you struggle with?
+
+ * 
+
+#### What would you like to work on next week?
+
+* Remettre en ordre le document en passant en annexe les parties non utiles et faire un paragraphe détaillé sur le jeu de données
+* Faire les modification sur les analyses
+* Faire les GLM en comparant les différents modèles
+* Ecriture
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* Je serais absente ce Lundi 2 Mars
+
+#### Weekly meeting du 28/02
+
+Généralité : 
+
+* Ajouter un paragraphe qui décrit la table de données et les colonnes 
+* Mettre NA pour OWN_ECHOSOUNDER en 2010 et NA pour OWN en 2015, 2016 et 2017
+* Remplacer OWN par OWN-ECHO et OWN_ECHOSOUNDER par OWN+ECHO
+
+Pour les graphes des captures par année : 
+
+* Voir pour mettre les déviations sur les erreurs (STANDARD DEV ON MEAN OR ERROR)
+
+GLM : 
+
+* Comparer les résultat avec GAMMA link =identity et tansformation LOG + Gaussian
+* Ajouter les facteurs numbat et cwp55
+* Faire sortir la table d'ANOVA
+* Mettre l'année en continue, la catégorie, la période en facteur, cwp55 en facteur et numbat en facteur
+
+GAM : 
+
+* Ajouer la variabe catégorie seule
+* Regarder pour faire sortir la table d'anova
+* Mettre la période en catégorielle
+* Mettre l'année seule 
+* Mettra la catégorie seule
+* Mettre le nombre de points sous les graphiques
+* Faire un predict des captures avec les trois catégories
+
 ## Date: 20th February 2020
 
 #### Who did you help this week?
