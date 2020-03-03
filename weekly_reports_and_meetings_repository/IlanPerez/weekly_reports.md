@@ -27,20 +27,23 @@
 
 #### Who did you help this week?
 
-* 
+* Friday: Njararatiana and her student Auriane on day field experiments to test the efficiency of para-depredation devices
 
 #### Who helped you this week?
+
 
 
 #### What did you achieve?
 
 * Seamounts mapping, buffering and data filtering
+* Contacted Kim & Wessel for their paper
+* Asked and get the PhD project call MARBEC grant
 
 
 #### What did you struggle with?
 
 
-* Database from Fonteneau doesn't match with his figures
+* Database from Fonteneau doesn't match with his figures, sf package.
 
 
 #### What would you like to work on next week?
