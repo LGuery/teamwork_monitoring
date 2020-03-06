@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [6 March 2020](#date-6th-march-2020)
 * [28 February 2020](#date-28th-february-2020)
 * [20 February 2020](#date-20th-february-2020)
 * [14 February 2020](#date-14th-february-2020)
@@ -14,6 +15,52 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 6th March 2020
+
+#### Who did you help this week?
+
+* Yannick : discussion sur les résultats que l'on fait ressortir 
+
+#### Who helped you this week?
+
+* Yannick : discussion sur l'estimation des biomasses via les échosondeurs : les seuils qu'il est possible de détecter
+
+#### What did you achieve?
+
+* Remettre le document en ordre : Ajout de la partie de présentation + Mettre en annexe les analyses précédentes
+* Mettre les NA sur les plots des calées nulles 
+* Remplacer les noms de catégories
+* Ajouter les déviations sur les erreurs dans le graphique des captures médianes
+* Comparer les différents GLM
+* Présentation du CDD lors de la réunion DCP
+* Bibliographie
+* Refaire les différents modèles GAM 
+* Analyse des captures inférieures à 25t
+* Article : Mise en forme via un template + Rédaction de l'intro + Insertion des premiers résultats
+
+#### What did you struggle with?
+
+ * 
+
+#### What would you like to work on next week?
+
+* Ecriture
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+Réunion DCP du 04/03/2020 : 
+
+* Voir avec Yannick pour l'estimation des biomasses sous échosondeurs via les données acoustiques. Il semble que les échosondeurs poeuvent fournir des données qualitatives. 
+* Les pêcheurs pensent que l'on pêche moins sous DCP. Il y a une publication de Francis qui montre que les captures diminuent (à vérifier).
+
 ## Date: 28th February 2020
 
 #### Who did you help this week?
