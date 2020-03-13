@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [13 March 2020](#date-13th-march-2020)
 * [6 March 2020](#date-6th-march-2020)
 * [28 February 2020](#date-28th-february-2020)
 * [20 February 2020](#date-20th-february-2020)
@@ -15,6 +16,30 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 13th March 2020
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+* Ecriture de l'article : écriture du résumé + écriture de la partie attribution des bouées + ajout des résultats + trame de discussion
+* Bibliographie
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+* Continuer d'écrire l'artcile notamment la partie discussion 
+* Recherche biblio
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting
+
 ## Date: 6th March 2020
 
 #### Who did you help this week?
