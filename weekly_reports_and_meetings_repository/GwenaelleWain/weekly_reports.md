@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [20 March 2020](#date-20th-march-2020)
 * [13 March 2020](#date-13th-march-2020)
 * [6 March 2020](#date-6th-march-2020)
 * [28 February 2020](#date-28th-february-2020)
@@ -16,6 +17,79 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 20th March 2020
+
+#### Who did you help this week?
+
+* Victor : pour les figures et leur placement lors de l'export en pdf
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+* Reprise de la bibliographie déjà faite pour faire la trame de la discussion
+* Nouvelle biblio
+* Ecriture d'idées pour la partie discussion
+* Changement de la mise en page de l'article : une figure par page et à la fin du document
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+* Identifier les outliers
+* Faire tourner les GLM et GLMM 
+* Continuer l’article 
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting du 20/03
+
+* Outliers : Identifier les outliers et leurs caractéristiques
+* GLM : Faire tourner avec et sans l'intéraction (année * catégorie) + Comparer les résultats des deux et voir si on garde l'intéraction
+* GLMM : Mettre l'effet numbat en aléatoire + Faire tourner avec et sans l'intéraction
+* GAM : les laisser de côté pour le moment
+* Article : Continuer l'écriture + Etre plus précise dans l'introduction + Développer les hypothèses et les objectifs généraux possibles + Ne pas faire apparaître les résultats sur les calées nulles
+
+## Date: 6th March 2020
+
+#### Who did you help this week?
+
+* Yannick : discussion sur les résultats que l'on fait ressortir 
+
+#### Who helped you this week?
+
+* Yannick : discussion sur l'estimation des biomasses via les échosondeurs : les seuils qu'il est possible de détecter
+
+#### What did you achieve?
+
+* Remettre le document en ordre : Ajout de la partie de présentation + Mettre en annexe les analyses précédentes
+* Mettre les NA sur les plots des calées nulles 
+* Remplacer les noms de catégories
+* Ajouter les déviations sur les erreurs dans le graphique des captures médianes
+* Comparer les différents GLM
+* Présentation du CDD lors de la réunion DCP
+* Bibliographie
+* Refaire les différents modèles GAM 
+* Analyse des captures inférieures à 25t
+* Article : Mise en forme via un template + Rédaction de l'intro + Insertion des premiers résultats
+
+#### What did you struggle with?
+
+ * 
+
+#### What would you like to work on next week?
+
+* Ecriture
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
 ## Date: 13th March 2020
 
 #### Who did you help this week?
