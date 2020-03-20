@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [20th March 2020](#date-20th-march-2020)
 * [14th February 2020](#date-14th-february-2020)
 * [7th February 2020](#date-7th-february-2020)
 * [31th January 2020](#date-31th-january-2020)
@@ -11,6 +12,54 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+
+## Date: 20th March 2020
+
+
+#### Who did you help this week?
+
+* 
+
+#### Who helped you this week?
+
+* Gwenaelle, plusieurs choses sur RMD
+
+#### What did you achieve?
+
+* Les analyses sur les couches de melanges, temperature de surface, biblio
+
+
+#### What did you struggle with?
+
+* Passage de rmd à word
+* Ecriture de la revue
+* Deplacements personnel
+
+#### What would you like to work on next week?
+
+* Ecriture de la revue
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* Sur le papier deja transmis, aide en cours (Influence of oceanographic and climatic variability on the catch rate of yellowfin tuna (Thunnus albacares) cohorts in the Indian; Ocean Kuo-Wei Lan)
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+* Informations : 
+- Coco de mer = Mont sous marin
+- Données Taiwanaises peu fiable due aux changement d'especes visees régulierement
+- Plusieurs stocks dans l'ocean indien
+- A profondeur differentes, comportement des thons differents
+- Certaines zones sont reconnues pour une mauvaise attribution des type de banc
+
+* Projet : 
+- Faire la revue + voir apres mercredi 25 pour la réunion concernant CPUE DCP
+
+
 
 ## Date: 14th February 2020
 
