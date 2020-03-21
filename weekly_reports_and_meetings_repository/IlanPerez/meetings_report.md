@@ -2,13 +2,23 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
+* [18th March 2020](#date-18th-march-2020) Seamounts exploration   
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12th-december-2019)  :airplane: :rocket: Kick-off!
 
 
 -------------------------------------------------------------------
+### Date: 18th March 2020
+## Presentation of exploration results and immobile structures effects
 
+* I presented the "phd_meeting_13rdMarch.html" presentation available in my repository.
+
+# Questions/remarks
+
+* Correct some mistakes in the presentations
+* All explorations are good but we need to find a threshold for time at liberty to exclude tunas that are immediately recptured.
+-------------------------------------------------------------------
 ### Date: 20th January 2020
 ## First exploration of AOTTP data 
 
