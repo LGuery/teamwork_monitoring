@@ -2,6 +2,8 @@
 
 ### Thèse IRD  
 
+* [16 March 2020](#date-16th-march-2020)  
+
 * [28 February 2020](#date-28th-february-2020)  
 
 * [21 February 2020](#date-21th-february-2020)  
@@ -19,6 +21,45 @@
 * [20 December 2019](#date-20th-december-2019)
 
 * [12 December 2019](#date-12th-december-2019)  
+
+
+-------------------------------------------------------------------  
+### Date: 16th March 2020
+
+#UPDATE FOR THE 3 LAST WEEKS
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* Antoine gave me some graphs and data about YFT/BET size frequencies under FADS and in freeschool for my presentation
+
+#### What did you achieve?
+
+* Exploring differences between tunas associated with immobile structures and the other
+* Presentation with xaringan package
+* GDR ecostat grant form
+
+#### What did you struggle with?
+
+
+* Hard to do the presentation.
+* find a good threshold for time t liberty for tunas
+
+#### What would you like to work on next week?
+
+* find a good threshold for time t liberty for tunas
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
 
 
 -------------------------------------------------------------------  
