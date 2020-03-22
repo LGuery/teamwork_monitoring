@@ -14,10 +14,18 @@
 
 * I presented the "phd_meeting_13rdMarch.html" presentation available in my repository.
 
-# Questions/remarks
+#### Questions/remarks
 
-* Correct some mistakes in the presentations
-* All explorations are good but we need to find a threshold for time at liberty to exclude tunas that are immediately recptured.
+* Correct some mistakes in the presentation
+* don't forget the references
+* Find more recent data about FAD fisheries (slides 6-8)  
+
+* Need to exclude tunas that are tagged and/or caught in January/February => no moratorium effect
+
+* Try to do a 3D plot : time at lib, time and tagging location
+
+#### What to to do next
+* All explorations are good but we need to find a threshold for time at liberty to exclude tunas that are immediately recptured => in progress
 -------------------------------------------------------------------
 ### Date: 20th January 2020
 ## First exploration of AOTTP data 
