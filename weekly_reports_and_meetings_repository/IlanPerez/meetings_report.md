@@ -12,7 +12,9 @@
 -------------------------------------------------------------------
 ### Date: 25th March 2020
 
-## PhD meeting. Postponed meeting with Matthieu. Put :sun: during confinment
+## PhD meeting. Postponed meeting with Matthieu. Put :sunny: during confinment
+
+Same presentation than [18th March 2020](#date-18th-march-2020) but corrected and presented to Matthieu t show him the advancement 
 
 -------------------------------------------------------------------
 ### Date: 18th March 2020
