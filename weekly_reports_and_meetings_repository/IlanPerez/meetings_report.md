@@ -14,8 +14,11 @@
 
 ## PhD meeting. Postponed meeting with Matthieu. Put :sunny: during confinment
 
-Same presentation than [18th March 2020](#date-18th-march-2020) but corrected and presented to Matthieu t show him the advancement 
+Same presentation than [18th March 2020](#date-18th-march-2020) but corrected and presented to Matthieu t show him the progression for the 1st objectif of the thesis.
 
+### Remarks
+
+* Be more precise on ecological trap definition !!! :shipit:
 -------------------------------------------------------------------
 ### Date: 18th March 2020
 ## Presentation of exploration results and immobile structures effects
