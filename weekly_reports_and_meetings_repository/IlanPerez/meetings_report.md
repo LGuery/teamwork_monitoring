@@ -18,7 +18,39 @@ Same presentation than [18th March 2020](#date-18th-march-2020) but corrected an
 
 ### Remarks
 
-* Be more precise on ecological trap definition !!! :shipit:
+* Discussions about new moratorium: since January 2020 (Rec[19-02]), FAD fishing forbidden over all the Altlantic Ocean, for 2 months in 2020 and 3 months in 2021  
+
+* Be more precise on ecological trap definition !!! :shipit: See Daniel's ppt  
+
+* No R output in the slides (Try `r kable ()` for tables )  
+
+* Correct some mistakes : #6/27, #5/27  
+
+* Don't forget to be precise on the filter applied for doing graphs
+
+* KEEP Brazilian data that are now corrected
+
+* Matthieu : Need to sub-sample the data to have two comparable samples
+
+* Still need to find a threshold of time at liberty
+
+
+### What to do
+
+* 1: Test Matching (cf emails from Matthieu) to create 2 sub-samples that are comparable between inside and outside the moratorium. "COntrole" sample with tunas from outside the moratorium. Don't forget to use only variables that are known at the tagging time, to keep RC-1 and RCF tunas.
+
+* 2: compute monthly RR from November 2016 to 2019
+
+* 3: "Spill probability" (Daniel Idea): look at tunas that are Re In & Rc Out + Re OUt & Rc In 
+:arrow_right: Look at the travel distance 
+
+* 4: Verify if moratorium forbids anvhored FAD fishing (Ask Sosthène)
+
+* 5: Bibliographic rewiew for Ecological Trap and Bycatch papers from Daniel
+
+* 6: take a look to the schedule: where are we ?
+
+
 -------------------------------------------------------------------
 ### Date: 18th March 2020
 ## Presentation of exploration results and immobile structures effects
