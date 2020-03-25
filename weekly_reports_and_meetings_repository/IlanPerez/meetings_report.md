@@ -7,8 +7,12 @@
 * [18th March 2020](#date-18th-march-2020) Seamounts exploration   
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
-* [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off!
+* [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
 
+-------------------------------------------------------------------
+### Date: 25th March 2020
+
+## PhD meeting. Postponed meeting with Matthieu. Put :sun: during confinment
 
 -------------------------------------------------------------------
 ### Date: 18th March 2020
