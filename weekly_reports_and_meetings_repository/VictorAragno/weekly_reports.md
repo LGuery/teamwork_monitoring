@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [27th March 2020](#date-27th-march-2020)
 * [20th March 2020](#date-20th-march-2020)
 * [14th February 2020](#date-14th-february-2020)
 * [7th February 2020](#date-7th-february-2020)
@@ -12,6 +13,49 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 27th March 2020
+
+
+#### Who did you help this week?
+
+* Gwenaelle modèle 
+
+#### Who helped you this week?
+
+* 
+
+#### What did you achieve?
+
+* details techniques (reference biblio, imagess ou tableaux)
+* refaire graph avec echelles similaires
+* biblio 
+
+
+#### What did you struggle with?
+
+* Passage de rmd à word alors que rmd à pdf marche
+* Ecriture de la revue
+
+#### What would you like to work on next week?
+
+* Ecriture de la revue
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+*
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+* Informations : 
+- la semaine pro passage sur indice d'abondance 1 composante:
+de 1991 à 2009 cpue simple 
+de 2010 à 2018 inclure densité DCP +supply vessel
+- plus tard separer modele en 2 composantes : DCP avec et sans (balise-pas la leurs) 
+
 
 ## Date: 20th March 2020
 
