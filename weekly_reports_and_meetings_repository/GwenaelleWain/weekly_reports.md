@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [27 March 2020](#date-27th-march-2020)
 * [20 March 2020](#date-20th-march-2020)
 * [13 March 2020](#date-13th-march-2020)
 * [6 March 2020](#date-6th-march-2020)
@@ -17,6 +18,77 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 27th March 2020
+
+#### Who did you help this week?
+
+* Personne 
+
+#### Who helped you this week?
+
+* Victor : choix du package pour les GLMM. Compréhension de l'erreur affichée en sortie.
+
+#### What did you achieve?
+
+* Document résultats : corrections + mise en annexe des anciennes parties
+* Histrogramme des captures par catégories et par années pour regarder si on voit un seuil à 25t.
+* Identification des outliers et des paramètres responsables.
+* Modèles GLM avec et sans l'intéraction entre l'année et la catégorie
+* Modèles GLMM avec et sans l'intéraction entre l'année et la catégorie
+* Article : reprise de l'introduction en divisant en 3 parties :
+
+	* Contexte de l'étude : état des connaissances 
+	* Enjeux scientifiques : cadre de l'étude, questions associées, les études actuelles ont déjà répondues à ces questions ? 
+	* Stratégie d'étude : données utilisées, hypothèses de travail, objectifs et résultats attendus
+
+#### What did you struggle with?
+
+* Les erreurs en sortie des GLMM
+
+#### What would you like to work on next week?
+
+* Continuer d'écrire l'article 
+* Bibliographie 
+* Faire les modifications 
+* Faire tourner les 3 modèles 
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting du 27/03
+
+Pour le document : 
+
+* Ajouter les tables pour résumer les résultats des différents modèles testés
+
+Pour les outliers : 
+
+* Ne retirer que les outliers qui tombent dans la cellule avec deux calées
+* Faire le plot des résidus à la main 
+* Faire les predict pour toutes les années 
+* Regarder les petites calées 
+
+Pour les cwp55 qui ressortent sur les cartes :
+
+* Regarder la proportion de chaque bateau
+
+Modèles déjà faits :
+
+* Lorsque l'on fait le GLM avec l'intéraction entre l'année et la catégorie, les coefficients sont trop proches entre les deux catégories --> pas d'interprétation possible
+* Il semble qu'il y ait un poids trop important des numbat et cwp55
+
+3 modèles à tester : 2 GAM et 1 GLM 
+
+* Remplacer les années par des valeurs de 0 à 7. Cela permet d'interpréter directement les coefficients
+* Le GAM montre des effets presque linéaire pour tous les paramètres --> on peut donc passer sur un GLM
+* Regarder si on peut faire une ANOVA sur les GAM pour regarder si tous les paramètres sont significatifs
+* gam : s(lon x lat) + s(year, by=category) + category + numbat + period
+* gam : s(lon x lat) + s(year) + category + numbat + period
+* Ne pas faire de transformation sur les prises
+* Variables continues : year, lon et lat
+* Variables catégorielles : category, numbat, period et cwp55
+
 ## Date: 20th March 2020
 
 #### Who did you help this week?
