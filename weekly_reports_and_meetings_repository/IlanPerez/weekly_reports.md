@@ -2,6 +2,8 @@
 
 ### Thèse IRD  
 
+* [23 March 2020](#date-23rd-march-2020)
+
 * [16 March 2020](#date-16th-march-2020)  
 
 * [28 February 2020](#date-28th-february-2020)  
@@ -22,7 +24,54 @@
 
 * [12 December 2019](#date-12th-december-2019)  
 
+-------------------------------------------------------------------  
+### Date: 23rd March 2020
 
+#### Who did you help this week?
+
+* WE ARE CONDINED :trollface:
+
+#### Who helped you this week?
+
+* WE ARE CONDINED :trollface:
+
+#### What did you achieve?
+
+* PhD meeting on Tuesday 24th, with Daniel, Loreleï and Matthieu. Same presentation than the previous week but corrected
+
+* Added to the presentation some corrections, see in the [meeting report](https://github.com/LGuery/teamwork_monitoring/blob/master/weekly_reports_and_meetings_repository/IlanPerez/meetings_report.md#date-25th-march-2020)
+
+* Read papers from Daniel, currently doing the bibliographic report
+
+* "Matching" methodology, red some bibliography, tried it
+
+* Explored "Spill probability" (idea from Daniel) : gives nothing
+
+#### What did you struggle with?
+
+* Matching: two methods and I didn't find the best one
+* Evolution of RR each year, by taking different pre-moratorium period for tagging
+
+#### What would you like to work on next week?
+
+* Finish with Marching
+* Table of historical moratorium 
+* Biblio for GDR Ecostat  + Ecological trap
+
+#### Where do you need help from Daniel or others?
+
+* Maybe Matthieu for Matching
+
+#### Decisions made during meetings
+
+* Need to match samples to have comparable ones between inside and outside the moratorium
+
+#### Any other topics 
+
+
+
+
+-------------------------------------------------------------------  
 -------------------------------------------------------------------  
 ### Date: 16th March 2020
 
