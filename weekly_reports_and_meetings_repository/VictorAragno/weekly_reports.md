@@ -15,10 +15,11 @@
 -------------------------------------------------------------------
 ## Date: 27th March 2020
 
+    * # LG: C'est mieux! Essaie de dÃ©tailler encore plus, prends plus de notes pendant les rÃ©unions peut-Ãªtre? Pour t'aider Ã  chaque journÃ©e tu peux prÃ©-remplir le weekly report et tu verras qu'Ã  la fin de la semaine la liste des tÃ¢ches effectuÃ©es sera plus grande!
 
 #### Who did you help this week?
 
-* Gwenaelle modèle 
+* Gwenaelle modÃ¨le 
 
 #### Who helped you this week?
 
@@ -33,7 +34,7 @@
 
 #### What did you struggle with?
 
-* Passage de rmd à word alors que rmd à pdf marche
+* Passage de rmd Ã  word alors que rmd Ã  pdf marche
 * Ecriture de la revue
 
 #### What would you like to work on next week?
@@ -52,8 +53,8 @@
 
 * Informations : 
 - la semaine pro passage sur indice d'abondance 1 composante:
-de 1991 à 2009 cpue simple 
-de 2010 à 2018 inclure densité DCP +supply vessel
+de 1991 Ã  2009 cpue simple 
+de 2010 Ã  2018 inclure densitÃ© DCP +supply vessel
 - plus tard separer modele en 2 composantes : DCP avec et sans (balise-pas la leurs) 
 
 
@@ -75,7 +76,7 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 
 #### What did you struggle with?
 
-* Passage de rmd à word
+* Passage de rmd Ã  word
 * Ecriture de la revue
 * Deplacements personnel
 
@@ -95,13 +96,13 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 
 * Informations : 
 - Coco de mer = Mont sous marin
-- Données Taiwanaises peu fiable due aux changement d'especes visees régulierement
+- DonnÃ©es Taiwanaises peu fiable due aux changement d'especes visees rÃ©gulierement
 - Plusieurs stocks dans l'ocean indien
 - A profondeur differentes, comportement des thons differents
 - Certaines zones sont reconnues pour une mauvaise attribution des type de banc
 
 * Projet : 
-- Faire la revue + voir apres mercredi 25 pour la réunion concernant CPUE DCP
+- Faire la revue + voir apres mercredi 25 pour la rÃ©union concernant CPUE DCP
 
 
 
@@ -235,7 +236,7 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 #### What would you like to work on next week?
 
 * Moyenne coulissante (voir box plot coulissant) des poids des calees et difference a la moyenne sur l'annee.
-* Recher indice El Niño-Southern Oscillation (ENSO).
+* Recher indice El NiÃ±o-Southern Oscillation (ENSO).
 * Spatialisation des captures.
 
 #### Where do you need help from Daniel, Lorelei or others?
@@ -273,7 +274,7 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 
 * Poursuivre idee concentration en nombre d'activite
 
-#### Where do you need help from Daniel, Loreleï or others?
+#### Where do you need help from Daniel, LoreleÃ¯ or others?
 
 * 
 
@@ -307,7 +308,7 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 * refaire des petits rapports 
 * Coupler les analyses sur les histogrammes de poids aux zones de fortes concentrations
 
-#### Where do you need help from Daniel, Loreleï or others?
+#### Where do you need help from Daniel, LoreleÃ¯ or others?
 
 * 
 
@@ -331,11 +332,11 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 
 #### What did you achieve?
 
-* AperÃ§u des disparites ou non des captures par trimestre mois sur quadrillage de 1 et 5 degre  
+* AperÃƒÂ§u des disparites ou non des captures par trimestre mois sur quadrillage de 1 et 5 degre  
 
 #### What did you struggle with?
 
-* Choix de tonnage minimum pour resteindre l'analyse des zones Ã  de grandes captures
+* Choix de tonnage minimum pour resteindre l'analyse des zones ÃƒÂ  de grandes captures
   * LG: tu nous fais un petit topo?
 
 #### What would you like to work on next week?
@@ -343,7 +344,7 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 * Finir petit rapport sur les concentrtions
 * Reprendre les analyses sur les histogrammes de poids 
 
-#### Where do you need help from Daniel, LoreleÃ¯ or others?
+#### Where do you need help from Daniel, LoreleÃƒÂ¯ or others?
 
 * 
 
@@ -397,7 +398,7 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 #### Who did you help this week?
 
 * Gwenaelle, Alex (petit tho, ? revoir)
-  * LG: Est-ce que tu peux dÃ©tailler pour chaque personne l'objet et le temps que Ã§a t'a demandÃ© peut-Ãªtre, ou toute autre info que tu penseras utile? :smirk:
+  * LG: Est-ce que tu peux dÃƒÂ©tailler pour chaque personne l'objet et le temps que ÃƒÂ§a t'a demandÃƒÂ© peut-ÃƒÂªtre, ou toute autre info que tu penseras utile? :smirk:
 
 #### Who helped you this week?
 
@@ -406,12 +407,12 @@ de 2010 à 2018 inclure densité DCP +supply vessel
 
 #### What did you achieve?
 
-* CrÃ©ation et comprÃ©hension des repertoire Github
+* CrÃƒÂ©ation et comprÃƒÂ©hension des repertoire Github
 * Une partie de la biblio
-* Visite mÃ©dicale et sociale
-* Premiere approche gÃ©ographique des donnees
+* Visite mÃƒÂ©dicale et sociale
+* Premiere approche gÃƒÂ©ographique des donnees
 
-  * LG: :clap: :clap: N'hÃ©site pas Ã  nous montrer tes trouvailles!
+  * LG: :clap: :clap: N'hÃƒÂ©site pas ÃƒÂ  nous montrer tes trouvailles!
   
 #### What did you struggle with?
 
