@@ -89,6 +89,8 @@ Modèles déjà faits :
 * Variables continues : year, lon et lat
 * Variables catégorielles : category, numbat, period et cwp55
 
+	* ## LG: :+1: Super, vraiment bien détaillé et clair. Continue! :+1:
+
 ## Date: 20th March 2020
 
 #### Who did you help this week?
