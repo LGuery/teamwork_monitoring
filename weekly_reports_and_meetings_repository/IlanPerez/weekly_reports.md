@@ -27,13 +27,15 @@
 -------------------------------------------------------------------  
 ### Date: 23rd March 2020
 
+    * # LG: Essaie de faire attention aux fautes de frappe? Que penses-tu aussi en cette période de confinement d'être un poil plus assidu pour les dates des weekly reports et les faire à date fixe?
+
 #### Who did you help this week?
 
-* WE ARE CONDINED :trollface:
+* WE ARE CONFINED :trollface:
 
 #### Who helped you this week?
 
-* WE ARE CONDINED :trollface:
+* WE ARE CONFINED :trollface:
 
 #### What did you achieve?
 
@@ -54,7 +56,7 @@
 
 #### What would you like to work on next week?
 
-* Finish with Marching
+* Finish with Matching
 * Table of historical moratorium 
 * Biblio for GDR Ecostat  + Ecological trap
 
