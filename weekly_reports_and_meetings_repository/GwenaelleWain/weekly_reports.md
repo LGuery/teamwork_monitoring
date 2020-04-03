@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [3 April 2020](#date-3rd-April-2020)
 * [27 March 2020](#date-27th-march-2020)
 * [20 March 2020](#date-20th-march-2020)
 * [13 March 2020](#date-13th-march-2020)
@@ -18,6 +19,84 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 27th March 2020
+
+#### Who did you help this week?
+
+* Personne 
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* Correction de David sur l'intro du papier + compléter les infos
+* Reprise du document résultats : ajout des tableaux récapitulatifs des analyses précédentes
+* Information sur les cellules qui ressortent sur les cartes 
+* Commencer à reprendre le papier pour la présentation du 9 Avril
+* Faire tourner les 3 modèles discutés lors de la réunion du 27 Mars
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+* Reprendre le papier et préparer la présentation du 9 Avril
+* Faire tourner les nouveaux modèles 
+* Lire le second article envoyé par Daniel
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting du 03/04
+
+Conclusions sur les modèles précédents : 
+
+* Le GAM montre une première partie de courbe qui augmente fortement puis une sorte de plateau. On peut donc distinguer deux phases : une phase d'apprentissage puis une phase d'utilisation des échosondeurs
+* Ce modèles est à garder des les analyses
+
+Modèles à tester :
+
+* Faire un modèle GAM et l'équivalent GLM uniquement sur la période 2012 - 2017
+* Ne pas prendre en compte l'interaction entre l'année et la catégorie dans les deux modèles
+* Pour le GLM utiliser cwp55. Cela permettra aussi de regarder si l'indice spatiale utilisé modifie les résultats
+
+Article : 
+
+* Mat et mét : données 	
+
+	* Explication de la suppression de la cwp55 avec 2 calées + mise en annexe de la cartographie sur laquelle on la voit
+	* Tableau reprenant les bateaux avec les années de présence et le nombre de calées. Mettre en annexe les résultats du GAM avant suppression des deux bateaux. Permet de justifier la suppression des deux bateaux.
+	
+* Résultats : 
+
+	* Graphe des calées nulles 
+	* Graphe + tableaux sur le nombre de calées positives
+	* Capture médiane par année. Voir pour mettre soit les captures médianes sans les intervalles ou les captures moyennes avec les écarts à la moyenne ou des boxplots
+	* GAM total_catch~s(long,lat)+s(years)+s(years, by=category)+category+numbat+period. Parler des deux phases pour justifier les modèles suivants 
+	* GAM sur 2012 - 2017 sans prendre l'interaction entre l'année et la catégorie
+	* GLM 2012 - 2017 sans prendre en compte l'interaction et en prenant cwp55
+	
+* Discussion 
+
+	* Calées inférieures à 25 t et calées inférieures à 10 t. Met en avant une évolution dans le choix des DCP ? Graphe en annexe
+	* Eventuellement histogramme des captures sur toutes les années par catégorie. Graphe en annexe
+	* Renvois aux cartes en annexe
+	
+* Annexes : 
+
+	* Carte du début avec la cellule qui ressort (justification du retrait)
+	* GAM avec les deux bateaux (justification du retrait)
+	* Cartographie
+	
+Données : 
+
+* Retrait des deux bateaux qui interviennent uniquement en 2010 - 2012. Ils ne sont pas utiles pour la comparaison qui nous intéresse.
+
+
 ## Date: 27th March 2020
 
 #### Who did you help this week?
