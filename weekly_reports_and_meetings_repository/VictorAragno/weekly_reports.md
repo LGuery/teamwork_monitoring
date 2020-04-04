@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [3rd April 2020](#date-3rd-april-2020)
 * [27th March 2020](#date-27th-march-2020)
 * [20th March 2020](#date-20th-march-2020)
 * [14th February 2020](#date-14th-february-2020)
@@ -13,6 +14,44 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 3rd April 2020
+
+
+#### Who did you help this week?
+
+*  
+
+#### Who helped you this week?
+
+* Gwenaelle (aide texte)
+
+#### What did you achieve?
+
+* Ecriture revue 
+
+#### What did you struggle with?
+
+* Passage de rmd à word alors que rmd à pdf marche
+
+#### What would you like to work on next week?
+
+* Preparer donner et faire Modèle CPUE Listao une composante
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* email avec objectif de Lorelei
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+* Présentation pour réunion le 9 avril:
+- Modèle 1 composante pour CPUE listao 
+
+
+
 ## Date: 27th March 2020
 
 
