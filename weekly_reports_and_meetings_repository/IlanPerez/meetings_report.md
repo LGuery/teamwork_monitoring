@@ -40,7 +40,7 @@ I presented:
 
 A faire:
 1) Histogramme du nombre de poissons/catégorie de taille tous les 10cm
-2) Figure Isolignesen gardant tous les individus - définition des seuils de temps de liberté/distance
+2) Figure Isolignes en gardant tous les individus - définition des seuils de temps de liberté/distance
 3) Procédure de MatchIt
 4) Explorer les patatoïdes
 
