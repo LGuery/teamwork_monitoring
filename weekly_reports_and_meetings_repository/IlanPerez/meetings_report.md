@@ -3,7 +3,7 @@
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
 * [1st April 2020](#date-1st-april-2020) Filtering and matching the data 
-* [25th March 2020](#date-25th-march-2020) PhD meeting  
+* [24th March 2020](#date-24th-march-2020) PhD meeting  
 * [18th March 2020](#date-18th-march-2020) Seamounts exploration   
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
@@ -36,9 +36,23 @@ I presented:
 
 * 
 
+### LG's comments
+
+A faire:
+1) Histogramme du nombre de poissons/catégorie de taille tous les 10cm
+2) Figure Isolignesen gardant tous les individus - définition des seuils de temps de liberté/distance
+3) Procédure de MatchIt
+4) Explorer les patatoïdes
+
+Décisions de tourner les analyses pour les 3 définitions de juvéniles - **A vérifier et ajouter les références correspondantes**:
+- 56cm : Résolution ICCAT des individus de 3.2kg (**vérifier ces 56cm avec une relation taille/poids plus récente, si communication avec l'Ob7 à ce sujet, nous mettre en copie des mails**)
+- 70cm : Double stanza
+- 108cm : juveniles 50% repro
+
+Garder en tête la pondération par la capture
 
 -------------------------------------------------------------------
-### Date: 25th March 2020
+### Date: 24th March 2020
 
 ## PhD meeting. Postponed meeting with Matthieu. Put :sunny: during confinment
 
@@ -98,6 +112,7 @@ Same presentation than [18th March 2020](#date-18th-march-2020) but corrected an
 - **Faire un résumé/review des papiers envoyés par Daniel** -> cf "What to do #5"
 - **Prendre du recul sur le planning de thèse et voir où on en est/réajustement des objectifs?/mide en place de deadlines?** -> cf "What to do #6"
 - **Idée Daniel : Regarder le tps de liberté et distance des individus entrés et sortis du moratoire** -> cf "What to do #3"
+- **OBJECTIF début de papier dans 2 semaines**
 
 -------------------------------------------------------------------
 ### Date: 18th March 2020
