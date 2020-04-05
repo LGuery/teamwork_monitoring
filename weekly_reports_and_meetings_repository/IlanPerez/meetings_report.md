@@ -78,6 +78,26 @@ Same presentation than [18th March 2020](#date-18th-march-2020) but corrected an
 
 * 6: take a look to the schedule: where are we ?
 
+### LG's comments
+- *et al.* en italique - latin
+- D5 : fautes tech**n**ology, sin**c**e
+- D6 : nb de poissons? Pas en tonnage
+- D7 : Attention explication du piège écologique pas encore matrisée -> **Faire une petite revue bibliographique sur le sujet** -> cf "What to do #5"
+- Pas clair pourquoi tu te concentres sur les juvéniles
+- Transition entre D7 et D8 à revoir
+- D8 : Donner la définition d'un moratoire = interdiction de pêcher sous dFAD
+- D11 : Inclure les données brésiliennes
+- D13 Bravo, notation très claire
+- D16 : Même table, attention à la forme
+- **Traiter les données année par année?**
+- **Indiquer à chaque analyse/graph les flitres opérés sur les données**
+- D22 : Retirer "Homing"
+- D23 : Titre erroné
+- **Vérifier si pendant le moratoire on peut pêcher sous aFAD?** -> cf "What to do #4"
+- **Faire la procédure de MatchIt avec le type de structure, la taille, le mois...** -> cf "What to do #1"
+- **Faire un résumé/review des papiers envoyés par Daniel** -> cf "What to do #5"
+- **Prendre du recul sur le planning de thèse et voir où on en est/réajustement des objectifs?/mide en place de deadlines?** -> cf "What to do #6"
+- **Idée Daniel : Regarder le tps de liberté et distance des individus entrés et sortis du moratoire** -> cf "What to do #3"
 
 -------------------------------------------------------------------
 ### Date: 18th March 2020
