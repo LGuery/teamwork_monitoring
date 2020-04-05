@@ -2,19 +2,47 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
-
+* [1st April 2020](#date-1st-april-2020) Filtering and matching the data 
 * [25th March 2020](#date-25th-march-2020) PhD meeting  
 * [18th March 2020](#date-18th-march-2020) Seamounts exploration   
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
+-------------------------------------------------------------------
+
+### Date: 1st April 2020
+
+## Exploration of matching and filtering data discussions
+
+I presented:
+
+* Impossibility of computing annual RR because of the lack of data
+
+* RR if we keep 2 to 8 weeks pre-moratorium period were tagging are kept for the analysis
+
+* Matching on propensity score method and discussion about covariables to keep
+
+### Decisions
+
+* Use Release length, Release month and Release Structure as covariables for Matching and put together OIL and ANF codes
+
+* Need to remove bias of recapture: filter data according to the extreme data on the bottom left of the  distance = f(time at liberty) graph for tunas relased under dFAD
+
+* Explore what are the "PATATES" :potato: for seamounts data
+
+
+
+### What to do
+
+* 
+
 
 -------------------------------------------------------------------
 ### Date: 25th March 2020
 
 ## PhD meeting. Postponed meeting with Matthieu. Put :sunny: during confinment
 
-Same presentation than [18th March 2020](#date-18th-march-2020) but corrected and presented to Matthieu t show him the progression for the 1st objectif of the thesis.
+Same presentation than [18th March 2020](#date-18th-march-2020) but corrected and presented to Matthieu: show him the progression for the 1st objectif of the thesis.
 
 ### Remarks
 
