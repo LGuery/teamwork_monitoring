@@ -2,7 +2,9 @@
 
 ### Thèse IRD  
 
-* [23 March 2020](#date-23rd-march-2020)
+* [6 April 2020](#date-6th-april-2020)
+
+* [30 March 2020](#date-30th-march-2020)
 
 * [16 March 2020](#date-16th-march-2020)  
 
@@ -25,7 +27,55 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
-### Date: 23rd March 2020
+### Date: 6th April 2020
+
+ 
+#### Who did you help this week?
+
+* WE ARE CONFINED :trollface:
+
+#### Who helped you this week?
+
+* WE ARE CONFINED :trollface:
+
+#### What did you achieve?
+
+* Meeting on Wednesday 1st April. see in the [meeting report](https://github.com/LGuery/teamwork_monitoring/blob/master/weekly_reports_and_meetings_repository/IlanPerez/meetings_report.md)
+
+* MatchIt of data
+
+* Descriptive statistics
+
+* Filtering of data: determined the threshold of one week and 50 km
+
+* Exporation of potato shaped data of the distance = f(time) graph
+
+* Began bibliographic review of ecological trap
+
+
+#### What did you struggle with?
+
+* Matching: two methods and I didn't find the best one
+* Evolution of RR each year, by taking different pre-moratorium period for tagging
+
+#### What would you like to work on next week?
+
+* Finish with Matching
+* Table of historical moratorium 
+* Biblio for GDR Ecostat  + Ecological trap
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+-------------------------------------------------------------------  
+### Date: 30th March 2020
 
     * # LG: Essaie de faire attention aux fautes de frappe? Que penses-tu aussi en cette période de confinement d'être un poil plus assidu pour les dates des weekly reports et les faire à date fixe?
 
