@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [10 April 2020](#date-10th-April-2020)
 * [3 April 2020](#date-3rd-April-2020)
 * [27 March 2020](#date-27th-march-2020)
 * [20 March 2020](#date-20th-march-2020)
@@ -19,6 +20,71 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 10th April 2020
+
+#### Who did you help this week?
+
+* Personne 
+
+#### Who helped you this week?
+
+* Victor : rappel de comment il a comparé les histogrammes dans ses analyses
+
+#### What did you achieve?
+
+* Intégrer tous les résultats et rédaction de l'article
+* Préparation de la présentation de l'article du 9 Avril
+* Ajout des tables des stepAIC dans l'article
+* Modification de la partie matériel et méthode pour la partie attribution des bouées
+* Modification du graphique du GAM
+* Histogrammes avec différentes échelles
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+* Faire la comparaison des histogrammes entre F et O+E
+* Regarder la fraction de calées supérieures à 50 t et à 100t
+* Avancer sur la partie discussion du papier
+* Regarder la proportion des différents modèles de bouées
+* Refaire le GAM en prenant l'interaction entre les coordonnées et la catégorie. Uniquement sur 2012-2017
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting 
+
+Réunion pour préparer la visio du groupe  DCP :
+
+* Modifier le titre de l'article
+* Mettre tous les auteurs
+* Lors de l'introduction bien parler de l'augmentation de la puissance de pêche liée aux échosondeurs
+* Dans les titres de graphes et des cartes bien préciser capture médiane par calée
+* Revoir la partie attribution des bouées
+* Pour le nombre de calées positives, ne pas se focaliser sur l'année 2017 mais sur la forte augmentation les années précédentes
+* Pour le graphe de sortie du GAM remettre les années
+* Pour les résultats des GAM et GLM donner le coefficient et le pourcentage. Ajouter le tableau des anova.
+* Regarder les cartes avec des cellules de 1°
+
+Retours de la réunion DCP sur l'article :
+
+* Attention à l'utilisation du terme calées nulles, vérifier la définition
+* Mieux analyser les histogrammes
+* Pour les captures médianes, voir pour faire des boîtes à moustache. Essayer de faire des comparaisons entre années et catégorie.
+* Intéressant de regarder l'effet des modèles de bouées
+* Intéressant de regarder si l'effet des échosondeurs est le même sur toutes les zones
+* Comme pour les petites calées, regarder les proportions pour les grandes calées
+
+Weekly meeting du 10/04 : 
+
+* Mettre le document Rmarkdown et les documents annexes sur github
+* Refaire les graphiques avec les grosses calées
+* Pour le nombre de calées, ajouter un panneau avec les proportions
+* Pour regarder l'effet spatial : refaire le GAM en prenant en compte l'interaction entre les coordonnées et la catégorie. Permettra de voir si des zones spatiales ressortent avec des coefficients différents.
+
 ## Date: 3rd April 2020
 
 #### Who did you help this week?
