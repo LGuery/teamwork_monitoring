@@ -2,6 +2,7 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
+* [8th April 2020](#date-8th-april-2020) Decisions for the symposium
 * [1st April 2020](#date-1st-april-2020) Filtering and matching the data 
 * [24th March 2020](#date-24th-march-2020) PhD meeting  
 * [18th March 2020](#date-18th-march-2020) Seamounts exploration   
@@ -9,7 +10,19 @@
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
 -------------------------------------------------------------------
+### Date: 8th April 2020
 
+## Decisions:
+
+* Keep ideas about behavior  of tuna associated with SMO. 
+
+* See distance = f(time) for all species and define the threshold => DONE
+
+### What to do
+
+* Ask to HErvé Demarcq + Francis + Alain for seamounts data (off Sierra Leone)
+
+-------------------------------------------------------------------
 ### Date: 1st April 2020
 
 ## Exploration of matching and filtering data discussions
