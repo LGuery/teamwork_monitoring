@@ -22,6 +22,11 @@
 
 * Ask to HErvé Demarcq + Francis + Alain for seamounts data (off Sierra Leone)
 
+* Finish bibliographic report
+
+* Prepare script for all length classes
+
+* Begin to write MM + Results
 -------------------------------------------------------------------
 ### Date: 1st April 2020
 
