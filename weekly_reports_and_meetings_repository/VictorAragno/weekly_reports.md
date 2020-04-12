@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [10th April 2020](#date-10th-april-2020)
 * [3rd April 2020](#date-3rd-april-2020)
 * [27th March 2020](#date-27th-march-2020)
 * [20th March 2020](#date-20th-march-2020)
@@ -14,6 +15,46 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 10th April 2020
+
+
+#### Who did you help this week?
+
+*  
+
+#### Who helped you this week?
+
+*
+
+#### What did you achieve?
+
+* Petites correction sur revue
+* Construction base supplye vessel
+* Premiere lecture du code de LG
+
+#### What did you struggle with?
+
+* Base de données
+
+#### What would you like to work on next week?
+
+* CPUE 1 composante avec supplye vessel ?
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+* résolution du "problème" des donées et rdv avec LG pour quel modèle faire tourner
+
+
+
+
 ## Date: 3rd April 2020
 
 
