@@ -1,6 +1,8 @@
 # Weekly Reports
 
-### Thèse IRD  
+### Thèse IRD 
+
+* [13 April 2020](#date-13th-april-2020)
 
 * [6 April 2020](#date-6th-april-2020)
 
@@ -27,6 +29,49 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+
+### Date: 13th April 2020
+
+ 
+#### Who did you help this week?
+
+* WE ARE CONFINED :trollface:
+
+#### Who helped you this week?
+
+* WE ARE CONFINED :trollface:
+
+#### What did you achieve?
+
+* Meeting on Wednesday 8th April. see in the [meeting report](https://github.com/LGuery/teamwork_monitoring/blob/master/weekly_reports_and_meetings_repository/IlanPerez/meetings_report.md)
+
+* Bibliographic review of some articles
+
+* Finished GDR Ecostat form
+
+* Began to adapt script to all size classes
+
+
+#### What did you struggle with?
+#### What would you like to work on next week?
+
+* Finish script duplication
+
+* Launch final scripts for YFT
+
+* Begin Writing.
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 6th April 2020
 
  
