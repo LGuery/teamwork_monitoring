@@ -27,6 +27,24 @@
 * Prepare script for all length classes
 
 * Begin to write MM + Results
+
+### LG's comments
+
+A faire:
+1) Refaire la figure avec toutes les espèces puis une par espèce
+2) CAH pour exclure
+3) Rédiger les méthodes du papier
+4) Réfléchir au moyen le plus optimal pour travailler de manière collaborative sur le papier (Github tous les jours puis un word par semaine en google doc?)
+5) Faire un excel partagé pour le planning
+
+**OBJECTIF fin Avril pour un draft de papaier avec méthodes et résultats**
+Garder en tête de demander à Lisa si soummission à Fisheries Research avant le symposium est possible
+
+Garder sous le coude le sujet "comportement aggrégatif des thons):
+* Comment définir le seuil SMO comme attractif -> histogramme des profondeur pour les SMO avec capture
+* Patatoïde à étudier par bâteau. Explorer les groupes d'individus qui avaient été marqués ensemble puis recapturés ensemble -> comportement
+* Faire le lien avec la thèse hotpot+SMO=ZFH?, utilisation de la présence/absence de SMO, distance et profondeur
+
 -------------------------------------------------------------------
 ### Date: 1st April 2020
 
