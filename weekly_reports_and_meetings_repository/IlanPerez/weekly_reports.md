@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [CURRENT WEEK](#date-13th-april-2020)
+
 * [13 April 2020](#date-13th-april-2020)
 
 * [6 April 2020](#date-6th-april-2020)
@@ -29,7 +31,44 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+### Date: 20th April 2020
 
+ 
+#### Who did you help this week?
+
+* WE ARE CONFINED :trollface:
+
+#### Who helped you this week?
+
+* WE ARE CONFINED :trollface:
+
+#### What did you achieve?
+
+* I sent the form for GDR Ecostat grant to Stephane on Wednesday.
+
+* I verified why we keep all tunas tagged inside moratorium area, even though they are tagged near ANF and they have no homologs outside the area. That's because I use the method "Nearest neighbour", which will match tunas with the nearest propensity score. So tunas can have different levels of covariables, if they have close propsensity score, they will be matched.
+
+
+#### What did you struggle with?
+#### What would you like to work on next week?
+
+* Finish script duplication
+
+* Launch final scripts for YFT
+
+* Begin Writing.
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 13th April 2020
 
  
