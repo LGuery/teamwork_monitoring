@@ -41,6 +41,7 @@
 #### What did you struggle with?
 
 * Exporter l'article car le package tmap ne fonctionne pas sur la nouvelle version de R. Comme discuté ce matin je vais essayer de télécharger un version plus ancienne.
+	* GW : Problème résolu je n'ai rien fait de plus et tmap fonctionne à nouveu =)
 
 #### What would you like to work on next week?
 
