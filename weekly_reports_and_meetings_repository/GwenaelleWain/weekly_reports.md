@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [17 April 2020](#date-17th-April-2020)
 * [10 April 2020](#date-10th-April-2020)
 * [3 April 2020](#date-3rd-April-2020)
 * [27 March 2020](#date-27th-march-2020)
@@ -20,6 +21,50 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 17th April 2020
+
+#### Who did you help this week?
+
+* Personne 
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+* Document sur les histogrammes 
+* GAM en prenant en compte l'interaction entre les coordonnées et la catégorie
+* Regarder les proportions des différents modèles de bouées
+* Regarder la différence entre les BO et les BL
+
+#### What did you struggle with?
+
+* Exporter l'article car le package tmap ne fonctionne pas sur la nouvelle version de R. Comme discuté ce matin je vais essayer de télécharger un version plus ancienne.
+
+#### What would you like to work on next week?
+
+* Essentiellement sur le papier. Reprendre les commentaires de David. Modifier les tableaux pour les faires apparaître via des codes.
+* Faire les nouvelles analyses demandées sur les espèces.
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting du 17/04
+
+Effet sur les espèces : 
+
+* L'idée est de regarder si les échosondeurs ont les mêmes effets sur les trois espèces. Pour cela, on va faire tourner deux modèles.
+* GLM : catch_per_species_per_set ~ cwp55 + period + year + numbat + category * specie
+* Modèle multinomial : espece_dominante ~ cwp55 + period + year + category + numbat
+* Mettre les boxplot des captures par catégories et par espèces
+
+Article : 
+
+* Reprendre l'article 
+* Modifier le YALM pour correcpondre au journal
+
 ## Date: 10th April 2020
 
 #### Who did you help this week?
