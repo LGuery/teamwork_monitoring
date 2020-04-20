@@ -2,6 +2,7 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement  
 
+* [15th April 2020](#date-15th-april-2020)SMO + CAH
 * [8th April 2020](#date-8th-april-2020) Decisions for the symposium
 * [1st April 2020](#date-1st-april-2020) Filtering and matching the data 
 * [24th March 2020](#date-24th-march-2020) PhD meeting  
@@ -9,6 +10,30 @@
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
+-------------------------------------------------------------------
+
+### Date: 15th April 2020
+
+
+## What to do
+
+* Keep exploring to filter out points from fistance = f(time) graph. 
+Some ideas: 
+ - Look deeper in HAC: where are the points that are separated in the tree
+ - Look at frequency by class of 10lm and 1 day 
+ - Look at geometric distance from origni of each points & look at distibution
+ 
+ * Explore why Matching keeps ANF tagged tunas :heavy_check_mark:
+ 
+ * Send email to Hervé Demarcq, Francis Marsac & Alain Fontenau.
+ 
+ * Do histogram of number of taggins on seamounts by peak height :heavy_check_mark:
+
+
+### LG's comments
+
+
+
 -------------------------------------------------------------------
 ### Date: 8th April 2020
 
@@ -31,13 +56,13 @@
 ### LG's comments
 
 A faire:
-1) Refaire la figure avec toutes les espèces puis une par espèce
-2) CAH pour exclure
-3) Rédiger les méthodes du papier
-4) Réfléchir au moyen le plus optimal pour travailler de manière collaborative sur le papier (Github tous les jours puis un word par semaine en google doc?)
-5) Faire un excel partagé pour le planning
+1) Refaire la figure avec toutes les espèces puis une par espèce :heavy_check_mark:
+2) CAH pour exclure :curly_loop:
+3) Rédiger les méthodes du papier :curly_loop:
+4) Réfléchir au moyen le plus optimal pour travailler de manière collaborative sur le papier (Github tous les jours puis un word par semaine en google doc?) :curly_loop:
+5) Faire un excel partagé pour le planning 
 
-**OBJECTIF fin Avril pour un draft de papaier avec méthodes et résultats**
+**OBJECTIF fin Avril pour un draft de papier avec méthodes et résultats**
 Garder en tête de demander à Lisa si soummission à Fisheries Research avant le symposium est possible
 
 Garder sous le coude le sujet "comportement aggrégatif des thons):
