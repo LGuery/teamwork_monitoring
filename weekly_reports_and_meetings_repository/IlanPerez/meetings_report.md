@@ -100,10 +100,10 @@ I presented:
 ### LG's comments
 
 A faire:
-1) Histogramme du nombre de poissons/catégorie de taille tous les 10cm
-2) Figure Isolignes en gardant tous les individus - définition des seuils de temps de liberté/distance
-3) Procédure de MatchIt
-4) Explorer les patatoïdes
+1) Histogramme du nombre de poissons/catégorie de taille tous les 10cm :heavy_check_mark:
+2) Figure Isolignes en gardant tous les individus - définition des seuils de temps de liberté/distance :heavy_check_mark:
+3) Procédure de MatchIt :heavy_check_mark:
+4) Explorer les patatoïdes :heavy_check_mark:
 
 Décisions de tourner les analyses pour les 3 définitions de juvéniles - **A vérifier et ajouter les références correspondantes**:
 - 56cm : Résolution ICCAT des individus de 3.2kg (**vérifier ces 56cm avec une relation taille/poids plus récente, si communication avec l'Ob7 à ce sujet, nous mettre en copie des mails**)
