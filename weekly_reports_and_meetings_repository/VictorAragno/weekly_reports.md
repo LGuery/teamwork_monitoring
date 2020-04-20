@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [17th April 2020](#date-17th-april-2020)
 * [10th April 2020](#date-10th-april-2020)
 * [3rd April 2020](#date-3rd-april-2020)
 * [27th March 2020](#date-27th-march-2020)
@@ -15,6 +16,45 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 17th April 2020
+
+
+#### Who did you help this week?
+
+*  
+
+#### Who helped you this week?
+
+*
+
+#### What did you achieve?
+
+* CPUE OI 1991-2017, 3ieme CP YFT BET SKJ 
+* Construction base supply vessel
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+* CPUE courte durÃ©e
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* 
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+* priorite CPUE petits YFT et SKJ
+* joindre periode courte au debut de la longue
+* modele 3 composantes prendre uniquement bouees Ã©trangeres
+
+
 ## Date: 10th April 2020
 
 
@@ -34,7 +74,7 @@
 
 #### What did you struggle with?
 
-* Base de données
+* Base de donn?es
 
 #### What would you like to work on next week?
 
@@ -50,7 +90,7 @@
 
 #### Weekly meeting
 
-* résolution du "problème" des donées et rdv avec LG pour quel modèle faire tourner
+* resolution du "probleme" des donees et rdv avec LG pour quel modele faire tourner
 
 
 
@@ -72,11 +112,11 @@
 
 #### What did you struggle with?
 
-* Passage de rmd à word alors que rmd à pdf marche
+* Passage de rmd ? word alors que rmd ? pdf marche
 
 #### What would you like to work on next week?
 
-* Preparer donner et faire Modèle CPUE Listao une composante
+* Preparer donner et faire Mod?le CPUE Listao une composante
 
 #### Where do you need help from Daniel, Lorelei or others?
 
@@ -88,8 +128,8 @@
 
 #### Weekly meeting
 
-* Présentation pour réunion le 9 avril:
-- Modèle 1 composante pour CPUE listao 
+* Pr?sentation pour r?union le 9 avril:
+- Mod?le 1 composante pour CPUE listao 
 
 
 
