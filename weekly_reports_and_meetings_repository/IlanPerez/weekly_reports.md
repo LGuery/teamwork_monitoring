@@ -2,7 +2,7 @@
 
 ### Thèse IRD 
 
-* [CURRENT WEEK](#date-13th-april-2020)
+* [20 April 2020](#date-20th-april-2020)
 
 * [13 April 2020](#date-13th-april-2020)
 
@@ -48,15 +48,21 @@
 
 * I verified why we keep all tunas tagged inside moratorium area, even though they are tagged near ANF and they have no homologs outside the area. That's because I use the method "Nearest neighbour", which will match tunas with the nearest propensity score. So tunas can have different levels of covariables, if they have close propsensity score, they will be matched.
 
+* I explored seamonts tagging data and showed thath there is no correlation between peak depth and catch. But there are catch on seamount down to 400 m depth, so we can keep this as a limit.
+There are 7 spots of seamounts tagging, that are often not coded as "SMO" when tuna are recaptured. We need to work with Sosthène to point out mistakes in the AOTTP database.
+
+* Still exploring methods to filter out tunas in distance = f(time) graphe.
+
+* Little advance in methods writing.
 
 #### What did you struggle with?
 #### What would you like to work on next week?
 
 * Finish script duplication
 
-* Launch final scripts for YFT
+* Launch final scripts for all species 
 
-* Begin Writing.
+* Continue Writing.
 
 #### Where do you need help from Daniel or others?
 
