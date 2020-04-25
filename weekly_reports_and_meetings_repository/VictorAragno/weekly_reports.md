@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD Golden years
+* [24th April 2020](#date-24th-april-2020)
 * [17th April 2020](#date-17th-april-2020)
 * [10th April 2020](#date-10th-april-2020)
 * [3rd April 2020](#date-3rd-april-2020)
