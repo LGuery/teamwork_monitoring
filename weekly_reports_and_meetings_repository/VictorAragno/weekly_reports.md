@@ -16,6 +16,49 @@
 * [27 December 2019](#date-27th-december-2019)
 * [20 December 2019](#date-20th-december-2019)
 -------------------------------------------------------------------
+## Date: 24th April 2020
+
+
+#### Who did you help this week?
+
+*  
+
+#### Who helped you this week?
+
+*
+
+#### What did you achieve?
+
+* CPUE OI FAD 1991-2017, 3ieme CP YFT cat 1 et 23 SKJ mis à jour
+* CPUE OI FAD 2010-2017, 3ieme CP YFT SKJ
+* CPUE OI FOREIGN FAD 2010-2017, 2IEME CP SKJ et YFT cat 1
+
+#### What did you struggle with?
+
+* CPUE OI FOREIGN FAD 2010 2017, 1ere CP SKJ et YFT cat 1,
+pas les données necessaire et sinon je ne sais pas comment associer les données pour calculer cette première composante.
+
+#### What would you like to work on next week?
+
+* CPUE OI FOREIGN FAD 2010 2017, 1ere et 3ieme CP SKJ et YFT cat 1
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+* CPUE OI FOREIGN FAD 2010 2017, 1ere CP SKJ et YFT cat 1,
+pas les données necessaire et sinon je ne sais pas comment associer les données pour calculer cette première composante.
+
+#### Any other topics
+
+* 
+
+#### Weekly meeting
+
+* priorite CPUE petits YFT et SKJ
+* joindre periode courte au debut de la longue
+* modele 3 composantes prendre uniquement bouees Ã©trangeres
+
+
+
 ## Date: 17th April 2020
 
 
