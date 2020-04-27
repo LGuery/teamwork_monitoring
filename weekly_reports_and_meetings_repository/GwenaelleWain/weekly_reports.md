@@ -1,6 +1,7 @@
 # Weekly Reports
 
 ## IE IRD - CPUE dFADs
+* [24 April 2020](#date-24th-April-2020)
 * [17 April 2020](#date-17th-April-2020)
 * [10 April 2020](#date-10th-April-2020)
 * [3 April 2020](#date-3rd-April-2020)
@@ -21,6 +22,47 @@
 * [20 December 2019](#date-20th-december-2019)
 
 -------------------------------------------------------------------
+## Date: 24th April 2020
+
+#### Who did you help this week?
+
+* Personne 
+
+#### Who helped you this week?
+
+* Personne
+
+#### What did you achieve?
+
+Document sur les espèces : 
+
+* Graphe par espèces
+* Boxplot par espèces et par catégories
+* Analyse avec l'interaction categorie * espèce
+* Analyse sur l'espèce dominante
+
+Reprise des corrections de Daniel  
+Ajout des références manquantes  
+Reprise du supplementary data et ajout des renvois dans l'article  
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+Continuer de travailler sur le papier :
+
+* Bibliographie et rédaction de la conclusion
+
+#### Where do you need help from Daniel, Lorelei or others?
+
+#### Any other topics
+
+#### Weekly meeting 
+
+Prochaine réunion Mardi 28/04
+
 ## Date: 17th April 2020
 
 #### Who did you help this week?
