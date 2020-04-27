@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [27 April 2020](#date-27th-april-2020)
+
 * [20 April 2020](#date-20th-april-2020)
 
 * [13 April 2020](#date-13th-april-2020)
@@ -31,6 +33,50 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+### Date: 27th April 2020
+
+ 
+#### Who did you help this week?
+
+* WE ARE CONFINED :trollface:
+
+#### Who helped you this week?
+
+* WE ARE CONFINED :trollface:
+
+#### What did you achieve?
+
+* I searched information about matching, why ANF tunas are kept. Tried new methods, CEM and exact matching, and explored analysis of balance. In fact, first attempt of matching creates more imbalance in the sampling.
+
+* Skype with Sosthène, organization about seamounts bibliographic research and analysis
+
+* Slight advance in methods writing
+
+#### What did you struggle with?
+
+* I struggled with matching. Exact matching does filter more tunas than nearest neighbour method, but ANF tunas are almost alll kept. I don't understand why, I tried everything in the code to correct it, red through litterature about matching but didn't find any answer. I ask on stack overflow and I'm waiting for an answer.
+
+#### What would you like to work on next week?
+
+* Finish script duplication
+
+* Continue Writing.
+
+* Bibliographic research seamount
+
+* FInd a solution for matching
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 20th April 2020
 
  
