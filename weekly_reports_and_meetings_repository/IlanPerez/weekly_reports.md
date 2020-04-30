@@ -35,6 +35,7 @@
 -------------------------------------------------------------------  
 ### Date: 27th April 2020
 
+<!--LG: tes deux derniers WR sont beaucoup mieux que les autres! Bravo! Continue à les étoffer--!>
  
 #### Who did you help this week?
 
