@@ -1,7 +1,10 @@
 # Meetings Reports
 
-### Thèse IRD, rapports de nos réunions d'encadrement  
+### Thèse IRD, rapports de nos réunions d'encadrement
 
+* [4th May 2020](#data-4th-may-2020) Matching test and filtering with box plot
+* [29th April 2020](#data-29th-april-2020) Matching test and filtering with box plot
+* [22nd April 2020](#data-22nd-april-2020) CAH and distance for filtering
 * [15th April 2020](#date-15th-april-2020)SMO + CAH
 * [8th April 2020](#date-8th-april-2020) Decisions for the symposium
 * [1st April 2020](#date-1st-april-2020) Filtering and matching the data 
@@ -11,7 +14,59 @@
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
 -------------------------------------------------------------------
+### Date: 4th May 2020
 
+## Topics
+
+* Meeting with Sosthène about Seamounts recoding. We presented our bibliographic research. But after discussions, we decided to lead our own analysis, coupling seamounts data and ECD/AVDTH data. The aim will be to define height, depth and surface area where seamounts are actively attracting tunas.
+
+## What to do
+
+* Ask for data to Ob7
+
+### LG's comments
+
+
+
+-------------------------------------------------------------------
+### Date: 29th April 2020
+
+## Topics
+
+* Good visualization with the boxplot graph time/distance. The FSC graph will be the reference because free tunas are the ones that have the "most natural behavior".
+
+* Matching with nearest neighbour does not give good results. More imbalance is created with this method. Need to talk with Matthieu about these bad results. CEM methods seems to give better results.
+
+
+
+## What to do
+
+* Repport about matching for Matthieu
+* Try more day at liberty bins for boxplot graph, 1 day, 2 days..up to 7 
+* Look at matched pairs to understand matching process
+
+### LG's comments
+
+
+
+-------------------------------------------------------------------
+### Date: 22nd April 2020
+
+## Topics
+* Meeting with Sosthène for seamounts recoding
+
+* HAC didn't work well. Not the good filtering method
+* Geometric distance was not the good method neither.
+
+## What to do
+
+* Try to do the same boxplot than David Kaplan et al. 2014.
+
+### LG's comments
+
+
+
+-------------------------------------------------------------------
 ### Date: 15th April 2020
 
 
