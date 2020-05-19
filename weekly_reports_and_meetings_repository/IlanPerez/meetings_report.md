@@ -2,7 +2,10 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
-* [4th May 2020](#data-4th-may-2020) Matching test and filtering with box plot
+
+
+* [13th May 2020](#data-13th-may-2020) Phd meeting with Matthieu => matching issues
+* [4th May 2020](#data-4th-may-2020) Recoding SMO meeting with Sosthène
 * [29th April 2020](#data-29th-april-2020) Matching test and filtering with box plot
 * [22nd April 2020](#data-22nd-april-2020) CAH and distance for filtering
 * [15th April 2020](#date-15th-april-2020)SMO + CAH
@@ -13,7 +16,35 @@
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
--------------------------------------------------------------------
+------------------------------------------------------------------
+### Date: 13th May 2020
+
+## Topics
+
+* Presentation of advancement in the PhD, seamounts project with Sosthene, Methodes for the first paper.
+
+* Organization of PhD comitee => changes needed
+
+* Organization of stay in La Rochelle
+
+* Discussions about matchong of data
+
+* Abstract + Methods for CISEF
+
+## What to do
+
+* For matching: 
+ - Try to fit a logit GAM, with spline on raw length values. 
+ - Then verify goodness of fit => see Matthieu's papers
+  - Then, extract the propensity scores from the fitted model and use them with `Matching`. Maybe try to complexify the model with year ? 
+  
+ * For filtering:
+  - Filtering with boxplots was okay, we keep a 3 days limit. Try a one-way test for parametric significance test.
+ 
+
+### LG's comments
+
+------------------------------------------------------------------
 ### Date: 4th May 2020
 
 ## Topics
