@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [3 June 2020](#date-3rd-june-2020)
+
 * [27 April 2020](#date-27th-april-2020)
 
 * [20 April 2020](#date-20th-april-2020)
@@ -33,6 +35,68 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+### Date: 3rd June 2020
+ 
+## Grooooooos update parce que j'ai pas été un bon élève
+ 
+#### Who did you help this week?
+
+* WE ARE CONFINED :trollface:
+
+#### Who helped you this week?
+
+* WE ARE CONFINED :trollface:
+
+#### What did you achieve?
+
+##### Methods for CISEF
+
+* First draft of Methods is written !
+
+##### Filtering 
+
+* Finally find that we will filter out tunas with 3 days at liberty or less. Wilcoxon tests tell that those tunas significantly traveled less than others (true for YFT and SKJ, not significant for  BET).
+
+##### Matching
+* Developed and fitted a GAM model with spline on length to have better Propensity scores than with the native glm in the matchit() function.
+
+* I tried to estimate a good caliper for matching, but didn't find a way for the moment. Set it at 0.2 x SD.
+
+* Decided to reverse control and treated groups. The treated group will be the tuna from outside the moratorium because there are less data in this group if we only keep January and February and we want to keep the maximum data available.
+
+* Succed with PSM Nearest neighbour matching. All indices show that balance is improved with this method.
+
+* Random matching seems to give quite different results depending the iteration. I ran the matching algorithm 1000 times. Number of matched individiuals can vary about 10. It has a huge impact on RR computation, because INSIDE RCF tunas vary from 0 to 7. This makes the RR sometimes infinte or very high (~ 177 !!).
+
+##### Seamounts
+
+* 3 meetings with Sosthène about seamount project.
+
+* Achieve ECD data colection from Ob7 and treatment.
+
+* We created a grid from cwp squares, and selected all squares with seamounts in them and at least 1 ECD data (2008-2019 temporal footprint).
+
+* Creation of buffers with METRIC diameter, and union of "polyseamount" buffers.
+
+#### What did you struggle with?
+
+* With EVERYTHING. Details coming
+
+#### What would you like to work on next week?
+
+* PhD comitee presentation !
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 27th April 2020
 
 * LG: tes deux derniers WR sont beaucoup mieux que les autres! Bravo! Continue à les étoffer :)
