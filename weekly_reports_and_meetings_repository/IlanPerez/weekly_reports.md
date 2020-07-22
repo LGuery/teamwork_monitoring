@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [13 July 2020](#date-13rd-july-2020)
+
 * [3 June 2020](#date-3rd-june-2020)
 
 * [27 April 2020](#date-27th-april-2020)
@@ -35,6 +37,42 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+### Date: 13rd July 2020
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* Loreleï for datarmor uses
+
+#### What did you achieve?
+
+* SMO meeting with Sosthène. 
+
+* Computation of RR for old moratoriums (REC 11 and REC 98) BUT the results are not good because I forgot to filter FAD data in the rec 11 script.
+
+
+#### What did you struggle with?
+
+* Cluster, can't launch a job and my scripts..
+
+#### What would you like to work on next week?
+
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+See : [here](https://github.com/LGuery/teamwork_monitoring/blob/master/weekly_reports_and_meetings_repository/IlanPerez/meetings_report.md#date-22nd-july-2020)
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 3rd June 2020
  
 ## Grooooooos update parce que j'ai pas été un bon élève
