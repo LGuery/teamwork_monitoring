@@ -3,7 +3,7 @@
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
 
-
+* [22nd July 2020](#data-22nd-july-2020) réu reprise et objectifs de l'été
 * [13th May 2020](#data-13th-may-2020) Phd meeting with Matthieu => matching issues
 * [4th May 2020](#data-4th-may-2020) Recoding SMO meeting with Sosthène
 * [29th April 2020](#data-29th-april-2020) Matching test and filtering with box plot
@@ -16,6 +16,28 @@
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
+------------------------------------------------------------------
+### Date: 22nd July 2020
+
+## Topics
+
+* Calcul du RR pour les anciens moratoires
+* Test de randomisation pour sur données matchées 
+* Cartographie de l'effort dans la zone sur carrés 1°x 1° et son évolution
+
+
+## What to do
+
+* Il faut retirer les captures sous DCP dans la zone des anciens moratoires pour être consistants avec le calcul de du RR du premier moratoire (pas de capture sous DCP dans la zone pendant les deux mois)
+
+* Il faudrait faire un test de randomisation pour déterminer si les valeurs du RR sont dues aux hasard. 
+
+* Commencer lepapier ICCAT sur le RR
+
+* Lancer les scripts sur le cluster
+
+### LG's comments
+
 ------------------------------------------------------------------
 ### Date: 13th May 2020
 
