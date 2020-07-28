@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [27 July 2020](#date-27-july-2020)
+
 * [13 July 2020](#date-13rd-july-2020)
 
 * [3 June 2020](#date-3rd-june-2020)
@@ -37,6 +39,43 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+### Date: 13rd July 2020
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* Friday Loreleï for datarmor uses
+
+#### What did you achieve?
+
+* CISEF Bayesian courses from Tuesday to Thursday
+
+#### What did you struggle with?
+
+* Cluster, can't run my scripts..
+
+#### What would you like to work on next week?
+
+* SMO, work with Sosthène and meeting with Daniel and Loreleï to decide what's next
+
+* Run the RR script on the cluster
+
+* Read bibliography for the ICCAT paper
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 13rd July 2020
 
 #### Who did you help this week?
