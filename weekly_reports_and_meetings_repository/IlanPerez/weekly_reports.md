@@ -2,7 +2,9 @@
 
 ### Thèse IRD 
 
-* [27 July 2020](#date-27-july-2020)
+* [3 August 2020](#date-3rd-august-2020)
+
+* [27 July 2020](#date-27th-july-2020)
 
 * [13 July 2020](#date-13rd-july-2020)
 
@@ -39,7 +41,47 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
-### Date: 13rd July 2020
+
+### Date: 27th July 2020
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* Nobody
+
+#### What did you achieve?
+
+* FINALLY succeed to run RR computation script on the Datarmor cluster. The error was because of the R version I used locally was superior to the one loaded on the cluster. The `dplyr::bindrows()` function returned an error because it was not able to bind factor columns (re_MOIS). Changing the class from factor to character resolved the pb.
+
+* Great SMO meeting: see report in the meetings reports section
+
+#### What did you struggle with?
+
+* Cluster, but it works now !
+
+* MY TOOTH WERE HURTING. Hard to work on Friday.
+
+#### What would you like to work on next week?
+
+* Read bibliography for the ICCAT paper
+
+* Finallise results, run randomization test on RR
+
+#### Where do you need help from Daniel or others?
+
+
+#### Decisions made during meetings
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
+### Date: 27th July 2020
 
 #### Who did you help this week?
 
