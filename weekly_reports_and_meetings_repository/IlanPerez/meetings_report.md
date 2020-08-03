@@ -3,6 +3,7 @@
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
 
+* [28th July 2020](#data-28th-july-2020) réu SMO choix de la suite du projet
 * [22nd July 2020](#data-22nd-july-2020) réu reprise et objectifs de l'été
 * [13th May 2020](#data-13th-may-2020) Phd meeting with Matthieu => matching issues
 * [4th May 2020](#data-4th-may-2020) Recoding SMO meeting with Sosthène
@@ -16,6 +17,31 @@
 * [20 January 2020](#date-20th-january-2020) Previous exploration    
 * [13 January 2020](#date-13th-january-2020) Gipsy's script
 * [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
+------------------------------------------------------------------
+### Date: 28th July 2020
+
+## Topics
+
+* Présentation des résultats d'exploration des relations SMO/données ECD:
+
+- Nous avons remarqué que le nombre de données par SMO était relativement faible autour des SMO, malgré les 11 ans de données FR et SP. Seulement 13 SMO présente plus de 100 données dans leur buffer de 50km de rayon. Parmis ces 13 SMO, aucun effet de la profondeur ne semble apparaître. Nous estimons que la profondeur n'est pas le critère prédominant dans l'aggrégation des thons. Les données environnementales **doivent** être prises en compte.
+
+
+
+## What to do
+
+* Laisser de côté le projet pour l'instant et se concentrer sur nos projets respectifs.
+* Modifier l'apporche: 
+- Initialement, nous faisions un buffer autour des SMO et nous avons séléctionné ceux avec au moins une donnée. Il a été proposé de définir la zone de pêche en recréant un polygone autour des cellules 1°x1° **NON-ISOLÉES**.
+- Cette zone sera la zonne d'étude et tous les SMO présents dans cette zone et avec moins de 1000 m de profondeur seront sélectionnés.
+
+3 hypothèses :
+1) Si pas de captures autour de SMO dans Zone de pêche = pas attactif
+2) SMO doit avoir un effet sur toute la période
+3) Attraction = fonction profondeur + distance ?
+
+### LG's comments
+
 ------------------------------------------------------------------
 ### Date: 22nd July 2020
 
