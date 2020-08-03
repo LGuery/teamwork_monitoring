@@ -3,20 +3,20 @@
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
 
-* [28th July 2020](#data-28th-july-2020) réu SMO choix de la suite du projet
-* [22nd July 2020](#data-22nd-july-2020) réu reprise et objectifs de l'été
-* [13th May 2020](#data-13th-may-2020) Phd meeting with Matthieu => matching issues
-* [4th May 2020](#data-4th-may-2020) Recoding SMO meeting with Sosthène
-* [29th April 2020](#data-29th-april-2020) Matching test and filtering with box plot
-* [22nd April 2020](#data-22nd-april-2020) CAH and distance for filtering
+* [28th July 2020](#data-28th-july-2020)réu SMO choix de la suite du projet
+* [22nd July 2020](#data-22nd-july-2020)réu reprise et objectifs de l'été
+* [13th May 2020](#data-13th-may-2020)Phd meeting with Matthieu => matching issues
+* [4th May 2020](#data-4th-may-2020)Recoding SMO meeting with Sosthène
+* [29th April 2020](#data-29th-april-2020)Matching test and filtering with box plot
+* [22nd April 2020](#data-22nd-april-2020)CAH and distance for filtering
 * [15th April 2020](#date-15th-april-2020)SMO + CAH
-* [8th April 2020](#date-8th-april-2020) Decisions for the symposium
-* [1st April 2020](#date-1st-april-2020) Filtering and matching the data 
-* [24th March 2020](#date-24th-march-2020) PhD meeting  
-* [18th March 2020](#date-18th-march-2020) Seamounts exploration   
-* [20 January 2020](#date-20th-january-2020) Previous exploration    
-* [13 January 2020](#date-13th-january-2020) Gipsy's script
-* [12 December 2019](#date-12nd-december-2019)  :airplane: :rocket: Kick-off! 
+* [8th April 2020](#date-8th-april-2020)Decisions for the symposium
+* [1st April 2020](#date-1st-april-2020)Filtering and matching the data 
+* [24th March 2020](#date-24th-march-2020)PhD meeting  
+* [18th March 2020](#date-18th-march-2020)Seamounts exploration   
+* [20 January 2020](#date-20th-january-2020)Previous exploration    
+* [13 January 2020](#date-13th-january-2020)Gipsy's script
+* [12 December 2019](#date-12nd-december-2019) :airplane: :rocket: Kick-off! 
 ------------------------------------------------------------------
 ### Date: 28th July 2020
 
