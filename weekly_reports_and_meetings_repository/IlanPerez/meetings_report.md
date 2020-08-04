@@ -3,12 +3,12 @@
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
 
-* [28th July 2020](#data-28th-july-2020)réu SMO choix de la suite du projet
-* [22nd July 2020](#data-22nd-july-2020)réu reprise et objectifs de l'été
-* [13th May 2020](#data-13th-may-2020)Phd meeting with Matthieu => matching issues
-* [4th May 2020](#data-4th-may-2020)Recoding SMO meeting with Sosthène
-* [29th April 2020](#data-29th-april-2020)Matching test and filtering with box plot
-* [22nd April 2020](#data-22nd-april-2020)CAH and distance for filtering
+* [28th July 2020](#date-28th-july-2020)réu SMO choix de la suite du projet
+* [22nd July 2020](#date-22nd-july-2020)réu reprise et objectifs de l'été
+* [13th May 2020](#date-13th-may-2020)Phd meeting with Matthieu => matching issues
+* [4th May 2020](#date-4th-may-2020)Recoding SMO meeting with Sosthène
+* [29th April 2020](#date-29th-april-2020)Matching test and filtering with box plot
+* [22nd April 2020](#date-22nd-april-2020)CAH and distance for filtering
 * [15th April 2020](#date-15th-april-2020)SMO + CAH
 * [8th April 2020](#date-8th-april-2020)Decisions for the symposium
 * [1st April 2020](#date-1st-april-2020)Filtering and matching the data 
