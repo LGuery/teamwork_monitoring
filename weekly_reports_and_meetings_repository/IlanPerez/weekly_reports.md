@@ -2,6 +2,9 @@
 
 ### Thèse IRD 
 
+
+* [13 August 2020](#date-13th-august-2020)
+
 * [3 August 2020](#date-3rd-august-2020)
 
 * [27 July 2020](#date-27th-july-2020)
@@ -41,6 +44,54 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+
+### Date: 13th August 2020
+
+# SUMMARY OF ADVANCE ON ICCAT PAPER
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* Nicolas Barrier for datarmor use: Learn how to Download files from $SCRATCH to local using a eftp connection.
+
+#### What did you achieve?
+
+##### Paper
+* J'ai conclu les méthodes et les ai réadaptées à ce qui a réélement été fait. Bonne avancée de l'intro, mais j'hésite à aller plus loin. Peur de faire doublon avec ce que Gipsy a déjà vu que c'est la même étude ou presque. 
+
+Toujours pas de résultats, mis à part ce que j'avais initialement pour le morat Rec15.
+
+* Lecture approfondie de Fonteneau et al 2015, Hallier & Gaertner 2008 + papier d'Edgar pour l'intro
+
+#### What did you struggle with?
+
+* Encore le cluster... 5 échecs à faire tourner le moratoire 1998. J'ai changé le script, modifié le job à plusieurs reprises. Il tourne désormais longtemps (10h) mais est killé à la fin. J'ai modifié encore le job et verrai les résultats. POur l'instant, aucune autre piste de débogage...
+
+* Gros doutes sur l'intention du papier, à discuter dès la rentrée si possible.
+
+* Baisse de régime la semaine passée, rupture en cause, mais on est reparti.
+
+#### What would you like to work on next week?
+
+* VACANCES
+* Lecture de littérature à faire, je n'ai pas donné assez de temps pour ça et c'est TRES MAL. Je manque encore de plein de connaissance pour pouvoir faire mes propres conclusions sans me fourvoyer.
+
+* 4 jours d'écriture intensive au retour de vacances pour terminer ce papier.
+
+#### A faire pour l'avenir
+
+* Mettre en place la randomisation pour tester le RR pour le papier final
+* Appliquer la méthode aux hotspots si possible => mais PB de données ?
+* Utilsier les données d'effort pour évaluer si le moratoire est réellement efficace à long terme.
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 
 ### Date: 3rd August 2020
 
