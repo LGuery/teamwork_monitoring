@@ -2,6 +2,7 @@
 
 ### Thèse IRD 
 
+* [7 September 2020](#date-7th-september-2020)
 
 * [13 August 2020](#date-13th-august-2020)
 
@@ -45,6 +46,43 @@
 
 -------------------------------------------------------------------  
 
+### Date: 7th September 2020
+
+# WHAT HAPPENED LAST 2 WEEKS
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* Loreleï et Daniel pour la production du super papier ICCAT ;)  
+
+#### What did you achieve?
+
+##### Paper
+* Fini le papier ICCAT, ajouté une partie des méthodes sur le matching.
+
+* Présentation terminée pour le Groupe Espèce.
+
+#### What did you struggle with?
+
+* Avec le papier, plus long à écrire que prévu. Quelques efforts à fournir à l'avenir
+
+* Décès dans la famille.
+
+#### What would you like to work on next week?
+
+* Lecture de la litterature pour préparer le déplacement à La Rochelle
+
+#### A faire pour l'avenir
+
+
+#### Any other topics 
+
+
+
+------------------------------------------------------------------- 
 ### Date: 13th August 2020
 
 # SUMMARY OF ADVANCE ON ICCAT PAPER
