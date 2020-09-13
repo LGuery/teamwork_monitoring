@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [14 September 2020](#date-14th-september-2020)
+
 * [7 September 2020](#date-7th-september-2020)
 
 * [13 August 2020](#date-13th-august-2020)
@@ -46,6 +48,43 @@
 
 -------------------------------------------------------------------  
 
+
+### Date: 14th September 2020
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* No one
+
+#### What did you achieve?
+
+* Reunion ICCAT dun lundi au mercredi. Présentation.
+
+* Préparation du voyage à La Rochelle: OM + contact avec équipe gestion CNRS MARBEC
+
+* Idées pour le papier ICCAT rentrées sur le document. Ces idées serviront à reprendre après le séjour à LR et les congés.
+
+
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+
+* Lecture de la litterature pour préparer le déplacement à La Rochelle
+
+#### A faire pour l'avenir
+
+
+#### Any other topics 
+
+
+
+-------------------------------------------------------------------
+
 ### Date: 7th September 2020
 
 # WHAT HAPPENED LAST 2 WEEKS
@@ -75,6 +114,7 @@
 
 * Lecture de la litterature pour préparer le déplacement à La Rochelle
 
+* Biblio sur les Species Distribution Model
 #### A faire pour l'avenir
 
 
