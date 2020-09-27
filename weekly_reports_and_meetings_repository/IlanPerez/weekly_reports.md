@@ -2,6 +2,10 @@
 
 ### Thèse IRD 
 
+* [28 September 2020](#date-21th-september-2020)
+
+* [21 September 2020](#date-21th-september-2020)
+
 * [14 September 2020](#date-14th-september-2020)
 
 * [7 September 2020](#date-7th-september-2020)
@@ -47,6 +51,121 @@
 * [12 December 2019](#date-12th-december-2019)  
 
 -------------------------------------------------------------------  
+
+
+
+### Date: 28th September 2020
+
+# SEJOUR A LA ROCHELLE SEMAINE 1
+
+#### What did you achieve?
+
+* **Lundi**: Première réunion avec Lola Gilbert sur son rapport de stage de M2. Discussions autour de 2 méthodes d'estimation de l'effet spatial par INLA: Besag (CAR model) ou SPDE.
+Réu avec Matthieu avec l'après midi. Présentation des données ECD à Matthieu, des données environnementales disponibles. Plusieurs questions posées :
+ + quelle méthode pour le spatial ? => objectif création de la maille pour le CAR et de la mesh SPDE. 
+ + contact avec l'Ob7 pour correction des positions réelles des activités de pêche (problème (d'en)quadrant + conversion).
+ + réflexions à avoir sur les hypothèses de modélisation (effet des covariables change-t-il avec le temps ? Restent fixes ? ; Mois par mois ou sélection de périodes; année en effet aléatoire ?)
+
+* **Mardi**: Construction des mailles. Bibliographie sur les deux méthodes.
+
+* **Mercredi**: Finition de la maille spde pour le modèle spatio temporel.
+Réunion skype avec Lo&Da. 
+ + Décision de se concentrer sur la méthode SPDE car le continu est intéressant dans notre cas car on ne doit pas faire d'hypothèse sur l'autocorrélation spatiale entre les cellules.
+ + Choix d'une approche plutôt hotspot -> habitat. Car dans l'objectif de la gestion, une zone d'habitat sans pêche n'est pas une zone de hotspot, et on a pas de données.
+ + Question sur l'utilisation de GLM ou de GAM pour l'effet des variables environnementales. Pour l'instant GLM puis utilisation de GAM si besoin plus tard.
+ 
+ + Inclusion du Nb de callée/jour comme proxy de l'effort. Inclusion de variables propres au bateau (capacité, âge..) plus tard, comme pour CPUE.
+ 
+ + Effet année en aléatoire
+ 
+ + Utilistation de la denstié de DCP ? A voir.
+ 
+ + Mois comme effet temporel et spatial car les changements saisonniers ne sont pas uniformes sur la zone d'étude => interaction du mois sur la mesh
+ 
+ 
+* **Jeudi**: Construction du modèle INLA sans effet spatial. Premier run rapide, moins de 90 secondes. Bons résultats de fit, similaires à un GAM avec l'effort + mois + annee + bateau en covariables. 
+
+* **Vendredi**: Soutenance HDR de Jérôme Spitz, pas de travail le matin. Réunion avec Matthieu pour essayer d'intégrer le spatial. Crash de INLA. A voir ce week end et lundi.
+
+ 
+
+
+
+-------------------------------------------------------------------
+
+
+
+### Date: 21th September 2020
+
+#### Who did you help this week?
+
+* Nobody
+
+#### Who helped you this week?
+
+* No one loves me
+
+#### What did you achieve?
+
+* Organistation du séjour à LR + moult biblio sur INLA et la modélisation spatio-temporelle avec inférence bayésienne:
+
+### What's INLA?
+
+INLA (Integrated Nested Laplace Approximation) is an algorithm for fitting Bayesian models. It is differently built than the traditional MCMC algorithm: it is way faster for multidimensional integration, but attention has to be taken on the error and uncertainty.
+
+It allows to deal with the spatial autocorrelation, a common issue in ecological sciences:
+“Everything is related to everything else, but near things are more related than distant things.”
+
+INLA has default priors for all the effects in the model but they can and should be changed to control the analysis.
+
+### Building
+
+INLA is built to fit Latent Gaussian Models (LGM) that are a wide class of models used in spatial ecology. A LGM consits of 3 levels:  the observations ($y$), an underlying latent structure/filed ($\eta$) and a vector of hyperparameters ($\theta$).
+
+(A hyperparameter is a parameter from a prior distribution; it captures the prior belief, before data is observed (Riggelsen, 2008). For example, the hyperparameter η is a prior guess for the mean (μ) of some distribution X. Although the prior distribution can’t normally be described in full, it’s sometimes possible to make reasonable guesses about the distribution’s hyperparameters and thus construct a reasonable distribution.) 
+  In INLA, the latent field is approximated by a Gaussian Markov random field (GMRF), i.e. a discrete approximation of the continuous Gaussian field on a spatial grid. It means that all the combination of random variables are centered. 
+In  summary,  the  structure  of  the  latent  Gaussian  model allows INLA to speed up the fitting process by exploiting the fact that the latent field is Gaussian such that a Laplace approximation may be used. In practice, this implies that INLA is fast.
+
+INLA is **deterministics**, compared with MCMC.
+ 
+INLA is computationally efficient because it uses a SPDE (Stochastic Partial Differentiation Equation) to estimate the spatial autocorrelation of the data. This involves using a “mesh” of discrete sampling locations which are interpolated to estimate a continuous process in space.
+ 
+## Model selection
+
+There are no P values in INLA. Importance or significance of variables can be deduced by examining the overlap of their 2.5% and 97.5% posterior estimates with zero.
+
+Must not include higly-correlated covariates.
+
+Need to build everal models were you set constant correlation in area or time. And then you can add random effects of some covariables.
+
+The selection of model is done using DIC or WAIC. But WAIC seems to be preferable for Bayesian models.
+
+### Interests
+
+Very fast for complex datasets.
+
+** SOME USEFUL LINKS **
+
+https://ourcodingclub.github.io/tutorials/inla/
+
+https://www.precision-analytics.ca/blog/a-gentle-inla-tutorial/
+
+#### What did you struggle with?
+
+* C'était galère de comprendre le fonctionnement d'INLA, notamment la partie Latent Gaussian Model et Random Markov Gaussian Fields.
+
+#### What would you like to work on next week?
+
+* Boulot, boulot sur INLA
+
+#### A faire pour l'avenir
+
+
+#### Any other topics 
+
+
+
+-------------------------------------------------------------------
 
 
 ### Date: 14th September 2020
