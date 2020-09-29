@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [5 Octobre 2020](#date-5th-october-2020)
+
 * [28 September 2020](#date-21th-september-2020)
 
 * [21 September 2020](#date-21th-september-2020)
@@ -53,6 +55,26 @@
 -------------------------------------------------------------------  
 
 
+### Date: 5th October 2020
+
+# SEJOUR A LA ROCHELLE SEMAINE 2
+
+#### What did you achieve?
+
+* **Lundi**: Discussion avec Matthieu. Présentation des premières sorties de modèle spatialisé et temporalisé, pour une année et pour tous les mois. Covariables: Effort continu, effet mois, effet bateau. Observation d'une zone où les estimations de capture sont overestimées (2000000 t !).
+
+Besoin de tester de nouveaux modèles pour l'effet mois,  random walk 1 ou iid.
+
+* **Mardi**: 
+* **Mercredi**: 
+* **Jeudi**:
+* **Vendredi**: 
+
+ 
+
+
+
+-------------------------------------------------------------------
 
 ### Date: 28th September 2020
 
