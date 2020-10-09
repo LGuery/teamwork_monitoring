@@ -65,9 +65,15 @@
 
 Besoin de tester de nouveaux modèles pour l'effet mois,  random walk 1 ou iid.
 
-* **Mardi**: 
-* **Mercredi**: 
-* **Jeudi**:
+* **Mardi**: Test de iid, impossible de faire tourner. Rw1 fonctionne pour l'effet mois, pas d'utilisation de custom priors. Toujours des surestimations du modèle impossible d'avoir des estimations fiables. Premier test, mettre des NA sur les cellules qui ne sont pas sur terre. Toujours un effet de bord.
+
+* **Mercredi**: Test avec des priors semi-normaux pour contraindre la variance. Pas d'effet intéressant sur les valeurs prédites non plus. Réunion avec Lorelei et Daniel en Skype: Proposition de 1) Virer les UNK et les FSC des données, pour exclure les zéros des Captures de Juv, 2) Virer les données qui sont trop excentrées de la zone (Est Inde, Mer Rouge), 3) Travail sur la Mesh et son buffer.
+
+Idées : Comparer les zones à faible et forte densité de DCPs.
+
+* **Jeudi**: Travail sur la mesh. J'ai réussi à contraindre la mesh le long des côtes du bassin indien. Réduction du bffer au minimum pour limiter les mauvaises estimations mais toujours impossible. Quelques pixels sont largement surestimés en bordure. Abandon de la méthode SPDE; ne trouvant pas de solution. Retour sur le spatial Besag (champ discret)
+
+
 * **Vendredi**: 
 
  
