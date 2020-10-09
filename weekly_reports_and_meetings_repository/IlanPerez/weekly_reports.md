@@ -74,7 +74,7 @@ Idées : Comparer les zones à faible et forte densité de DCPs.
 * **Jeudi**: Travail sur la mesh. J'ai réussi à contraindre la mesh le long des côtes du bassin indien. Réduction du bffer au minimum pour limiter les mauvaises estimations mais toujours impossible. Quelques pixels sont largement surestimés en bordure. Abandon de la méthode SPDE; ne trouvant pas de solution. Retour sur le spatial Besag (champ discret)
 
 
-* **Vendredi**: 
+* **Vendredi**: Difficultés avec le spatial Besag, problème d'identité des cellules et de création de la matrice d'adjacence. Solutions présentes dans le script, le modèle tourne et donne des résultats satisfaisants. Cependant, besoin de trouver une moyen d'intégrer l'effet mois sur la grille.
 
  
 
