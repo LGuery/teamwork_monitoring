@@ -76,7 +76,8 @@ Idées : Comparer les zones à faible et forte densité de DCPs.
 
 * **Vendredi**: Difficultés avec le spatial Besag, problème d'identité des cellules et de création de la matrice d'adjacence. Solutions présentes dans le script, le modèle tourne et donne des résultats satisfaisants. Cependant, besoin de trouver une moyen d'intégrer l'effet mois sur la grille.
 
- 
+
+> **LG**: Excellent, excellent! Super encourageant! :clap: :clap: :clap: On se fait un point/debrief quand tu rentres de vacances, profites bien!
 
 
 
