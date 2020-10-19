@@ -28,6 +28,12 @@
 * SKJ = 50% of TT, YFT, 42 %
 
 * Decrease of total catch in 2019.
+
+### Dan FU : SKJ Stck Ass
+
+* One stock, not enough info.
+* 8 age classes
+* Sometimes 2 area model.
 ------------------------------------------------------------------
 ### Date: 28th July 2020
 
