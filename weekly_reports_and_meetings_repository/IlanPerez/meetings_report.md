@@ -2,7 +2,7 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
-
+* [19th October 2020](#date-19th-october-2020)22e CTOI WPTT
 * [28th July 2020](#date-28th-july-2020)réu SMO choix de la suite du projet
 * [22nd July 2020](#date-22nd-july-2020)réu reprise et objectifs de l'été
 * [13th May 2020](#date-13th-may-2020)Phd meeting with Matthieu => matching issues
@@ -17,6 +17,17 @@
 * [20 January 2020](#date-20th-january-2020)Previous exploration    
 * [13 January 2020](#date-13th-january-2020)Gipsy's script
 * [12 December 2019](#date-12nd-december-2019) :airplane: :rocket: Kick-off! 
+------------------------------------------------------------------
+### Date: 19th October 2020
+
+* TT = 60% of all IOTCH catch
+* singnificant increase since 80's industrial purse sein fisheries
+* mid 00's decrease because of piracy in Somalia
+* Eu, spain 15%, France 7%.
+
+* SKJ = 50% of TT, YFT, 42 %
+
+* Decrease of total catch in 2019.
 ------------------------------------------------------------------
 ### Date: 28th July 2020
 
