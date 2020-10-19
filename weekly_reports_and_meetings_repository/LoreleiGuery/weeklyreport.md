@@ -15,6 +15,7 @@
 On-line meeting of CTOI WPTT22 everyday from 10 am to 2 pm
 
 * **Lundi**: 
+  * Review des papiers de Jose-Carlos Baez
 
 * **Mardi**: 
 
@@ -29,5 +30,7 @@ On-line meeting of CTOI WPTT22 everyday from 10 am to 2 pm
 #### What would you like to work on next week?
 
 #### Any other topics
+
+* Rejet d'une nouvelle candidature au stage IA/SOM
 
 -------------------------------------------------------------------
