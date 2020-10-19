@@ -32,6 +32,6 @@ On-line meeting of CTOI WPTT22 everyday from 10 am to 2 pm
 #### Any other topics
 
 * Rejet d'une nouvelle candidature au stage IA/SOM
-* Accord de reviewer un papier de PlosOne
+* Accord de reviewer un papier de PlosOne (deadline 09/11/2020)
 
 -------------------------------------------------------------------
