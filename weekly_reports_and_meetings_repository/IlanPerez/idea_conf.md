@@ -1,0 +1,1 @@
+- Adelaide, Sept 2021 it is the Spatial Modelling Workshop after the World Fisheries Congress, initially scheduled in 2020 but postponed to 2021
