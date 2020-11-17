@@ -22,9 +22,9 @@
    * Discussions Gwen et David
 
 * **Mardi**: 
-* Skype Ilan 9h30-11h (Révision rapport DPMA, point sur skype avec Pauline, point sur réinscription, point sur présentation seamounts avec Sosthène: 2 propositions de présentation, soit partie opérationnelle et partie recherche, soit classique scientifique)
-* Appel Thierry Boulinier pour rapport DPMA
-* 15h30-16h30 conférence [geo blue planet](https://geoblueplanet.org/eo-for-tuna/) Sustainable fisheries management of tuna: challenges and solutions
+   * Skype Ilan 9h30-11h (Révision rapport DPMA, point sur skype avec Pauline, point sur réinscription, point sur présentation seamounts avec Sosthène: 2 propositions de présentation, soit partie opérationnelle et partie recherche, soit classique scientifique)
+   * Appel Thierry Boulinier pour rapport DPMA
+   * 15h30-16h30 conférence [geo blue planet](https://geoblueplanet.org/eo-for-tuna/) Sustainable fisheries management of tuna: challenges and solutions
 
 * **Mercredi**: 
 
