@@ -18,8 +18,8 @@
 #### What did you achieve?
 
 * **Lundi**: 
-* Révision rapport DPMA
-* Discussions Gwen et David
+   * Révision rapport DPMA
+   * Discussions Gwen et David
 
 * **Mardi**: 
 * Skype Ilan 9h30-11h (Révision rapport DPMA, point sur skype avec Pauline, point sur réinscription, point sur présentation seamounts avec Sosthène: 2 propositions de présentation, soit partie opérationnelle et partie recherche, soit classique scientifique)
