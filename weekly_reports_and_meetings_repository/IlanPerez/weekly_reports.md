@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [25 November 2020](#date-25th-november-2020)
+
 * [23 November 2020](#date-23th-november-2020)
 
 * [5 October 2020](#date-5th-october-2020)
@@ -54,29 +56,20 @@
 
 * [12 December 2019](#date-12th-december-2019)  
 
+
+-------------------------------------------------------------------  
+
+### Date: 25th November 2020
+
+# Semaine 4 (23-29)
+
+* 
+
 -------------------------------------------------------------------  
 
 ### Date: 23th November 2020
 
 Update depuis 27 octobre:
-
-# 1ere semaine de confifi (2-8 novembre)
-
-* Retour au ryhtme confinement un peu compliqué car malade, première réunion pour voir les objectifs d'ici la fin de l'année.
-* Retrait du papier dans le Redbook ICCAT pour le garder pour le symposium
-* Suivi de la conférence IA "Que veux dire apprendre pour une machine ?"
-* Lecture du papier INLA sur la pêche thonnière Lezama-Ochoa et al., 2020 => utilisation de SPDE... On doit faire ça aussi !
-* Contact avec Julien Ansquer pour le remboursement de l'état de frais => toujours au point mort
-
-# Semaine 2 (9-15)
-
-* Réunion le lundi pour parler papier Symposium et orga
-* DATA perdues sur local heureusement récupérées sur HDD (pb Github à régler)
-* Mardi retour sur site pour signer les avenants de contrats. 
-* Mardi, contact avec David et l'assistance ifremer pour régler les pb de connexions à Pulse Secure et au cluster en distanciel.
-* Mercredi : pb de pulse secure en passe d'être réglé.
-* Jeudi : Pb Pulse secure réglé + participation première présentation GEO Blue Planet
-* Vendredi  + Week end : Envoie documents école doc pour THierry + Ecriture rapport pour la DPMA
 
 # Semaine 3 (16-22)
 
@@ -89,6 +82,26 @@ Update depuis 27 octobre:
 * Vendredi: réunion logistique avec Pauline pour son stage.
 * Venredi: Thierry galère a mettre les documents sur l'adum...ca prend du etard et ça m'inquiète !
 * Week end: travai lavec Sosthène pour écrire l'abstract pour la soumission du papier SMO.
+
+# Semaine 2 (9-15)
+
+* Réunion le lundi pour parler papier Symposium et orga
+* DATA perdues sur local heureusement récupérées sur HDD (pb Github à régler)
+* Mardi retour sur site pour signer les avenants de contrats. 
+* Mardi, contact avec David et l'assistance ifremer pour régler les pb de connexions à Pulse Secure et au cluster en distanciel.
+* Mercredi : pb de pulse secure en passe d'être réglé.
+* Jeudi : Pb Pulse secure réglé + participation première présentation GEO Blue Planet
+* Vendredi  + Week end : Envoie documents école doc pour THierry + Ecriture rapport pour la DPMA
+
+
+# 1ere semaine de confifi (2-8 novembre)
+
+* Retour au ryhtme confinement un peu compliqué car malade, première réunion pour voir les objectifs d'ici la fin de l'année.
+* Retrait du papier dans le Redbook ICCAT pour le garder pour le symposium
+* Suivi de la conférence IA "Que veux dire apprendre pour une machine ?"
+* Lecture du papier INLA sur la pêche thonnière Lezama-Ochoa et al., 2020 => utilisation de SPDE... On doit faire ça aussi !
+* Contact avec Julien Ansquer pour le remboursement de l'état de frais => toujours au point mort
+
 
 
 -------------------------------------------------------------------  
