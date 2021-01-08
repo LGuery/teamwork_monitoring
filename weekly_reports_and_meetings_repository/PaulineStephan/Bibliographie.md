@@ -1,5 +1,7 @@
 # Lu
 
+Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNxZOoD8KFATF9AGPkgVjsPwS7xq/view?usp=sharing 
+
 ## Semaine 4.01 - 8.01
 
 * Andrienko et al. 2010
