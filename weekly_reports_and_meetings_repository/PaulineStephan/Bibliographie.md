@@ -1,9 +1,7 @@
 # Lu
-
 Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNxZOoD8KFATF9AGPkgVjsPwS7xq/view?usp=sharing 
 
 ## Semaine 4.01 - 8.01
-
 * Andrienko et al. 2010
 * Carlucci et al. 2018
 * Chon 2011
@@ -16,10 +14,11 @@ Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNx
 * Richerson and Holland 2017
 * Russo et al. 2016
 
+## Semaine 11.01 - 15.01
+* Conti et al. 2012
+* Genc et al. 2011
 
 # A lire
-* Conti et al. 2012
-* Genc et al. 2010
 * Stefanovic and Kurasova 2011
 * Eide 2017
 * Philippsen et al. 2019
