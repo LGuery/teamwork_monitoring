@@ -17,13 +17,14 @@ Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNx
 ## Semaine 11.01 - 15.01
 * Conti et al. 2012
 * Genc et al. 2011
+* Stefanovic and Kurasova 2011
+* Joo et al. 2015
 
 # A lire
-* Stefanovic and Kurasova 2011
+* Babcock et al. 2005
 * Eide 2017
 * Philippsen et al. 2019
 * Zhang et al. 2015
-* Joo et al. 2015
 * Maravelias et al. 2014
 * Pupasari et al. 2019
 * Emery et al. 2015
