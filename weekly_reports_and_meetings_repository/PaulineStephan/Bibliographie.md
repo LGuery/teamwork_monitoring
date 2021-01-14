@@ -21,6 +21,18 @@ Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNx
 * Joo et al. 2015
 
 # A lire
+* Orue et al. 2020 - seasonal distrib of tuna and non tuna species associated with drifitng FADs in western IO using fishery independent data
+* Tolotti et al. 2020 - FAD eastern trop AO
+* Pecoraro et al. 2017 - YFT biology ecology fisheries status
+* Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
+* Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
+* Orue et al. 2019 - aggregation process of drifting FADs in western IO
+* Sardenne et al. 2019
+* Carruthers et al. 2010 - simulating spatial dynamics (for deriving abundance) of trop tunas
+* Capello et al. 2016 - pop. assessment of trop. tuna behavior floating objects
+* Erauskin‐Extramiana et al. 2019 - large scale distrib of tuna species in warming ocean
+* Pérez et al. 2020 - effect of FADs on movement behavior of tropical tunas
+* Fonteneau et al. 2013 - historical perspective on FADs
 * Babcock et al. 2005
 * Eide 2017
 * Philippsen et al. 2019
