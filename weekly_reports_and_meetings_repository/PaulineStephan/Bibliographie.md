@@ -19,10 +19,12 @@ Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNx
 * Genc et al. 2011
 * Stefanovic and Kurasova 2011
 * Joo et al. 2015
+* Orue et al. 2020 - seasonal distrib of tuna and non tuna species associated with drifitng FADs in western IO using fishery independent data
 
 # A lire
-* Orue et al. 2020 - seasonal distrib of tuna and non tuna species associated with drifitng FADs in western IO using fishery independent data
 * Tolotti et al. 2020 - FAD eastern trop AO
+* Lopez et al. 2017 - Environmental preferences of tuna and non-tuna species associated with drifting fish aggregating devices (DFADs) in the Atlantic Ocean,
+ascertained through fishers’ echo-sounder buoys.
 * Pecoraro et al. 2017 - YFT biology ecology fisheries status
 * Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
 * Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
@@ -47,3 +49,4 @@ Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNx
 * Sempo et al. 2013
 * Zuur et al. 2010
 * Lezama-Ochoa et al. 2016
+* Imzilen 2021
