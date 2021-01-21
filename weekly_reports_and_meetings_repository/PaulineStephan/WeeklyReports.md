@@ -64,6 +64,8 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 * Quel système de coordonnées géographiques est utilisé par l'ICCAT
 #### What would you like to work on next week?
 * sur les données ICCAT et voir dans quel format elles doivent être pour input SOM (je suggère d'utiliser la librairie kohonen comme Mendoza-Carranza et al.)
+* env. regulation lundi et mercredi 10-12 et 14-16 avec bcp de readings à préparer, je vais essayer de faire le max ce week-end
+* vendredi 28 rdv paper oikos pour faire le point
 #### Where do you need help from Daniel, Lorelei or others?
 * A clarifier demain
 #### Any other topics
