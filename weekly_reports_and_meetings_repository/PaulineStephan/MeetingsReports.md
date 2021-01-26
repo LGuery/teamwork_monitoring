@@ -1,5 +1,5 @@
 # Meetings
-* [25 janvier](#date-25th-January-2021)
+* [25 janvier](#25-janvier)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
