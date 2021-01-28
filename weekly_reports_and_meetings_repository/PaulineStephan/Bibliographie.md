@@ -23,6 +23,8 @@ Lien tableau excel avec classification: https://drive.google.com/file/d/1yrfiDNx
 * Lopez et al. 2017 - Environmental preferences of tuna and non-tuna species associated with drifting fish aggregating devices (DFADs) in the Atlantic Ocean,
 ascertained through fishers’ echo-sounder buoys.
 * Peña et al. 2015 - Nonlinear ecol processes driving the distrib of marine decapod larvae
+## Semaine 25.01 - 29.01
+* Maxwell et al. 2015 - Dynamic ocean management
 # A lire
 * Pecoraro et al. 2017 - YFT biology ecology fisheries status
 * Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
