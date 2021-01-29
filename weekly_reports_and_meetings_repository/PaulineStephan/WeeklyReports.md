@@ -70,6 +70,24 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 * A clarifier demain
 #### Any other topics
 #### Weekly meeting 
-* demain vendredi 22
-
-
+* demain vendredi 22 et lundi 25
+## Date: 29th January 2021
+#### Who did you help this week?
+#### Who helped you this week?
+#### What did you achieve?
+* cours Env. Regulation lundi et mercredi + readings--> idée policy brief (basée sur email Daniel): dynamic ocean management for trop. atlantic tuna fisheries
+* SOM avec données ICCAT pour années 1991-1997 (~19000 samples), clustering ok, à approfopndir + lecture DOM
+* paper oikos, meeting 
+#### What did you struggle with?
+* comment projeter les années (comme Mendoza) sur la carte SOM dans R (vu examples librairie d3.js), et plus tard autres variables
+* petits problèmes de motivation cette semaine
+#### What would you like to work on next week?
+* régler cette histoire de visualisation des SOMs , essayer avec qqes données environnementales pour voir ce que ça donne 
+* essayer ensuite de voir les clusters --> par année? par localisation ? par saison?
+* écrire l'abstract pour la conférence (deadline 5.2)
+#### Where do you need help from Daniel, Lorelei or others?
+* écriture abstract conférence ?
+* éventuellement sur ces histoires de visualisation, la plupart des gens font les SOM sur matlab du coup pas facile de trouver des tipps sur interrnet
+#### Any other topics
+#### Weekly meeting 
+* mercredi à la station ?
