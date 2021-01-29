@@ -3,6 +3,7 @@
 * [8 January 2021](#date-8th-January-2021)
 * [15 January 2021](#date-15th-January-2021)
 * [21 January 2021](#date-21st-January-2021)
+* [29 January 2021](#date-29th-January-2021)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who did you help this week?
