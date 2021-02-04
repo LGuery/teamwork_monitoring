@@ -4,6 +4,7 @@
 * [15 January 2021](#date-15th-January-2021)
 * [21 January 2021](#date-21st-January-2021)
 * [29 January 2021](#date-29th-January-2021)
+* [4 février](#4-février)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who did you help this week?
@@ -92,3 +93,31 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting 
 * mercredi à la station ?
+## 4 février
+#### Who did you help this week?
+#### Who helped you this week?
+* meeting hier avec tt le monde, discussions très constructives sur les SOM et ce sur quoi il faut se concentrer mnt (cf. meetings reports)
+#### What did you achieve?
+* paper oikos
+* compilé document html avec SOM 91-97, 98-19, pour le montrer au meeting du 3.
+* pas perdu à l'ascenseur ni au barbu
+#### What did you struggle with?
+* visualisation des résultats SOM
+* sélection nb de clusters
+#### What would you like to work on next week?
+* régler cette histoire de visualisation des SOMs, essayer package SOMbrero ?
+* tester méthode Ilan pour sélection nb clusters
+* tester autres distances pour clusters
+* relire Mendoza et Andrienko pour voir comment ils gèrent les dimensions spatio-temporelles
+* tester réduction dimension 1 par 1, p.ex. année type, comme ça variation temporelle juste sur les mois.
+* envoyer l'abstract pour la conférence
+* se concentrer sur années 91-97 pour tous ces tests
+* identifier outliers dans données et checker si normal
+* essayer de faire tourner SOM sans log10() et standardize()
+* essayer de visualiser clusters dans espace géographique (régler problème crs au passage, car la violence policière c'est pas cool)
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* peut-être pour projections géographiques (Ilan?)
+* peut-être pour création années types (Daniel?)
+#### Any other topics
+#### Weekly meeting 
+* mercredi prochain 11.03 à la station ?
