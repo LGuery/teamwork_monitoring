@@ -2,6 +2,8 @@
 
 ### Thèse IRD 
 
+* [9 February 2021](#date-9th-february-2020)
+
 * [25 November 2020](#date-25th-november-2020)
 
 * [23 November 2020](#date-23th-november-2020)
@@ -59,11 +61,29 @@
 
 -------------------------------------------------------------------  
 
-### Date: 25th November 2020
+### Date: 9th February 2021
 
-# Semaine 4 (23-29)
+Reprise des WEEKLY REPORT APRES UN AUTRE LONG ARRET
 
-* 
+###
+
+
+#### Janvier
+* Début de mois compliqué pour causes familiales.
+
+* Présentation au symposium AOTTP. Bons échanges avec Lisa Ailloud, Nicolas GOni et Alain Fonteneau sur les SMO.
+
+* Attrapage de COVID en semaine 3, travail compliqué
+
+* Première réunion de retour au labo le 18, j'ai fait plein de cas contacts.
+ + Reu de discussion avec le référent de Pauline. Présentation des recherches de Pauline, travail très bien avancé, udiante prometteuse!
+ + Reu pour discuter des drafts à envoyer à Marina pour le paiement. Mise au point des dead-lines pour les semaines à venir.
+ + Prévu: Papier RR + Short note SMO (délais paraissent trop compliqués je n'avance pas assez vite)
+
+
+#### Decembre
+* Mois dédié à l'écriture du papier ICCAT, de la préparation SMO et RR.
+
 
 -------------------------------------------------------------------  
 
