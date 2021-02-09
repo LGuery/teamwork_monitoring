@@ -65,8 +65,14 @@
 
 Reprise des WEEKLY REPORT APRES UN AUTRE LONG ARRET
 
-###
+#### Fevrier
 
+* Semaine de télétravail à Brest. Changement d'air bénéfique pour la productivité.
+
+* Grosse avancée sur le papier, on voit le bout. Intro finie, ref à jour (edit, sauf qq unes des rapports et Stocks assessment ICCAT), discu à finir de peaufiner, M&M fini.
+
+* J'ai remarqué une erreur dans les résultats (et le script). Gipsy avait initalement noté que le moratoire 1998 s'étendait de novembre à Février alors qu'il prend fin en janvier. J'avais corrigé cela dans le tableau récap des moratoires, mais je ne l'avais pas changé dans le papier.
+J'ai recalculé le RR pour ce moratoire, avec seulement 500 iterations pour que mon ordinateur tienne le coup. Contrairement aux attentes, le résultat est très différent de l'initial. Après analyse, il semble que le nombre d'itérations a un grand impact sur le RR moyen. Pour vérifier cela, j'ai pris le fichier avec les 5000 valeurs de RR pour le YFT avec le moratoire Rec[15-01]. J'ai aléatoirement tiré avec remise de 1 à 5000 lignes (=iteration) dans ce df pour recalculer une valeur de RR moyenne pour 1 à 5000 itérations. Il semble que les résultats atteignent l'asymptote vers 1000 itérations.
 
 #### Janvier
 * Début de mois compliqué pour causes familiales.
