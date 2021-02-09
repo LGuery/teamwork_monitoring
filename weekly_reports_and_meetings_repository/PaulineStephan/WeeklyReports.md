@@ -1,10 +1,11 @@
 # Weekly Reports
 
-* [8 January 2021](#date-8th-January-2021)
-* [15 January 2021](#date-15th-January-2021)
-* [21 January 2021](#date-21st-January-2021)
-* [29 January 2021](#date-29th-January-2021)
+* [8 Janvier](#date-8th-January-2021)
+* [15 Janvier](#date-15th-January-2021)
+* [21 Janvier](#date-21st-January-2021)
+* [29 Janvier](#date-29th-January-2021)
 * [4 février](#4-février)
+* [9 février](#9-février)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who did you help this week?
@@ -121,3 +122,27 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting 
 * mercredi prochain 11.03 à la station ?
+## 9 février
+#### Who did you help this week?
+#### Who helped you this week?
+#### What did you achieve?
+* envoyé l'abstract
+* pas mal travaillé sur le paper oikos, il fallait que je termine des trucs, sinon ça nous empêchait d'avancer
+* testé autres distances pour la clusterisation et Ward.D2 est bel et bien la plus adaptée
+* add.cluster.boundaries
+* trouvé une 2ème méthode bien pour sélection nb de clusters
+* SOM année type et saison type (février-juin) pour réduire la dimension temporelle (dcf docs html)
+* visu clusters dans espace géographiques (problèmes points sur terre à discuter, d'après moi il s'agit en fait d'erreurs dans le dataset)
+* reregardé le package sombrero, mais les fonctions pour plotter ne prennent pas des objets kohonen en input, et puis après j'ai eu la flemme de relire tout le package manual...
+#### What did you struggle with?
+* vraiment pas très productive, surtout hier et aujourd'hui...
+#### What would you like to work on next week?
+* régler cette histoire de visualisation des SOMs, essayer package SOMbrero ? --> commencé
+* tester méthode Ilan pour séection nb clusters --> demander à Ilan !
+* identifier outliers (géographiques et quantitatifs) dans données et checker si normal !
+* essayer de faire tourner SOM sans log10() et standardize()
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* à discuter demain
+#### Any other topics
+#### Weekly meeting 
+* demain mercredi à la station
