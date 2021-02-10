@@ -1,6 +1,7 @@
 # Meetings
 * [25 janvier](#25-janvier)
 * [3 février](#3-février)
+* [10 février](#10-février)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -27,6 +28,11 @@
 * trouver comment visualiser les clusters et les noeuds dans l'espace géographique (comme Andrienko)
 * trouver quel CRS est utilisé par l'ICCAT --> si pas donné, mail à Carlos (d'abord essayer la méthode d'Ilan df -> sf)
 * faire graphique log10() pour évolution totale des prises et comparer aux time series par clusters.
-
-
-
+# 10 février
+* tester set.seed() pour voir si donne mm cartes
+* verra-t-on apparaître les zones moratoires dans les clusters saisonniers des années 2000 ?
+* data processing: filtrer les données en se basant sur méthode de Loreleï; regarder histogramme pour voir quelles cellules sont les moins visitées etc. Enlever les données problématiques (p.ex. celles situées sur terre)
+* regarder les méthodes de pruning de dendogramme utilisées en génétique/phylogénie
+* comparer les 4 saisons (SaisonType90)
+* faire aussi tourner les SOM avec données corrigées par effort (captures/Eff2) (hypothèse de départ = pêcheurs pêchent là où il y a le + de poissons)
+* demander à Daniel projet Esther avec timeline introduction nouvelles technologies (p.ex. 2010 échosondeur)
