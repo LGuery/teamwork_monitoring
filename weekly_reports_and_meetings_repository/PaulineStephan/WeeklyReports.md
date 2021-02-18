@@ -6,10 +6,9 @@
 * [29 Janvier](#date-29th-January-2021)
 * [4 février](#4-février)
 * [9 février](#9-février)
+* [18 février](#18-février)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
-#### Who did you help this week?
-Personne
 #### Who helped you this week? 
 Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### What did you achieve?
@@ -32,8 +31,6 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Weekly meeting 
 * symposium mardi, mercredi et jeudi à la station
 ## Date: 15th January 2021
-#### Who did you help this week?
-#### Who helped you this week? 
 #### What did you achieve?
 * Lu et classifié des articles (cf "bibliographie.md")
 * Travaillé sur tutoriel SOM de Rakotomalala envoyé par Daniel en utilisant des données d'un cours de l'ETH (cf. fichier Rmarkdown dans le repository SOMtest)
@@ -52,8 +49,6 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Weekly meeting 
 * lundi 18
 ## Date: 21st January 2021
-#### Who did you help this week?
-#### Who helped you this week?
 #### What did you achieve?
 * Lu encore qques articles
 * Fini et compilé doc sur différentes librairies SOM
@@ -75,8 +70,6 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Weekly meeting 
 * demain vendredi 22 et lundi 25
 ## Date: 29th January 2021
-#### Who did you help this week?
-#### Who helped you this week?
 #### What did you achieve?
 * cours Env. Regulation lundi et mercredi + readings--> idée policy brief (basée sur email Daniel): dynamic ocean management for trop. atlantic tuna fisheries
 * SOM avec données ICCAT pour années 1991-1997 (~19000 samples), clustering ok, à approfopndir + lecture DOM
@@ -95,7 +88,6 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Weekly meeting 
 * mercredi à la station ?
 ## 4 février
-#### Who did you help this week?
 #### Who helped you this week?
 * meeting hier avec tt le monde, discussions très constructives sur les SOM et ce sur quoi il faut se concentrer mnt (cf. meetings reports)
 #### What did you achieve?
@@ -123,8 +115,6 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Weekly meeting 
 * mercredi prochain 11.03 à la station ?
 ## 9 février
-#### Who did you help this week?
-#### Who helped you this week?
 #### What did you achieve?
 * envoyé l'abstract
 * pas mal travaillé sur le paper oikos, il fallait que je termine des trucs, sinon ça nous empêchait d'avancer
@@ -146,3 +136,22 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting 
 * demain mercredi à la station
+## 18 février
+* semaine de télétravail à Genève, ça fait du bien de changer un peu de décor et de voir des amis !!
+#### What did you achieve?
+* envoyé ajd ENFIN le paper oikos
+* tests CPUE et filtrage données ICCAT
+* Année type 98-09
+* avancé policy brief (pour cours env regulation, deadline 1 mars)
+#### What did you struggle with?
+* filtrage données ICCAT
+#### What would you like to work on next week?
+* finir policy brief
+* savoir quel format de données je veux utiliser pour quoi
+* commencer à chercher données
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* à discuter demain
+* ne pas oublier de parler des données environnementales --> pk veut-on les utiliser et lesquelles ? Clavareau et al. disent que déjà plusieurs auteurs montrent qu'il y a peu de corrélations entre distribution thons et données classiques (SST, O2 etc)
+#### Any other topics
+#### Weekly meeting 
+* demain vendredi skype
