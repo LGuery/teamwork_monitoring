@@ -148,7 +148,7 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### What would you like to work on next week?
 * finir policy brief
 * savoir quel format de données je veux utiliser pour quoi
-* commencer à chercher données
+* commencer à chercher données sur requins et autres, voir comment les extraire (ou les demander aux auteurs qui sont de Marbec??)
 #### Where do you need help from Daniel, Lorelei, Ilan or others?
 * à discuter demain
 * ne pas oublier de parler des données environnementales --> pk veut-on les utiliser et lesquelles ? Clavareau et al. disent que déjà plusieurs auteurs montrent qu'il y a peu de corrélations entre distribution thons et données classiques (SST, O2 etc)
