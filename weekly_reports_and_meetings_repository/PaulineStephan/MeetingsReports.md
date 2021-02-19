@@ -2,7 +2,7 @@
 * [25 janvier](#25-janvier)
 * [3 février](#3-février)
 * [10 février](#10-février)
-* [18 février](#18-février)
+* [19 février](#19-février)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -41,6 +41,6 @@
 * écrire rapport activité, pour garder une trace de ce que j'ai testé et quels choix (méthodes et data) on a faits --> pour mercredi prochain
 * essayer de fixer l'échelle de couleurs dans les heatmaps pour meilleure comparaison entre espèces
 * Essayer d'identifier dans les clusters les abondances par espèces (p.ex. cluster 1 forte abondance BET en début d'année etc)
-* filtrage données: regarder variance dans CPUE par strates d'efforts de pêche --> p.ex. si pour un jour de pêche la variance de CPUe est très rande (peut être dû à l chance), éventuellement retirer données eff2<1 jour etc. (article Daniel tag shedding océan indien)
+* filtrage données: regarder variance dans CPUE par strates d'efforts de pêche --> p.ex. si pour un jour de pêche la variance de CPUe est très grande (peut être dû à l chance), éventuellement retirer données eff2<1 jour etc. (article Daniel tag shedding océan indien)
 * par contre, nouvelle méthode clustering (dynamicTreeCut) semble exclure d'elle-même les outliers. --> à creuser, à ce moment-là il ne serait pas forcément nécessaire de le faire en aval
 * définitions saisons: regarder par périodes (pour création années types), et comparer abondance relative VS captures VS CPUE --> Loreleï va m'envoyer le script de Gipsy qui avait fait ça pour le bigeye 
