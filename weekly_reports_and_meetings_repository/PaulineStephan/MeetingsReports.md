@@ -42,5 +42,5 @@
 * essayer de fixer l'échelle de couleurs dans les heatmaps pour meilleure comparaison entre espèces
 * Essayer d'identifier dans les clusters les abondances par espèces (p.ex. cluster 1 forte abondance BET en début d'année etc)
 * filtrage données: regarder variance dans CPUE par strates d'efforts de pêche --> p.ex. si pour un jour de pêche la variance de CPUe est très grande (peut être dû à l chance), éventuellement retirer données eff2<1 jour etc. (article Daniel tag shedding océan indien)
-* par contre, nouvelle méthode clustering (dynamicTreeCut) semble exclure d'elle-même les outliers. --> à creuser, à ce moment-là il ne serait pas forcément nécessaire de le faire en aval
+* par contre, nouvelle méthode clustering (dynamicTreeCut) semble exclure d'elle-même les outliers. --> à creuser, à ce moment-là il ne serait pas forcément nécessaire de le faire en aval (https://academic.oup.com/bioinformatics/article/24/5/719/200751)
 * définitions saisons: regarder par périodes (pour création années types), et comparer abondance relative VS captures VS CPUE --> Loreleï va m'envoyer le script de Gipsy qui avait fait ça pour le bigeye 
