@@ -3,6 +3,7 @@
 * [3 février](#3-février)
 * [10 février](#10-février)
 * [19 février](#19-février)
+* [24 février](#24-février)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -44,3 +45,11 @@
 * filtrage données: regarder variance dans CPUE par strates d'efforts de pêche --> p.ex. si pour un jour de pêche la variance de CPUe est très grande (peut être dû à l chance), éventuellement retirer données eff2<1 jour etc. (article Daniel tag shedding océan indien)
 * par contre, nouvelle méthode clustering (dynamicTreeCut) semble exclure d'elle-même les outliers. --> à creuser, à ce moment-là il ne serait pas forcément nécessaire de le faire en aval (https://academic.oup.com/bioinformatics/article/24/5/719/200751)
 * définitions saisons: regarder par périodes (pour création années types), et comparer abondance relative VS captures VS CPUE --> Loreleï va m'envoyer le script de Gipsy qui avait fait ça pour le bigeye 
+# 24 février
+* discussions basées sur le premier rapport que j'ai écrit et que je dois retravailler: intro, ajouter toutes les cartes géographiques des clusters (en annexe, avec sommaire pour trouver facilement)
+* vérifier que les zones moratoires des années 2000 apparaissent bien dans les données brutes de l'ICCAT (cartes géographiques)
+* faire une timeline de l'introduction des nouvelles technologies et des zones moratoires depuis les années 90 (attention aux erreurs dans les tableaux, regarder carnet) -> but = définir des périodes pour les années types plus ou moins homogènes (afin de voir l'effet des mesures sur les clusters spatio-temporels)
+* demander données Fr+Es pour estimer des proportions de juvéniles par zones géographiques (1x1 ou 5x5)
+* échosondeurs: Es 2009, Fr 2010
+* 2006: plus d'accords de pêche avec le Sénégal
+* Mauritanie: 2012
