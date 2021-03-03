@@ -7,6 +7,7 @@
 * [4 février](#4-février)
 * [9 février](#9-février)
 * [18 février](#18-février)
+* [3 mars](#3-mars)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -155,3 +156,25 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting 
 * demain vendredi skype
+## 3 mars
+#### What did you achieve?
+* terminé et envoyé policy brief sur dynamic ocean management
+* écrit et finalisé rapport activité janvier-février:
+* refait tourner toutes les SOMs pour le rapport avec ratio largeur/longueur défini par eigenwerte de la input matrix et rlen = 10'000 à chaque fois
+* clustering cutreeHybrid() pour tou.te.s
+* refait tourner saisons avec trimestres classiques à la place des saisons de Gipsy
+* refait année type 99/03 à la place de 98/09
+* refait comparaison méthodes clustering
+#### What did you struggle with?
+* savoir à quel point le rapport devait être formel et déjà dans l'analyse des résultats... j'espère que c'était plus ou moins ce que vous vouliez
+* malgré tous mes efforts d'organisation, toujours casse-tête de retrouver exactement d'où venait quel info pour la policy brief et le rapport
+#### What would you like to work on next week?
+* comme discuté ajd: analyse données task 2 pour voir si moratoires respectés ou non, à quel degré, etc., faire tableau récapitulatif --> demander son code à Ilan !
+* regarder données ICCAT T2_SZ et T2_CZ avec tailles et/ou poids ? utilisable pour notre analyse ?
+* Si données ECD regarder ça aussi et réfléchir à transfert aux données ICCAT task 2
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* données ECD
+* code Ilan
+#### Any other topics
+#### Weekly meeting
+* ce matin
