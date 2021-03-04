@@ -4,6 +4,7 @@
 * [10 février](#10-février)
 * [19 février](#19-février)
 * [24 février](#24-février)
+* [3 mars](#3-mars)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -53,3 +54,11 @@
 * échosondeurs: Es 2009, Fr 2010
 * 2006: plus d'accords de pêche avec le Sénégal
 * Mauritanie: 2012
+# 3 mars
+* topo data flow de l'ICCAT (brutes --> T3 --> ECD --> ICCAT)
+* discussion sur quelles données on va utiliser pour les proportions de juvéniles:
+* checker données ICCAT T2_SZ et T2_CZ, peut-être que ça va suffire 
+* échantillonages pas vraiment aléatoires et couvre pas du tout toute la zone
+* problème T3: lisse trop les proportions, pas génial pour nous
+* autre considération: variation de la proportion des gos au fil des années, peut-on appliquer la même sur une période type, ou toutes les périodes?
+* a faire: tableau résumé des captures à l'intérieur des zones moratoires pendant les moratoires
