@@ -8,6 +8,7 @@
 * [9 février](#9-février)
 * [18 février](#18-février)
 * [3 mars](#3-mars)
+* [10 mars](#10-mars)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -178,3 +179,19 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * ce matin
+## 10 mars
+#### What did you achieve?
+* data check sur zones moratoires
+* commencé powerpoint pour jeudi marbec
+* checké données ICCAT de taille --> elles n'ont pas l'air très prometteuses
+* préparé entretien de stage pour parc national des calanques (qui était mardi matin), comme ça me stressait je n'arrivais pas à travailler sur autre chose...
+#### What did you struggle with?
+* html sur github, tableaux n'apparaissent pas chez les autres --> check package DT et regarder formation CESAB sur github
+* ggplot(): je n'arrive pas à ajouter les limites géographiques du moratoires s'il y a un facet_wrap() (mais ça marche pour une carte simple avec geom_segment()) ...
+* Et puis je trainais un truc la semaine dernière qui m'épuisait, mais maintenant ça va mieux !
+#### What would you like to work on next week?
+* données ECD de taille ? commencer analyses hotspots juvéniles
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+#### Any other topics
+#### Weekly meeting
+* tout à l'heure (jeudi 11 matin)
