@@ -202,6 +202,7 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 * github
 #### What did you struggle with?
 * html sur github, tableaux pas interactifs --> à régler
+* j'ai à nouveau l'impression de pas être très très efficace... j'ai du mal à me mettre au boulot quand je suis en télétravail chez moi
 #### What would you like to work on next week?
 * régler problèmes site github
 * données ECD de taille ? commencer analyses hotspots juvéniles --> quand aurons-nous les données ?
