@@ -9,6 +9,7 @@
 * [18 février](#18-février)
 * [3 mars](#3-mars)
 * [10 mars](#10-mars)
+* [22 mars](#22-mars)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -195,3 +196,20 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * tout à l'heure (jeudi 11 matin)
+## 22 mars
+#### What did you achieve?
+* présentation jeudi marbec et powerpoint cemeb
+* github
+#### What did you struggle with?
+* html sur github, tableaux pas interactifs --> à régler
+#### What would you like to work on next week?
+* régler problèmes site github
+* données ECD de taille ? commencer analyses hotspots juvéniles --> quand aurons-nous les données ?
+* faire tourner les SOM sur ttes les périodes types (jusqu'à mtn seulement 91-98 et 99-04 (?))
+* reregarder fonctionnement et théorie du package dynamictreecut pour pouvoir répondre à d'éventuelles questions
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* données tailles juvéniles ?
+#### Any other topics
+* pourrais-je même passer toute la semaine prochaine en télétravail à Genève ? et partir dimanche
+#### Weekly meeting
+* jeudi
