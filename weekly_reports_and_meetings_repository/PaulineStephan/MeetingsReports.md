@@ -72,14 +72,14 @@
   * Papier de Manocci pas référence espèces à protéger
   * A faire: recherche biblio, liste totale et shortlist des espèces accessoires avec statut IUCN et autres infos si nécessaire
   * aussi chercher sources de données potentielles, p.ex. cartes de distribution
- * discussion sur cartes années et saison types sur périodes moratoires:
+* discussion sur cartes années et saison types sur périodes moratoires:
   * comparer clusters de période en période
   * refaire tourner avec CPUE pour voir si clusters tjrs différents (91-98 VS 99-03)
   * quand moatoires respectés pas clair si effets du moratoire ou de changements environnementaux sur les clusters
   * si pas respectés mieux pour nous (merci le Ghana)
- * présentation générale des outputs: 
+* présentation générale des outputs: 
   * associer boxplots par clusters (colorés avec même couleurs) aux cartes en plus des timeseries
   * timeseries par espèces: ne pas utiliser des couleurs, plutôt linetype, sinon perturbant car couleur=cluster
- * discussion juvéniles et T3
+* discussion juvéniles et T3
   * appliquer proportions T3+ aux données d'entrée SOM (juvénile BET, juvénile YFT, SKJ, espèces accessoires)
   * comme ça aussi au lieu de zones d'interdiction, zones de recommendations à la pêche
