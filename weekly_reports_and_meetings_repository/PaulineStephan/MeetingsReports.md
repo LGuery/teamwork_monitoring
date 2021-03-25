@@ -5,6 +5,7 @@
 * [19 février](#19-février)
 * [24 février](#24-février)
 * [3 mars](#3-mars)
+* [25 mars](#25-mars)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -62,3 +63,23 @@
 * problème T3: lisse trop les proportions, pas génial pour nous
 * autre considération: variation de la proportion des gos au fil des années, peut-on appliquer la même sur une période type, ou toutes les périodes?
 * a faire: tableau résumé des captures à l'intérieur des zones moratoires pendant les moratoires
+# 25 mars
+* doc ICCAT résumé respect (ou non) des zones moratoires depuis leur introduction 
+  * faire histogrammes par périodes et pays (inside VS outside), cartes moratoires
+  * premier draft pour envoyer à Mauricio 
+* corrections ppt pour conférence CEMEB
+* discussion données espèces accessoires: 
+  * Papier de Manocci pas référence espèces à protéger
+  * A faire: recherche biblio, liste totale et shortlist des espèces accessoires avec statut IUCN et autres infos si nécessaire
+  * aussi chercher sources de données potentielles, p.ex. cartes de distribution
+ * discussion sur cartes années et saison types sur périodes moratoires:
+  * comparer clusters de période en période
+  * refaire tourner avec CPUE pour voir si clusters tjrs différents (91-98 VS 99-03)
+  * quand moatoires respectés pas clair si effets du moratoire ou de changements environnementaux sur les clusters
+  * si pas respectés mieux pour nous (merci le Ghana)
+ * présentation générale des outputs: 
+  * associer boxplots par clusters (colorés avec même couleurs) aux cartes en plus des timeseries
+  * timeseries par espèces: ne pas utiliser des couleurs, plutôt linetype, sinon perturbant car couleur=cluster
+ * discussion juvéniles et T3
+  * appliquer proportions T3+ aux données d'entrée SOM (juvénile BET, juvénile YFT, SKJ, espèces accessoires)
+  * comme ça aussi au lieu de zones d'interdiction, zones de recommendations à la pêche
