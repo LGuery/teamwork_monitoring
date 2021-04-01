@@ -2,7 +2,9 @@
 
 ### Thèse IRD 
 
-* [9 February 2021](#date-9th-february-2020)
+* [1 April 2021](#date-1st-april-2021)
+
+* [9 February 2021](#date-9th-february-2021)
 
 * [25 November 2020](#date-25th-november-2020)
 
@@ -58,6 +60,30 @@
 
 * [12 December 2019](#date-12th-december-2019)  
 
+-------------------------------------------------------------------  
+
+### Date: 1st April 2021
+
+Note to myself => think to change the name of these reports that are not weekly at all
+
+#### Reunion du 1er avril
+
+* Point sur la soumission des papiers => c'est fait
+* Discussion sur prochaine réu avec Matthieu
+  Odj : 
+  
+1) Rétrospective depuis la dernière grosse réunion (boulot + humain)
+2) INLA: où est-ce qu'on en est, qu'est ce qu'on veut en faire, quels sont les objectifs de cette partie à court, moyen et long termes + déplacement LR (emble compromis d'en parler maintenant) => intégration des travaux de Pauline 
+3) Présentation et discussion autours des objectifs de thèse pour la suite et fin.
+  + Introduction de bayésien dans le RR (cf Ruderhausen)
+  + Simulations de données de tag-recaptures en utilisant les données de marques électroniques ?
+  + Continuité des SMO ?
+  + Chapitre propositions de gestion
+4) Projet de césure + présentation du projet associatif (désolé Matthieu, annoncé comme ça, ça peut être surprenant ^^ )
+  + Présentation du projet 
+  + Questions sur la faisabilité académiques => ok DRED + ED 
+  + Question retraite Daniel
+  
 
 -------------------------------------------------------------------  
 
