@@ -25,11 +25,17 @@ ascertained through fishers’ echo-sounder buoys.
 * Peña et al. 2015 - Nonlinear ecol processes driving the distrib of marine decapod larvae
 ## Semaine 25.01 - 29.01
 * Maxwell et al. 2015 - Dynamic ocean management
+## Semaine 05.04 - 09.04 (et avant...)
+* Clavareau 2020
+* Lezama-Ochoa 2016 - present and future habitat distrib silky shark
+* Lezama-Ochoa 2020 - sptio-temporal distib of M. mobular
+* Orue et al. 2019 - aggregation process of drifting FADs in western IO
+* Torres-Ineo 2014 - bycactch species eastern trop. AO
+* 
 # A lire
 * Pecoraro et al. 2017 - YFT biology ecology fisheries status
 * Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
 * Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
-* Orue et al. 2019 - aggregation process of drifting FADs in western IO
 * Sardenne et al. 2019
 * Carruthers et al. 2010 - simulating spatial dynamics (for deriving abundance) of trop tunas
 * Capello et al. 2016 - pop. assessment of trop. tuna behavior floating objects
@@ -49,5 +55,4 @@ ascertained through fishers’ echo-sounder buoys.
 * Maufroy et al. 2015
 * Sempo et al. 2013
 * Zuur et al. 2010
-* Lezama-Ochoa et al. 2016
 * Imzilen 2021
