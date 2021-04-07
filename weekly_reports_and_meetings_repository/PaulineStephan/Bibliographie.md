@@ -26,6 +26,7 @@ ascertained through fishers’ echo-sounder buoys.
 ## Semaine 25.01 - 29.01
 * Maxwell et al. 2015 - Dynamic ocean management
 ## Semaine 05.04 - 09.04 (et avant...)
+* Amandè et al. 2010 - bycatch of EU PS 2003-2007
 * Clavareau 2020
 * Lezama-Ochoa 2016 - present and future habitat distrib silky shark
 * Lezama-Ochoa 2020 - sptio-temporal distib of M. mobular
@@ -50,7 +51,6 @@ ascertained through fishers’ echo-sounder buoys.
 * Maravelias et al. 2014
 * Pupasari et al. 2019
 * Emery et al. 2015
-* Amandè et al. 2010
 * Gilman et al. 2015
 * Forget et al. 2015
 * Maufroy et al. 2015
