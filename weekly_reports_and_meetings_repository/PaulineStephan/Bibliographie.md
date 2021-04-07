@@ -29,6 +29,7 @@ ascertained through fishers’ echo-sounder buoys.
 * Clavareau 2020
 * Lezama-Ochoa 2016 - present and future habitat distrib silky shark
 * Lezama-Ochoa 2020 - sptio-temporal distib of M. mobular
+* Lopez 2020 - distrib of juvenile silky shark based on fisheries data
 * Orue et al. 2019 - aggregation process of drifting FADs in western IO
 * Torres-Ineo 2014 - bycactch species eastern trop. AO
 * 
