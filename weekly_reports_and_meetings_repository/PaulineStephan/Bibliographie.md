@@ -31,6 +31,7 @@ ascertained through fishers’ echo-sounder buoys.
 * Lezama-Ochoa 2016 - present and future habitat distrib silky shark
 * Lezama-Ochoa 2020 - sptio-temporal distib of M. mobular
 * Lopez 2020 - distrib of juvenile silky shark based on fisheries data
+* Pikesley et al. 2013 - olive ridley sea turtle distrib in southeastern atlantic (--> part of our study zone)
 * Orue et al. 2019 - aggregation process of drifting FADs in western IO
 * Torres-Ineo 2014 - bycactch species eastern trop. AO
 * 
