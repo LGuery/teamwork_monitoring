@@ -10,6 +10,7 @@
 * [3 mars](#3-mars)
 * [10 mars](#10-mars)
 * [22 mars](#22-mars)
+* [8 avril](#8-avril)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -214,3 +215,20 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 * pourrais-je même passer toute la semaine prochaine en télétravail à Genève ? et partir dimanche
 #### Weekly meeting
 * jeudi
+## 8 avril
+#### What did you achieve?
+* recherches biblio et datasets sur espèces accessoires --> tableau excel avec statut IUCN etc., docs sur TunaSOM dans dossier "AssociatedSpecies"
+* premiers tests SOM et GAM sur tortue olivâtre (celle avec le + de données) pour essayer de déterminer la meilleure stratégie (repris mes scripts de l'ETHZ, un peu le bazar, en parlant de science reproductible...)
+* assisté à deux webinaires: restauration écologique sur la côte méditerranéenne et "entreprises et biodiversité" pareil en zone méditerranéenne
+* reçu enfin réponse Oikos --> ils acceptent l'article, avec juste 2-3 petits changements de rien du tout à faire !! trop cool 
+#### What did you struggle with?
+* les données des espèces accessoires, reprises des scripts GAM, réfléchir à stratégie etc. --> ce sera bien d'en parler mardi, j'ai du mal à prendre des décisions
+#### What would you like to work on next week?
+* espèces accessoires
+* Quand aurai-je les données des juvéniles ?
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* données juvéniles
+* espèces accessoires 
+#### Any other topics
+#### Weekly meeting
+* mardi prochain à la station 13.04
