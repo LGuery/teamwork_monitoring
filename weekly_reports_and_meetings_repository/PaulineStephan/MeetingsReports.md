@@ -6,6 +6,7 @@
 * [24 février](#24-février)
 * [3 mars](#3-mars)
 * [25 mars](#25-mars)
+* [12 avril](#12-avril)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -83,3 +84,6 @@
 * discussion juvéniles et T3
   * appliquer proportions T3+ aux données d'entrée SOM (juvénile BET, juvénile YFT, SKJ, espèces accessoires)
   * comme ça aussi au lieu de zones d'interdiction, zones de recommendations à la pêche
+ # 12 avril
+ [Meeting 12 avril.docx](https://github.com/LGuery/teamwork_monitoring/files/6303591/Meeting.12.avril.docx)
+
