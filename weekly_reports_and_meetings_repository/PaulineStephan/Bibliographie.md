@@ -34,28 +34,30 @@ ascertained through fishers’ echo-sounder buoys.
 * Pikesley et al. 2013 - olive ridley sea turtle distrib in southeastern atlantic (--> part of our study zone)
 * Orue et al. 2019 - aggregation process of drifting FADs in western IO
 * Torres-Ineo 2014 - bycactch species eastern trop. AO
-* 
+## Semaine 12.04 - 19.04
+*
 # A lire
-* Wang et al. 2018 - SKJ habitat réseaux neuronaux
-* Pecoraro et al. 2017 - YFT biology ecology fisheries status
-* Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
-* Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
-* Sardenne et al. 2019
-* Carruthers et al. 2010 - simulating spatial dynamics (for deriving abundance) of trop tunas
-* Capello et al. 2016 - pop. assessment of trop. tuna behavior floating objects
-* Erauskin‐Extramiana et al. 2019 - large scale distrib of tuna species in warming ocean
-* Pérez et al. 2020 - effect of FADs on movement behavior of tropical tunas
-* Fonteneau et al. 2013 - historical perspective on FADs
 * Babcock et al. 2005
+* Capello et al. 2016 - pop. assessment of trop. tuna behavior floating objects
+* Carruthers et al. 2010 - simulating spatial dynamics (for deriving abundance) of trop tunas
+* Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
+* Druen et al. 2015 - env factors CTOI
 * Eide 2017
-* Philippsen et al. 2019
-* Zhang et al. 2015
-* Maravelias et al. 2014
-* Pupasari et al. 2019
 * Emery et al. 2015
-* Gilman et al. 2015
+* Erauskin‐Extramiana et al. 2019 - large scale distrib of tuna species in warming ocean
+* Fonteneau et al. 2013 - historical perspective on FADs
 * Forget et al. 2015
-* Maufroy et al. 2015
-* Sempo et al. 2013
-* Zuur et al. 2010
+* Gilman et al. 2015
 * Imzilen 2021
+* Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
+* Maravelias et al. 2014
+* Maufroy et al. 2015
+* Pecoraro et al. 2017 - YFT biology ecology fisheries status
+* Pérez et al. 2020 - effect of FADs on movement behavior of tropical tunas
+* Philippsen et al. 2019
+* Pupasari et al. 2019
+* Sardenne et al. 2019
+* Sempo et al. 2013
+* Wang et al. 2018 - SKJ habitat réseaux neuronaux
+* Zhang et al. 2015
+* Zuur et al. 2010
