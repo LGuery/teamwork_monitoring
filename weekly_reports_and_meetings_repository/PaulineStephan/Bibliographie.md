@@ -36,6 +36,7 @@ ascertained through fishers’ echo-sounder buoys.
 * Torres-Ineo 2014 - bycactch species eastern trop. AO
 * 
 # A lire
+* Wang et al. 2018 - SKJ habitat réseaux neuronaux
 * Pecoraro et al. 2017 - YFT biology ecology fisheries status
 * Jaquemet et al. 2011 - drifting VS anchored FAD influence on tuna feeding habits
 * Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
