@@ -41,6 +41,7 @@ ascertained through fishers’ echo-sounder buoys.
 * Capello et al. 2016 - pop. assessment of trop. tuna behavior floating objects
 * Carruthers et al. 2010 - simulating spatial dynamics (for deriving abundance) of trop tunas
 * Conrad and Adu-... 1983 - single and multispecies systems: case of eastern trop atl
+* Dagorn et al. 2012 - Targeting bigger schools can reduce ecosystem impacts of fisheries --> stats on bycatch rates on FADs
 * Druen et al. 2015 - env factors CTOI
 * Eide 2017
 * Emery et al. 2015
