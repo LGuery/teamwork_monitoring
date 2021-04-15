@@ -11,6 +11,7 @@
 * [10 mars](#10-mars)
 * [22 mars](#22-mars)
 * [8 avril](#8-avril)
+* [15 avril](#15-avril)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -232,3 +233,22 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * mardi prochain à la station 13.04
+## 15 avril
+#### What did you achieve?
+* longue discussion mardi avec Loreleï et Daniel sur les données juvéniles (T3, T3+, etc.; cf. meetings reports 12 avril)
+* rdv avec Bastien et Loreleï pour parler de la clusterisation --> tests sur les différentes méthodes et distances
+* peaufiné le paper Oikos, j'attends les dernier changements des deux autres pour l'envoyer et normalement ce sera réglé
+* cherché des infos sur ttes les espèces accessoires candidates, pour que finalement on choisisse en 2min ...
+* cherché les bases de donnés ICCAT et WoS pour d'éventuels datasets bycatch
+#### What did you struggle with?
+* ça me démotive un peu de tjrs pas avoir les données juvéniles et espèces accessoires parce que j'ai l'impression que ça m'empêche d'avancer et que je fais d'autres choses pour meubler... déjà que c'est pas facile d'être efficace en télétravail
+#### What would you like to work on next week?
+* envoyer un email à Mr. Rakotomalala pour lui demander pourquoi il passe par un dendrogramme
+* j'aimerais beaucoup qu'on obtienne les données dont on a besoin
+* je commencerai le rapport pour fin avril
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* les données
+* un feedback sur mon 1er rapport
+#### Any other topics
+#### Weekly meeting
+* mardi ou mercredi prochain à la station?
