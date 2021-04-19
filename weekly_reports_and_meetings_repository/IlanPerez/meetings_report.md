@@ -2,6 +2,7 @@
 
 ### Thèse IRD, rapports de nos réunions d'encadrement
 
+* [19th April 2021](#date-19th-april-2021)Reu encadrement
 * [19th October 2020](#date-19th-october-2020)22e CTOI WPTT
 * [28th July 2020](#date-28th-july-2020)réu SMO choix de la suite du projet
 * [22nd July 2020](#date-22nd-july-2020)réu reprise et objectifs de l'été
@@ -17,6 +18,42 @@
 * [20 January 2020](#date-20th-january-2020)Previous exploration    
 * [13 January 2020](#date-13th-january-2020)Gipsy's script
 * [12 December 2019](#date-12nd-december-2019) :airplane: :rocket: Kick-off! 
+------------------------------------------------------------------
+### Date: 19th April 2021
+
+## I-Retrospective
+
+* Point Com
+  + Quoi faire des SMO si pas accepté ? Dans une autre revue ou pas ? Sur Bioarchive ?
+  + Modifier Abstract AFH
+  +
+
+* Point Pauline
+  + Impliqué quand même et fait le job   
+
+## II-INLA
+
+* Objectifs
+ + Commencer à refaire l'Atlantique directement
+ + Faire un document qui détaille le SPDE et le CAR Besag, cartographie des entrées et sorties
+ +
+ 
+### Long terme
+
+* Pauline => plutôt parallèle, à redefinir en fin de stage. On ne va pas donner des cartes à Pauline car pas de timing.
+* Déplacement à LR => compliqué car conditions compliquées
+* Mettre en place des réunions fréquentes techniques avec Markdown format 1h
+*
+## III-Objectifs long terme
+
+* RR
+ + Simulations de données de Marquage Crawl ? 
+ + Bayesien => resultat très instable (dénominateur) => pourrrait donner de la stabilité. Mais peut on trouver un prior informatif ? Nicolas Bousquet comme ressource potentielle.
+ + SMO intéressant pour les hotpsots ? 
+ 
+=> faire un diagramme qui montre comment une tâche non accomplie peut avoir une répercussion sur le reste
+
+
 ------------------------------------------------------------------
 ### Date: 19th October 2020
 
