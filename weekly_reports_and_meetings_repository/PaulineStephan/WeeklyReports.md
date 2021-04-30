@@ -12,6 +12,7 @@
 * [22 mars](#22-mars)
 * [8 avril](#8-avril)
 * [15 avril](#15-avril)
+* [30 avril](#30-avril)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -252,3 +253,21 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * mardi ou mercredi prochain à la station?
+## 30 avril
+#### What did you achieve?
+* envoyé version finale du papier oikos
+* tests SOM silky shark, digitalisation cartes Lopez
+* rapport mars-avril
+* déjeuner chez Lisode
+* email Rakotomalala
+#### What did you struggle with?
+* tjrs cette histoire de données qui me démotivait un peu, mais bon ça y est je suis fixée, tant pis pour l'Ob7
+#### What would you like to work on next week?
+* trouver données autres espèces accessoires, style Lopez 2020
+* écrire et faire tourner scripts finaux pour décider quels résultats j'utiliserai pour le papier
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* un feedback sur mon 1er rapport ?
+* idées papier --> quel point focal ?
+#### Any other topics
+#### Weekly meeting
+* skype lundi ou mardi, mercredi tous à la station
