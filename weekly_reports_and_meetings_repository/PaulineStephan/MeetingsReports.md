@@ -7,6 +7,7 @@
 * [3 mars](#3-mars)
 * [25 mars](#25-mars)
 * [12 avril](#12-avril)
+* [4 mai](#4-mai)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -86,4 +87,11 @@
   * comme ça aussi au lieu de zones d'interdiction, zones de recommendations à la pêche
  # 12 avril
  [Meeting 12 avril.docx](https://github.com/LGuery/teamwork_monitoring/files/6303591/Meeting.12.avril.docx)
-
+ # 4 mai
+ * tester data flow et méthodes sur jeu de données iris
+ * simuler datasets thons avec et sans hotspots, d'une ou plusieurs espèces, pour voir si la méthode les détecte
+ * reprendre script et visualiser données après chaque étape (+ schéma data flow pour clarification) + stats descriptives (prop. par espèces etc)
+ * prendre somme, pas médiane, et log1p pas log10
+ * CPUE brutes 5x5 marlins pêcheries japonaises à chercher dans stock assessment
+ * OBJECTIF 18 juin: tous résultats, plus d'analyses à faire tourner, squelette papier
+ * multiplier indice abondance requins pour que ça ressemble à du tonnage
