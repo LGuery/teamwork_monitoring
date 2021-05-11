@@ -8,6 +8,7 @@
 * [25 mars](#25-mars)
 * [12 avril](#12-avril)
 * [4 mai](#4-mai)
+* [11 mai](#11-mai)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -95,3 +96,10 @@
  * CPUE brutes 5x5 marlins pêcheries japonaises à chercher dans stock assessment
  * OBJECTIF 18 juin: tous résultats, plus d'analyses à faire tourner, squelette papier
  * multiplier indice abondance requins pour que ça ressemble à du tonnage
+  # 11 mai
+ * refaire tourner script (DataFlow_SOM_May) avec données FAD (pas en incluant FSC, cependant ça nous a permis de tester la méthode sur un cluster connu, gros bancs libres YFT, et de voir sur quelles données et avec quel clustering ça marchait le mieux ! erreur pas si énervante finalement)
+ * ajouter à ce script un center/scale sans log1p() avant
+ * Eff2 valeurs <1 alors que captures qd mm significatives --> Daniel a envoyé un email à Carlos, il se trouve que ce sont les données du Ghana
+   * sinon envoyer mail à l'ob7 (laurent et mathieu)
+ * pour simulation: tester ajouter cluster BET avec fourchette de valeurs plausibles, càd tonnage bien inférieur au SKJ --> ce cluster sera-t-il détecté ?
+ * regarder publications pour voir si papier SOM purement méthodo / comparaison méthodos
