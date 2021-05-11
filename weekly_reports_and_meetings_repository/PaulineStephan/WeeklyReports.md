@@ -13,6 +13,7 @@
 * [8 avril](#8-avril)
 * [15 avril](#15-avril)
 * [30 avril](#30-avril)
+* [11 mai](#11-mai)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -271,3 +272,21 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * skype lundi ou mardi, mercredi tous à la station
+## 11 mai
+#### What did you achieve?
+* papier oikos accepté !
+* scripts méthodo iris, et task 2 iccat avec tableau résumé
+* simulations jeu de données purement aléatoire dans l'espace (mais moyenne et déviation standard tirées de task2)
+#### What did you struggle with?
+* motivation en télétravail
+#### What would you like to work on next week?
+* trouver données autres espèces accessoires, style Lopez 2020
+* écrire et faire tourner scripts finaux pour décider quels résultats j'utiliserai pour le papier
+* proposer structure/fil rouge papier pour validation et pouvoir commencer à prendre des notes/réfléchir au contenu
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* la même chose que la dernière fois car j'ai oublié de demander
+  * un feedback sur mon 1er rapport ?
+  * idées papier --> quel point focal ?
+#### Any other topics
+#### Weekly meeting
+* skype ce matin, semaine prochaine tous à la station mercredi (ou jeudi je sais plus)
