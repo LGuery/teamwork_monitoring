@@ -14,6 +14,7 @@
 * [15 avril](#15-avril)
 * [30 avril](#30-avril)
 * [11 mai](#11-mai)
+* [19 mai](#19-mai)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -290,3 +291,22 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * skype ce matin, semaine prochaine tous à la station mercredi (ou jeudi je sais plus)
+## 19 mai
+#### What did you achieve?
+* simulations plusieurs hotspots sur 12 mois, avec indices abondances deux espèces accessoires --> la méthode marche !
+* commencé squelette papier
+#### What did you struggle with?
+* la fatigue
+* j'ai rayé le toit de ma voiture :(
+* c'est vrai qu'on aurait dû faire ces simulations bien avant...
+#### What would you like to work on next week?
+* finir ttes les simulations (tester seuil de détection des hotspots)
+* appliquer la méthode aux vraies données pour une année/une année type sur une période
+* d'ailleurs je dois envoyer mon deuxième rapport, je n'ai pas tout à fait fini la discussion mais il est un peu tombé dans l'oubli le pauvre
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* la même chose que la dernière fois
+  * un feedback sur mon 1er rapport ?
+  * idées papier --> quel point focal ?
+#### Any other topics
+#### Weekly meeting
+* vendredi tous à la station
