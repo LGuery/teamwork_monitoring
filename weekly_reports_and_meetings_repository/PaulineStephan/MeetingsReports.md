@@ -9,6 +9,7 @@
 * [12 avril](#12-avril)
 * [4 mai](#4-mai)
 * [11 mai](#11-mai)
+* [21 mai](#21-mai)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -103,3 +104,15 @@
    * sinon envoyer mail à l'ob7 (laurent et mathieu)
  * pour simulation: tester ajouter cluster BET avec fourchette de valeurs plausibles, càd tonnage bien inférieur au SKJ --> ce cluster sera-t-il détecté ?
  * regarder publications pour voir si papier SOM purement méthodo / comparaison méthodos
+ # 21 mai
+ * présenté résultats simus:
+   * globalement méthode marche, à part pour le cluster BET mois 11 avec 5 espèces --> sortir les observations de ce hotspot et voir dans quels clusters elles ont atterri et avec quelles prises des autres espèces elles sont associées + chercher si dû à seuil de détection ou influence autres variables (changer mois du hotspot et niveau de captures)
+   * refaire même simus et chercher le seuil de détection des hotspots (+5,10,15t etc.)
+ * discussion orientation papier:
+   * pas orienté méthodo
+   * checker biblio pour voir si papiers méthodos sur seuil de détection influence nb de variables etc SOM
+   * orienter papier sur l'application gestion des pêcheries
+   * pour résultats, faire tourner par années indivuelles 91-98 (avant moratoires) et 2012 - 2016 (comparer les mois)
+   * résultats des simus dans supplementary material
+   * question proportion juvéniles etc dans discussion
+   * fichiers rmd (propres) pour science reproductible sur repository public github --> faire le ménage (evtl télécherger donnéEs iccat dans script depuis internet)
