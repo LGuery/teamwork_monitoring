@@ -319,7 +319,7 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 * notes articles par ci par là
 #### What did you struggle with?
 * combiner les données silky shark avec les données iccat par mois, je sais pas pourquoi R ne reconnaissait pas les mois 9 et 12 dans les nouvelles lignes que j'avais créées avec expandRows(). Avant de jeter mon ordi par la fenêtre j'ai fini par le faire sur excel et ça m'a pris 5 minutes....
-* je sens que ça va être difficile de passer à la rédaction et de syntétiser tout ça d'une manière claire
+* je sens que ça va être difficile de passer à la rédaction et de synthétiser tout ça d'une manière claire
 #### What would you like to work on next week?
 * réfléchir aux résultats que je vais présenter dans le manuscrit
 * me remettre dans la biblio
