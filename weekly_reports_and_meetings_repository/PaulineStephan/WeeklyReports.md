@@ -15,6 +15,7 @@
 * [30 avril](#30-avril)
 * [11 mai](#11-mai)
 * [19 mai](#19-mai)
+* [26 mai](#26-mai)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -310,3 +311,21 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * vendredi tous à la station
+## 26 mai
+#### What did you achieve?
+* fini simulations, aussi qques simus pour seuil de détection
+* SOM années 1994-1998 et 2012-2016, avec tableaux résumant les résultats
+* petites recherches biblios méthodos
+* notes articles par ci par là
+#### What did you struggle with?
+* combiner les données silky shark avec les données iccat par mois, je sais pas pourquoi R ne reconnaissait pas les mois 9 et 12 dans les nouvelles lignes que j'avais créées avec expandRows(). Avant de jeter mon ordi par la fenêtre j'ai fini par le faire sur excel et ça m'a pris 5 minutes....
+* je sens que ça va être difficile de passer à la rédaction et de syntétiser tout ça d'une manière claire
+#### What would you like to work on next week?
+* réfléchir aux résultats que je vais présenter dans le manuscrit
+* me remettre dans la biblio
+* commencer rédaction
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* sélection résultats ?
+#### Any other topics
+#### Weekly meeting
+* demain jeudi
