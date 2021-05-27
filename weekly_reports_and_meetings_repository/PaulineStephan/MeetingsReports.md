@@ -10,6 +10,7 @@
 * [4 mai](#4-mai)
 * [11 mai](#11-mai)
 * [21 mai](#21-mai)
+* [27 mai](#27-mai)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -116,3 +117,13 @@
    * résultats des simus dans supplementary material
    * question proportion juvéniles etc dans discussion
    * fichiers rmd (propres) pour science reproductible sur repository public github --> faire le ménage (evtl télécherger donnéEs iccat dans script depuis internet)
+  # 27 mai
+  * pour visualisation des clusters de forte abondance 1 ou plusieurs espèces sur carte géographiqe:
+    * soit extraire visuellement clusters d'intérêt et ne représenter que ceux-là sur la carte, et/ou les entourer en noir ou les faire ressortir d'une manière ou d'une autre
+    * sinon développer métrique pour sélectionner automatiquement les clusters de forte abondance --> distance médianes successives
+    * sinon histogramme et définir % pour couper les captures qu'on veut représenter sur la carte
+    * pour simulations: tracer lignes autour de la zone cluster pour meilleure visu
+    * sinon catégoriser abondance thons comme pour les requins etc et faire des bar plots
+    * ou sinon créer indice de vulnérabilité par espèce (basé sur le carré de Kobé) et pondérer la couleur du cluster/des prises associées au cluster en fonction de ça --> p.ex. prendre la médiane de capture par espèce et calculer l'indice là-dessus, ensuite plus la couleur est foncée plus le cluster est "vulnérable"
+   * pour valeurs NA des requins --> mettre à 0 (regarder comment SOM gère NA)
+   * commencer rédac
