@@ -16,6 +16,7 @@
 * [11 mai](#11-mai)
 * [19 mai](#19-mai)
 * [26 mai](#26-mai)
+* [14 juin](#14-juin)
 -------------------------------------------------------------------
 ## Date: 8th January 2021
 #### Who helped you this week? 
@@ -329,3 +330,16 @@ Loreleï (rmarkdown, github), Daniel (admin etc.)
 #### Any other topics
 #### Weekly meeting
 * demain jeudi
+## 14 juin
+#### What did you achieve?
+* commencé rédac manuscrit (mat&met, résultats, qques points discussion), illustrations
+* extraits derniers résultats
+* màj tableau biblio
+#### What did you struggle with?
+#### What would you like to work on next week?
+* rédac et biblio
+#### Where do you need help from Daniel, Lorelei, Ilan or others?
+* rédac
+#### Any other topics
+#### Weekly meeting
+* ce matin et jeudi pour mon départ
