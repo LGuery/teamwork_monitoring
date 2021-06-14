@@ -11,6 +11,7 @@
 * [11 mai](#11-mai)
 * [21 mai](#21-mai)
 * [27 mai](#27-mai)
+* [14 juin](#14-juin)
 # 25 janvier
 * discuté du système de coordonnées géographiques ICCAT (cadrans par rapport au 0°/0°), mais en fait les coordonnées classiques sont aussi dispos dans le dataset
 * comparer carte SOM à carte géographique classique des captures juvéniles (zB Gipsy) pour validation
@@ -127,3 +128,9 @@
     * ou sinon créer indice de vulnérabilité par espèce (basé sur le carré de Kobé) et pondérer la couleur du cluster/des prises associées au cluster en fonction de ça --> p.ex. prendre la médiane de capture par espèce et calculer l'indice là-dessus, ensuite plus la couleur est foncée plus le cluster est "vulnérable"
    * pour valeurs NA des requins --> mettre à 0 (regarder comment SOM gère NA)
    * commencer rédac
+  # 14 juin
+  * discussion sur manuscrit
+  * Loreleï va demander à Olivier Gimenez s'il pourrait passer dans MEE, sinon ecological modelling
+  * garder format un peu hybride méthodo/gestion
+  * insister sur aspect pluri-spécifiques et multi-objectifs et questions qui en découlent
+  * autres points en commentaires dans le word mais en gros mettre méthodo + en avant dans intro et titre, résultats simus, mieux expliquer simus dans mat&met, insister sur objectifs
